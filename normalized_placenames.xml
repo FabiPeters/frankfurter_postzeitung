@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPlace xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <place key="Q25409">
+        <placeName>Košice</placeName>
+    </place>
+    <place key="Q1741">
+        <placeName>Wien</placeName>
+    </place>
+    <place key="Q1085">
+        <placeName>Prag</placeName>
+    </place>
+    <place key="Q220">
+        <placeName>Rom</placeName>
+    </place>
+    <place key="Q641">
+        <placeName>Venedig</placeName>
+    </place>
+    <place key="Q36600">
+        <placeName>Den Haag</placeName>
+    </place>
+    <place key="Q365">
+        <placeName>Köln</placeName>
+    </place>
+    <place key="Q1754">
+        <placeName>Stockholm</placeName>
+    </place>
+    <place key="Q39">
+        <placeName>Schweiz</placeName>
+    </place>
+    <place key="Q1780">
+        <placeName>Bratislava</placeName>
+    </place>
+    <place key="Q727">
+        <placeName>Amsterdam</placeName>
+    </place>
+    <place key="Q1713787">
+        <placeName>Rudolfov</placeName>
+    </place>
+    <place key="Q456">
+        <placeName>Lyon</placeName>
+    </place>
+    <place key="Q2978">
+        <placeName>Regensburg</placeName>
+    </place>
+    <place key="Q578688">
+        <placeName>Pfaffenschlag bei Waidhofen an der Thaya</placeName>
+    </place>
+    <place key="Q31487">
+        <placeName>Krakau</placeName>
+    </place>
+    <place key="Q12548">
+        <placeName>?</placeName>
+    </place>
+    <place key="Q90">
+        <placeName>Paris</placeName>
+    </place>
+    <place key="Q43453">
+        <placeName>Pilsen</placeName>
+    </place>
+    <place key="Q16506">
+        <placeName>Budweis</placeName>
+    </place>
+    <place key="Q11925">
+        <placeName>Kanton Graubünden</placeName>
+    </place>
+    <place key="Q6596">
+        <placeName>Gorizia</placeName>
+    </place>
+    <place key="Q1799">
+        <placeName>Breslau</placeName>
+    </place>
+    <place key="Q2773">
+        <placeName>Braunschweig</placeName>
+    </place>
+    <place key="Q1733">
+        <placeName>Magdeburg</placeName>
+    </place>
+    <place key="Q2079">
+        <placeName>Leipzig</placeName>
+    </place>
+    <place key="Q1055">
+        <placeName>Hamburg</placeName>
+    </place>
+    <place key="Q1718">
+        <placeName>Düsseldorf</placeName>
+    </place>
+    <place key="Q134494">
+        <placeName>Győr</placeName>
+    </place>
+</listPlace>
