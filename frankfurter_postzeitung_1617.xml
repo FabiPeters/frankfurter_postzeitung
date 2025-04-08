@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frankfurter Postzeitung, Jahrgang 1617.</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/135774314">
+                  <surname>Sahle</surname>
+                  <forename>Patrick</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <orgName>Bergische Universität Wuppertal: Praxisseminar zur Quellenerschließung der Frankfurter Postzeitung (1618-1648) am
+                                Lehrstuhl für Digital Humanities, WiSe 2020/21. </orgName>
+               <persName>
+                  <forename>...</forename>
+                  <surname>...</surname>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription</note>
+                  <note type="remarkResponsibility">Text Encoding</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName>Bergische Universität Wuppertal: Praxisseminar zur Quellenerschließung der Frankfurter Postzeitung (1618-1648) am
+                                Lehrstuhl für Digital Humanities, WiSe 2020/21. </orgName>
+               <persName>
+                  <forename>Patrick</forename>
+                  <surname>Sahle</surname>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Korrektur der Texttranskription</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName>Bergische Universität Wuppertal: Praxisseminar zur Quellenerschließung der Frankfurter Postzeitung (1618-1648) am
+                                Lehrstuhl für Digital Humanities, WiSe 2020/21. </orgName>
+               <persName>
+                  <forename>Jana</forename>
+                  <surname>Klinger</surname>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Korrektur der Texttranskription</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName>Bergische Universität Wuppertal: BA-Projekt 2025.</orgName>
+               <persName>
+                  <forename>Fabian</forename>
+                  <surname>Peters</surname>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Text Encoding</note>
+                  <note type="remarkResponsibility">Korrektur der Texttranskription</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Bilddigitalisate</note>
+                  <ref target="https://brema.suub.uni-bremen.de/zeitungen17/periodical/titleinfo/934741"> Digitale Sammlungen der
+                                    Staats- und Universitätsbibliothek Bremen</ref>
+               </resp>
+               <orgName ref="http://d-nb.info/gnd/130088-X">Staats- und Universitätsbibliothek Bremen</orgName>
+               <orgName ref="http://d-nb.info/gnd/2031351-2">Bayerische Staatsbibliothek München</orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Publikation</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="project" xml:lang="de">Praxisseminar Quellenerschließung</orgName>
+               <email>sahle@uni-wuppertal.de</email>
+               <address>
+                  <addrLine>Gaußstr. 20, 42119 Wuppertal</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Wuppertal</pubPlace>
+            <date type="publication">2020</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/3.0/de/">
+                  <p>Creative Commons - Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob
+                        Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so,
+                        dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Weitergabe unter gleichen
+                        Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur
+                        unter derselben Lizenz wie das Original verbreiten. </p>
+               </licence>
+            </availability>
+            <idno/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="remarkSource"> Der Bestand der Frankfurter Postzeitung umfasst den Zeitraum von 1615 bis 1779, ist jedoch lückenhaft. Mit
+                Blick auf die Publikationszeiträume ist eine Variation in dem Zeitungstitel erkennbar. Teilweise ist kein Titel überliefert.
+                Periodizität: wöchentlich, mitunter öfter. Erscheint 1632 - 1635[?] mit in d. lfd. Zählung integrierten Extra-Ausgaben. Ungezählte
+                Beil. 1627: Appendix</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl>Frankfurter Postzeitung. Frankfurt a. M., Jahrgang 1617.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="j" type="main">Titellose Zeitung (Frankfurter Postzeitung)</title>
+                  <title level="j" type="sub">Frankfurter Kayserl. Reichs-Ober-Post-Amts-Zeitung</title>
+                  <editor>
+                     <persName ref="http://d-nb.info/gnd/124657788">
+                        <surname>Birghden</surname>
+                        <nameLink>von den</nameLink>
+                        <forename>Johann</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">4, ungefähr DIN A 5</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name/>
+                  </publisher>
+                  <pubPlace>Frankfurt am Main</pubPlace>
+                  <date type="publication">1617</date>
+               </publicationStmt>
+               <seriesStmt>
+                  <title level="j" type="main">Ordentliche Wochentliche Zeitungen</title>
+                  <biblScope unit="pages">4</biblScope>
+               </seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Staats- und Universitätsbibliothek Bremen (SuUB)</repository>
+                  <idno type="VD">14:703084T</idno>
+                  <idno type="URLCatalogue">https://brema.suub.uni-bremen.de/zeitungen17/periodical/calendar/934741?d=1617</idno>
+                  <idno type="PPN">779924320</idno>
+               </msIdentifier>
+               <physDesc>
+                  <typeDesc>
+                     <p>Fraktur</p>
+                     <p>Antiqua</p>
+                  </typeDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Die Transkription erfolgte nach den unter <ref>http://www.deutschestextarchiv.de/doku/basisformat</ref> formulierten
+                            Richtlinien.</p>
+            <p>Abkürzungsstriche: wie Vorlage; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: wie
+                            Vorlage; langes s (ſ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: wie
+                            Vorlage; Vokale mit übergest. e: wie Vorlage;  Zeichensetzung: wie Vorlage;
+                            Zeilenumbrüche markiert: ja; Zahlen; konsequent in Antiqua gesetzt;  Schwer bzw.
+                            nicht entzifferbare Zeichen und Auslassungen markiert: durch Fragezeichen markiert;</p>
+         </editorialDecl>
+         <tagsDecl>
+            <rendition scheme="css" xml:id="aq">font-family:sans-serif</rendition>
+            <rendition scheme="css" xml:id="et">display:block; margin-left:2em;</rendition>
+            <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+            <rendition scheme="css" xml:id="right">display:block; text-align:right</rendition>
+            <rendition scheme="css" xml:id="in">font-size:300%</rendition>
+            <rendition scheme="css" xml:id="g">letter-spacing:0.125em</rendition>
+            <rendition scheme="css" xml:id="b">font-weight: bold</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu">German</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Zeitung</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <TEI>
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Frankfurter Postzeitung, Jahrgang 1617, 40.</title>
+            </titleStmt>
+            <publicationStmt>
+               <p>[Spezifika der DTA-Ausgabe]</p>
+            </publicationStmt>
+            <sourceDesc>
+               <biblFull>
+                  <titleStmt>
+                     <title level="j" type="main">Titellose Zeitung (Frankfurter Postzeitung)</title>
+                     <title level="j" type="sub">Frankfurter Kayserl. Reichs-Ober-Post-Amts-Zeitung</title>
+                     <editor>
+                        <persName ref="http://d-nb.info/gnd/124657788">
+                           <surname>Birghden</surname>
+                           <nameLink>von den</nameLink>
+                           <forename>Johann</forename>
+                        </persName>
+                     </editor>
+                  </titleStmt>
+                  <extent>
+                     <measure type="pages">4, ungefähr DIN A 5</measure>
+                  </extent>
+                  <publicationStmt>
+                     <publisher>
+                        <name/>
+                     </publisher>
+                     <pubPlace>Frankfurt am Main</pubPlace>
+                     <date type="publication">1617</date>
+                  </publicationStmt>
+                  <seriesStmt>
+                     <title level="j" type="main">Ordentliche Wochentliche Zeitungen</title>
+                     <biblScope unit="volume">40</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                  </seriesStmt>
+               </biblFull>
+               <msDesc>
+                  <msIdentifier>
+                     <repository>Staats- und Universitätsbibliothek Bremen (SuUB)</repository>
+                     <idno type="VD">14:703084T</idno>
+                     <idno type="URLCatalogue">https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904369</idno>
+                     <idno type="PPN">779924320</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <typeDesc>
+                        <p>Fraktur</p>
+                        <p>Antiqua</p>
+                     </typeDesc>
+                  </physDesc>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+      </teiHeader>
+      <text>
+         <front>
+            <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904369"
+                facs="#f0001"/>
+            <lb/>
+            <titlePart type="volume">40.</titlePart>
+         </front>
+         <body>
+            <div type="jArticle" xml:id="a_1617_40_1">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q6596">Görtz</placeName> vom <date when="1617-09-18">18. Serember. 1617</date>.
+				</head>
+               <p>
+                  <lb/>
+                  <hi rendition="#in">D</hi>En <date when="1617-09-10">10. diß</date>/ hat ſich zwiſchen vnſerm Cpitan Peter <hi rendition="#aq">Vaſques</hi>, vñ einem Ca=
+					<lb/>pitan <hi rendition="#aq">de Corſi</hi> vnder den Venedige<supplied>rn</supplied>/ ein ſtreitt zwiſchen beyden Lägern
+					<lb/>zu Roß zugetragen/ darbey von w<supplied>eren</supplied> viel fürnehme herrn/ vnder andern
+					<lb/>der Hertzog von Modena/ wie auch <hi rendition="#aq">Don I<supplied>oa</supplied>n di Medici</hi> mit 2. Corneten Reutern/
+					<lb/>hinder Palmarina haltent zugeſehen/ deß F<supplied>ei</supplied>ndtshauptmann hat ein ſchuß/ vñ mit
+					<lb/>eim Degen ein vbeln ſtreich ins geſicht beko<supplied>mm</supplied>en /der vnſere iſt zwar auch doch ohne
+					<lb/>ſchaden geſtreifft worden/ nach verrichtung <supplied>de</supplied>ſſelben haben ſie ſich wider verglichen/
+					<lb/>vnd ſich ein jeder mit ſeinem beyſtandt in ſen Läger reterirt / man iſt beyderſeits in
+					<lb/>ſtarcker bereitſchafft geſtanden/ biß der hand<supplied>e</supplied> für vber geweſen.
+				</p>
+               <p>
+                  <lb/>Mit Gradiſca ſtehets gefehrlich/ dañ der <supplied>fei</supplied>nd beſcheuſt ſolche mit 20 ſtücken ge=
+					<lb/>ſchütz tag vnd nacht/ vnd hat in einem tag bey 20. ſchüß hinein gethan/ vnd wo man
+					<lb/>nit anders zu dieſem Krieg thue/ möchte man <supplied>ſi</supplied>cher Vöſtung verluſtigt werden/ der
+					<lb/>Feindt hai dermaſſen die Paß geſpert/ vnnd <supplied>i</supplied>ngenommen/ dz faſt vnmüglich ohne
+					<lb/>groſſe gewalt etwas mehr hinein zubringen / e<supplied>s</supplied> ſeind faſt alle einwohner heranß/ vnd
+					<lb/>iſt der Cantzler daſelbſt vor 3 tagẽ/ auch mit <supplied>w</supplied>eib vñ kind herauß gezogen/ dem Feind
+					<lb/>in die hände kommen/ vñ auff Palma geführ<supplied>t</supplied> werden/ iſt auch ſo groſſe noth an Pro=
+					<lb/>uiant darinn/ daß ſie ſchon das Roßfleiſch <supplied>zu</supplied>eſſen/ anfangen/ man iſt alhier auch in
+					<lb/>gefahr/ dann viel Häupter abweſende vnnd die Soldaten/ an jhrem Soldt groſſen
+					<lb/>mangel haben/ iſt alſo nichts guts darauß zuhoffen/ vnd wann der zeit die Wein<supplied>heer</supplied>
+                  <lb/>nicht dz beſte theten/ wüſten ſie nit zuleben.
+				</p>
+               <p>
+                  <lb/>Der Feindt hat dieſer tagen ein groſſen Soccors zu Roß vnd Fuß bekomwer.
+					<lb/>deren meiſtentheils Türckiſche Vnderthanen ſein/ deß gleichen auch <supplied cert="low">v</supplied>. groſſe S<gap/>d<gap/>,
+					<lb/>mit newen Holländern / entgegen ſeind wir gar ſchwach/ vnd je lenger je weniger.
+				</p>
+               <p>
+                  <lb/>Geſtern hat herꝛ Hauptman von Herberſtein/ ein groß vnglück/ als er ſampt
+					<lb/>herꝛn Hauptmann Brußki zwiſchen der Jſnttz etliche ſchüß vnder die Feinde thun
+					<lb/>laſſen/ außgeſtanden/ in dem er ſich reteriren wöllen/ kompt ein ſchuß auß deß Feinds
+					<lb/>Schantz/ vnd ſcheuſt jhme herꝛn eine groſſe Güldene Ketten von kleinen gliedern/
+					<lb/>vom leibe daß ſie auff die erden gefallen/ doch am leibe nichts beſchedigt.
+				</p>
+               <p>
+                  <lb/>Man hat auiſo / als die Venediger die alten Hollendiſche Soldaten gemuſtert/
+					<lb/>bezalt/ vnd wider <hi rendition="#aq">de nouo</hi> werben/ vnd beſtellet/ haben ſie jhnen nit mehr dienen/ ſon-
+					<lb/>dern wider in jhr Landt ziehen wollen.
+				</p>
+               <p>
+                  <lb/>Auff vnſerſeits iſt herꝛ Obriſter Leutenandt Meilgraber/ weilen er ſeine zeit auß=
+					<lb/>gedient/ mit den ſeinen wider ab/ vnd nach hauß gen Wareſtin in Windiſchen Landt
+					<lb/>gezogen/ welches dem Feindt greſſen muth macht/ weilen er Meilgraber den beſten
+					<lb/>Kern vom Kriegsvolck beyſammen gehabt.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_2">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1617-09-27">27. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Demnach vor etlichen tagen/ die 2. junge Hertzogen von Sachſen Lawenburg al=
+					<lb/>hier ankommen/ deren der Elter 500. Pferdt für den König Ferdinandum wider die
+					<lb/>Venediger führt/ ſeindt ſolche den <date when="1617-09-25">25. diß</date> mit 70. Pferdten vnnd führenden Fahnen
+					<lb/>von hier ſtatlich mit Trometen/ vnd Heerbaucken hinweg/ vnnd nach Newkirchen/
+					<lb/>bey der Neuſtatt (alda ſie bereit beyſammen/ vnd der Muſterplatz auff <date when="1617-09-26">26. diß</date> ange=
+				</p>
+               <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904370"
+                   facs="#f0002"/>
+               <p>
+                  <lb/>ſtelt.) verreiſt/ denen der allhieſige Spaniſche Zahlmeiſter Amptsverwalter Beuerl
+					<lb/>den erſten MonatSoldt gereicht/ <gap/>e werden nun baldt fort rücken/ vnnd wirdt der
+					<lb/>
+                  <supplied>j</supplied>unge herꝛ von Loſenſtein deß herꝛn <supplied>O</supplied>briſten Hoff Marſchalcks Vetter/ vnter dem
+					<lb/>herꝛn Obriſten Tampier auch eine<supplied>n</supplied> Soldaten hinein geben.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_3">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1617-09-23">23. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Neapolitaniſche brieff berichten/ da<supplied>ß</supplied> alle Vaſellen zu der Meer armada gehörig/
+					<lb/>bereitfertig zur abfarth/ vnd allein gu<supplied>t</supplied>en Windts erwarten/ ſol alſo dieſe Armada
+					<lb/>ſtercker als die erſte ſein/ ſo ſchreibt man auch von Malta/ das ſelbige Jnſul in ſtetter
+					<lb/>Rüſtung ſtehe/ da die Türckiſche Ar<supplied>m</supplied>ada/ ſo ſich jetzt in der Jnſul Gozzo befinden
+					<lb/>ſolle/ was gegen ſie tentiren wolte/ derſ<supplied>e</supplied>lben widerſtandt zuthun/ die hat nit weit von
+					<lb/>Malta eine Feluchen von der Chriſte<supplied>n</supplied> Armada/ vñ nach Leuante fahrend/ gefangẽ.
+				</p>
+               <p>
+                  <lb/>Auß Spania hat man/ das im S<gap/>etto di Gibraltar ſich zwiſchen 12. Portuge-
+					<lb/>ſiſchen Galeren/ vnd 10. Corſariſche Vaſellen ein ſtreit erhoben/ dar durch 4. Vaſel-
+					<lb/>len erſeufft/ vnd die andern von den Portugeſern gefangen worden.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_4">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q456">Lion</placeName> vom <date when="1617-09-24">24. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Man gibt noch auß/ das der Frieden zwiſchen dem König in Böheimb/ vnd Ve-
+					<lb/>nedigern wie gleichfals zwiſchen Spania/ vnd Sauoia gewiß beſchloſſen worden.
+				</p>
+               <p>
+                  <lb/>Auff <date when="1617-09-15">15. diß</date> hat man den Printzen von Conde/ vnd ſein Gemahl/ in das Schloß
+					<lb/>
+                  <hi rendition="#aq">Vincennes</hi>/ ſo nit weit von hier ligt/ geführt/ daſelbſten ſol er noch viel ſtrenger/ als
+					<lb/>
+                  <hi rendition="#aq">ala Baſtiglia</hi> verwarth werden/ etliche vermuhten/ er möchte dieſer Enderung halber
+					<lb/>deſto eher ledig kommen/ ſonſten ſolle man ſeither den Freyherꝛn von Vigean/ vnd
+					<lb/>
+                  <hi rendition="#aq">dela Fiſque ala Baſtiglia</hi> gefangen gelegt haben/ weil ſie accuſirt werden/ das ſie
+					<lb/>Printzen von Conde außhelffen wollen.
+				</p>
+               <p>
+                  <lb/>Der Hertzogen <hi rendition="#aq">di Niuers,</hi> vnnd Maijenne ſeindt wider zu Hoff bey jhrer May.
+					<lb/>ankommen.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_5">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1617-09-30">30. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Von Turino wirdt geſchrieben/ daſelbſt weren in deß Hertzogẽ Capellen 10. Fah-
+					<lb/>nen/ ſo er zu Feliciano erobert/ vffgehenckt werden/ vnd worden noch 12. andere von
+					<lb/>Annone erwartet/ ſo iſt der Graff von Mansfeldt mit 4000. Teutſchen zu Fuß/ vñ
+					<lb/>700. zu Roß nach Jurea paſſirt/ vnd thut ſich der Hertzog täglich mit volck/ ſo jhme
+					<lb/>auß Franckreich/ vnd andern Orthen zuköm̃t/ ſehr ſtärckẽ/ aber von Coſale hat man/
+					<lb/>das der <hi rendition="#aq">Principe di Maſſerano</hi>/ mit dem Hauptmann <hi rendition="#aq">Paleſtra</hi> ein aut theil volck
+					<lb/>nach <hi rendition="#aq">S. Germano</hi> zur Beſatzung gebracht/ auch 4. Sauoiſche Dörffer verbrendt.
+				</p>
+               <p>
+                  <lb/>Meylendiſche Brieff auiſirẽ/ dz der <hi rendition="#aq">Monſ. di Bettunes</hi> vff 16. diß nach Nouarra zũ
+					<lb/>
+                  <hi rendition="#aq">Don Toledo</hi> paſſirt/ den Frieden zuſchlieſſen/ doch vnverricht wider zurück kom̃en/
+					<lb/>der Ladighera befindt ſich vmb <hi rendition="#aq">Moncaluo</hi> 10000. der <hi rendition="#aq">Principe Thomaſo</hi> mit dem
+					<lb/>von Manßfeldt/ vnd deß Conte d'Auuergnia Reuterey vmb Aleſſandria vff 15000.
+					<lb/>man ſtarck/ alda ſie ſeither jüngſten noch mehr orth erobert/ auch vmb Nizza wider
+					<lb/>in 2000. Schweitzer/ vñ Teutſchen erlegt/ ſonſt hette der <hi rendition="#aq">Don Toledo</hi> 400. Knecht
+					<lb/>mie viel Kriegs Rüſtung/ vnd Munition nach Nouarra kommen laſſen/ auch der
+					<lb/>Hertzog von Parma 10. Hauptleuth verordnet/ 500. Reuter für Spania zuwerben/
+					<lb/>bey beſchluß hat man/ der Cärdinal <hi rendition="#aq">Ludouiſio</hi> habe beym Hertzogen von Sauoia
+					<lb/>vff 6. ſtund einen Anſtandt erhalten/ dahero das Volck/ ſo Aleſſandria belägern
+					<lb/>ſollen/ ſich nach Aſteggiano retirirt.
+				</p>
+               <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904371"
+                   facs="#f0003"/>
+               <p>
+                  <lb/>Spaniſche Brieff meldten/ der Printz Philiberto hette vom König zu Hülffe ſei-
+					<lb/>nes Vncoſtens 30000. Cronen empfangen/ alda werde auch/ vneracht man den
+					<lb/>Frieden mit Sauoia bey Hoff für gewiß halte/ viel Volcks nach Jtalia imbarchirt
+					<lb/>es hette auch der Venediſche <hi rendition="#aq">Amb.</hi> einen Anſtandt wegen Reſtitution der abgenom-
+					<lb/>men Vaſellen/ mit der Kauffmannſchafft/ erhalten.
+				</p>
+               <p>
+                  <lb/>Aus dem Feldtläger hört man/ das alda 400. Knecht von <hi rendition="#aq">Legnano</hi> ankommen/
+					<lb/>vnd wegen ſteten Regens der Fluß Liſonzo ſehr groß worden/ vnnd vnſere Brücken
+					<lb/>zerriſſen/ durch welche gelegenheit die Ertzhertzogiſchen / ein Zattera mit viel künſtli-
+					<lb/>lichen Fewerwerck/ vnd Munition nach <hi rendition="#aq">Gradiſca</hi> lauffen laſſen/ ſo aber die vnſern/
+					<lb/>mit allem/ was darob geweſen/ verſenckt/ doch iſt nachts zeit zu Landt ein Soccors in
+					<lb/>dieſe Veſtung kommen/ vnd verlauth dz der Graff Tampier ehiſt viel Soldaten ins
+					<lb/>Felde bringen werde/ ſonſt iſt der Graff von Naſſau zu <hi rendition="#aq">Vdene</hi> am Fieber geſtorben/
+					<lb/>vnd hat vnſer Armada 3. frembde Vaſellen mit Oel beladen/ zu <hi rendition="#aq">Lieſena</hi> eingebrach/
+					<lb/>vnd arreſtirt.
+				</p>
+               <p>
+                  <lb/>Die im <hi rendition="#aq">Forte Stella</hi> ſeint Mitwoch mit 100. Pferden/ vnd viel Knechten außge-
+					<lb/>fallen/ der Fortezen/ Baw zwiſchen <hi rendition="#aq">Gradiſca</hi>/ vnd der Sternſchantz zuverhindern/
+					<lb/>die feindt aber mit verluſt 12. der jhren/ zurück getrieben/ vnd acht gefangen worden.
+				</p>
+               <p>
+                  <lb/>Zu <hi rendition="#aq">Genua</hi> iſt ein <hi rendition="#aq">exeraordinari</hi> auß Spania ankommen/ welche die Ratification
+					<lb/>der Frantzöſiſch formirten Friedens Puncten mitbringen ſolle/ darauff theils herꝛn
+					<lb/>jhre geworbene Knecht abgedanckt/ vnd ſolle dieſer Frieden zu <hi rendition="#aq">Aſti</hi> vnd Alexandria
+					<lb/>vff <date when="1617-09-12">12 diß</date> publicirt worden ſein.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_6">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1616-09-03">3. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Geſtern ſeind jre Keyſ. May. von Brandeiß wider alhier angelangt/ vnnd <hi rendition="#aq">dato</hi>
+                  <lb/>publicirt worden/ daß ſie den <date when="1616-09-21">21. diß</date> nacher Wien vnnd Newſtatt auffbrechen wer-
+					<lb/>den die Furierer ſeind voran/ vnd bereit Gutſchen vnd Fuhrleuth von Wien vnd
+					<lb/>Newſtatt hieher beſchrieben.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_7">
+               <head>
+                  <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Grauenhage</placeName> vom <date when="1616-10-05">5. October</date>.
+				</head>
+               <p>
+                  <lb/>Auß Franckreich hat man/ dz der König võ Spaniſchen Geſandten eine ſchrifft-
+					<lb/>liche Erklerung bekem̃en/ dz nemlich der König von Spania luſt zum Frieden habe/
+					<lb/>alles was eingenommen/ reſtituiren wolle/ dofern Sau<supplied>o</supplied>ia den vergleich vor <hi rendition="#aq">
+                     <supplied>A</supplied>ſti</hi> vn-
+					<lb/>derhalte/ darauff dañ die ſach/ wie gleichfals mit den Venedigern alſo beygelegt wor-
+					<lb/>den/ dz der Königm Beheimb/ die Statt Zengh/ mit Teutſchẽ Volck beſetze/ darauff
+					<lb/>Venedig die nechſt darbey gelegene Statt wider geben/ f<supplied>o</supplied>lgents jederſeits durch zwey
+					<lb/>Commiſſarien die Zenger Vßcochen abgeſchafft/ vnd jn Schiff verbrandt werden/
+					<lb/>welche nicht mit jren weib vnd Kindern Rühiglich einer Handtierung leben/ ſondern
+					<lb/>vich allein deß Raubs vff dem Meer befleiſſen/ vñ alſo vnderſcheidt vnder jnen zuhal-
+					<lb/>ten/ darauff die Venediger dz vbrige wz ſie in Friaul/ vnd Jſterreich eingenommen/
+					<lb/>reſtiuiren ſollen/ dz Venediſche Meer belangendt/ verble<supplied>i</supplied>bt es damit bey der abhãnd-
+					<lb/>lung zu Wien/ An. 1612. getroffen/ dieſer tractat iſt vff 6 Septemb. mit mehr andern
+					<lb/>Articulen/ zu Pariß alſo geſchloſſen/ vnd ſubſcribirt/ vnd <supplied>ſol</supplied> innerhalb 25. tagen von
+					<lb/>
+                  <hi rendition="#aq">dato</hi> an/ in Spanien beliebet/ vñ vnderſchrieben werdẽ/ <supplied>gleich</supplied> wie auch in Sauoyen/
+					<lb/>vnd iſt alſo der König in Franckreich Bürge für einen vn<supplied>d</supplied> andern theil.
+				</p>
+               <p>
+                  <lb/>So wirdt auch bericht/ dz vnlengſt bey hellem tage/ zu der Fleſche/ eine Veſtung in
+					<lb/>der Picardey/ in der Jeſiuiter Kirchen/ mitten vnder der Meſſe/ ein plötzlich groß ge-
+					<lb/>rümpel/ als wie von ein hauffen Rüſtwägen/ vnd Karren g<supplied>e</supplied>hört/ darauff ein geſpenſt
+				</p>
+               <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904372"
+                   facs="#f0004"/>
+               <p>
+                  <lb/>in der Kirchen erſchienen wie ein menſch/ doch ſonder Heubt/ der gantze Hals in Blut
+					<lb/>die Füß/ vnd Schenckel in Fewer/ ſol etliche wort geſprochen/ vnd alſo groſſes ſchre-
+					<lb/>cken vervrſacht haben.
+				</p>
+               <p>
+                  <lb/>Auß Engellandt haben wir/ daß ſelbiger König/ vff begehren deß Venediſchen
+					<lb/>Amb. ſich nun alſo reſoluirt/ der Herꝛſchafft in 6. oder 7000. Mañ zuhülff zuſchickẽ/
+					<lb/>ob nun dieſe/ wie auch dz Lewenſteiniſche Volck noch abfahren werden/ iſt vnbewuſt.
+				</p>
+               <p>
+                  <lb/>Es wirdt von den Brabendiſchen/ vñ Oberquartiren noch beſtettiget/ dz die Spa-
+					<lb/>niſche der Enden groſſe Kriegs Bereitſchafften machen/ deren/ zu Berck ſchon etli-
+					<lb/>che 1000. vber Rein geſetzt/ vm̃ die Sequeſtratiõ der Güligiſchẽ Landtẽ vorzunehmẽ.
+				</p>
+               <p>
+                  <lb/>Die Fraw Gräum von Hanau/ iſt jetzt mit beyden Frewlein zu Amſterdam den
+					<lb/>Rath daſelbſt zubeſuchen/ vnd die Statt zubeſehen/ alda ſie gar herꝛlich empfangen/
+					<lb/>tractirt/ vnd verehrt worden.
+				</p>
+               <p>
+                  <lb/>Deß Grauen von Oldenburgs Geſandten ſeindt mit guten Contento wider nach Hauß
+					<lb/>verreiſt.
+				</p>
+               <p>
+                  <lb/>Demnach vnlengſt etliche von dem Magiſtrat zum Briel wegen der Religion in vnwillen
+					<lb/>wider einander gerahten die Bürger ſich auch nie am beſten vertragen/ Doch ſambtlich ſich ſtill
+					<lb/>hielten/ vnd allein vff 20. Septemb. warteten/ vff welche zeit man einen newen Raht/ vnd Ma-
+					<lb/>giſtrat zuwwehlen pfleget/ haben S Exc neben dero herꝛn Brüdern Printz Heinrichen/ wie auch
+					<lb/>dem Engliſchen Amb. vnnd etliche Obriſten vnnd Befelchshaber in ſtarck/ ſelbige nacht ſich
+					<lb/>aufgemacht/ vnd ſeind mit 8 vnd 9 vff den Briel zugefahren vnd daſelbſt gemeldten tags vnnge-
+					<lb/>fehr vmb 6. Uhr deß morgens angelangt/ darauff ſeind S. Exc. allein ſelbſt mit dreyen erſtlich in
+					<lb/>die Statt/ vnd in eine Herberg gangen/ vnd als baldt die Hauptleuth zu ſich beruffen/ vnd befoh-
+					<lb/>len/ jre Soldaten/ doch ohne Trummelſchlag zuſammen zubringen/ welches als baldt alſo ver-
+					<lb/>richtet worden/ Immittelſt ſeind die andern mit 9. vnd 10 allein mit jren ſeiten Wehren auch in
+					<lb/>die Statt kommen/ da nun der Magiſtrat ſolches innen worden/ haben ſie ſich als baldt vff
+					<lb/>dz Rahthaus verfügt/ welchen S. Exc ſeine meinung vñ zu was ende/ er da<supplied>hin komm</supplied>en/ anzeigẽ
+					<lb/>laſſen/ mit welchem ſie wol zufrieden geweſen/ vnd iſt alſo ein newer M<supplied>agistrat</supplied>/ mit beliebung
+					<lb/>S. Exc erwehlt/ darneben noch <supplied>2</supplied> Compagnien/ nemlich Graff Johan Ernſt vou Dordrecht/ vñ
+					<lb/>Printz Heinrich von Delf<supplied>f</supplied>t da<supplied>hi</supplied>n gelegt worden.
+				</p>
+               <p>
+                  <lb/>Der Magiſtrat zu Harlem <supplied>h</supplied>at abermals geweigert/ die Pœ<supplied>u</supplied>al Mandat/ von hieſigen hohen
+					<lb/>Hoffgericht/ wegen wider Ein<supplied>n</supplied>ehmung deß außgeſsagten Bürgers zu pariren/ ſondern denſelben
+					<lb/>noch darneben/ in 100 Pf. flemiſch condenirt/ derwegen dañ dieſer ſachen/ vñ der Vtrechtiſchen
+					<lb/>Volck werbung halben/ weil <supplied>m</supplied>an ſich ſo wol daſelbſt/ als zu Lendẽ verwegert/ ſolche einzuſtellen
+					<lb/>alhie fleiſſig gerahtſchlagt w<supplied>ir</supplied>dt/ wie ſolchem zubegegnen/ vñ ſolle S. Exc. egegen 10 diß/ vff wel-
+					<lb/>che zeit der Magiſtrat auch e<supplied>r</supplied>newert wird/ ſich in Perſohn dahin; zuverfügen/ Reſoluirt haben/
+					<lb/>Immittelſt halten die newe Soldaten mit den alten die wacht <space dim="horizontal"/>Zu Amſterdam/ wie auch in
+					<lb/>Seelandt werden 6.oder 7. Schiff zugerüſtet/ ſo nach Oſt Jndien fahren ſollen/ deßgleichen wirt
+					<lb/>noch ein groſſes nach Guinea <supplied>a</supplied>ußgerüſtet/ die Veſtung alda mit allerley <choice>
+                     <sic>notturffr</sic>
+                     <corr>notturfft</corr>
+                  </choice> zuverſorgen.
+				</p>
+            </div>
+            <div type="jArticle" xml:id="a_1617_40_8">
+               <head>
+                  <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1616-10-12">12. Ditto</date>.
+				</head>
+               <p>
+                  <lb/>Deß Grauen von Fürſt<supplied>en</supplied>berg/ vnd herꝛn von Anholt Volck verhelt ſich noch im ſtifft Trier/
+					<lb/>vnd wirdt dieſer Orth für <supplied>g</supplied>ewiß berichtet/ das ſie wider abgedanckt werden/ auch vorhabens
+					<lb/>ſein/ jren zurück zug/ durch <gap/>eſe Landt widerumb zunehmen/ weilen ſie aber am nehern ſich faſt
+					<lb/>vbel gehalten/ die arme Leuh geſchlagen/ geſtoſſen/ vñ gebrandtſchetz/ vnd andern muthwillen
+					<lb/>begangen/ iſt jnen entgegengeſandt/ vnd verortnung in den Güligſchen Landen gethan worden/
+					<lb/>dz die vnderthanen/ vnd a<supplied>u</supplied>ßgeſetzte Schützen vffgemanth/ vnd jnen kein durchzug noch quartier
+					<lb/>verſtattet werden ſolle/ J<supplied>n</supplied> Hollendt ſtehẽ die ſachen noch faſt ſeltzam/ vnd wie man dieſer Or
+					<lb/>then außgibt/ ſolle ſich der Preſident Barnefeldt nirgent wollen finden laſſen/ derwegen ſeine
+					<lb/>Gütter/ ſo ſich vff viel T<supplied>on</supplied>nen Schätze ertragen/ verarreſtirt ſein ſollen/ etliche aber wollen/ er
+					<lb/>
+                  <supplied>l</supplied>ige zu Vtrecht ſchwach/ die zeit wirdts geben.
+				</p>
+            </div>
+         </body>
+         <back>
+            <div type="postface">
+               <p>
+                  <lb/>
+                  <hi rendition="#g">ENDE</hi>
+               </p>
+            </div>
+         </back>
+      </text>
+   </TEI>
+</teiCorpus>
