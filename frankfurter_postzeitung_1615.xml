@@ -234,7 +234,7 @@
             <titlePart type="volume">39.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_39_1">
+            <div type="jArticle" n="1" xml:id="a_1615_39_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cöllen</placeName> vom <date when="1615-10-08">8. Octobris Anno 1615</date>.
 				</head>
@@ -298,7 +298,7 @@
 					<lb/>ſten laſſen/ daſelbſt mehr zubauen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_39_2">
+            <div type="jArticle" n="2" xml:id="a_1615_39_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1799">Preßlau</placeName> vom <date when="1615-09-20">20. September/ 1615</date>.
 				</head>
@@ -333,7 +333,7 @@
 					<lb/>wird haben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_39_3">
+            <div type="jArticle" n="3" xml:id="a_1615_39_3">
                <head>
                   <lb/>Auß Landt zu <placeName ref="https://www.wikidata.org/wiki/Q2773">Braunſchweig</placeName>/ vom <date when="1615-09-28">28. Dito</date>.
 				</head>
@@ -367,7 +367,7 @@
 					<lb/>Mann vffgebotten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_39_4">
+            <div type="jArticle" n="4" xml:id="a_1615_39_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1733">Magdeburg</placeName> vom <date when="1615-09-29">29. Dito</date>.
 				</head>
@@ -408,7 +408,7 @@
 					<lb/>12000. Mann zu Roſſz vnd Fuß.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_39_5">
+            <div type="jArticle" n="5" xml:id="a_1615_39_5">
                <head>
                   <lb/>
                   <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1615-10-02">2. Octob. Anno. 1615</date>.
@@ -440,7 +440,7 @@
 					<lb/>ſchrieben werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_39_6">
+            <div type="jArticle" n="6" xml:id="a_1615_39_6">
                <head>
                   <lb/>
                   <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1615-10-26">26. diß</date>.
@@ -519,7 +519,7 @@
             <titlePart type="volume">42</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_42_1">
+            <div type="jArticle" n="1" xml:id="a_1615_42_1">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Graffenhaage</placeName> vom <date when="1619-10-19">19. Otob. 1615</date>.
 				</head>
@@ -566,7 +566,7 @@
 					<lb/>möchten ehiſt einen Zug hinauff thun.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_2">
+            <div type="jArticle" n="2" xml:id="a_1615_42_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cöllen</placeName> vom <date when="1615-10-29">29. Octob. 1615</date>.
 				</head>
@@ -662,7 +662,7 @@
 					<lb/>ſachen in Frankreich ſo ſeltzam ſtehen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_3">
+            <div type="jArticle" n="3" xml:id="a_1615_42_3">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1615-10-10">10. Octob.</date>
                </head>
@@ -674,7 +674,7 @@
 					<lb/>len wölle/ / der hat ſein Cardinalat dem Bapſt <supplied cert="high">renuneyrt</supplied>.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_4">
+            <div type="jArticle" n="4" xml:id="a_1615_42_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1615-10-16">16. Ditto</date>.
 				</head>
@@ -701,7 +701,7 @@
 					<lb/>Gleichjetzt wird ſpargirt/ daß Heut vnſer Hertzog Todts verfahren ſey.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_5">
+            <div type="jArticle" n="5" xml:id="a_1615_42_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q2079">Leiptzig</placeName> vom <date when="1615-10-08">8. Ditto</date>.
 				</head>
@@ -722,7 +722,7 @@
 					<lb/>alſo jetzt mit der Statt am aller gefehrligſten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_6">
+            <div type="jArticle" n="6" xml:id="a_1615_42_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q90">Pariß</placeName> vom <date when="1615-09-19">19. Septembris</date>.
 				</head>
@@ -751,7 +751,7 @@
 					<lb/>dann etliche groſſe Herꝛn vmb die Köpff kürtzer.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_42_7">
+            <div type="jArticle" n="7" xml:id="a_1615_42_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1055">Hamburg</placeName> vom <date when="1615-10-11">11. October</date>.
 				</head>
@@ -828,7 +828,7 @@
             <titlePart type="volume">43.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_43_1">
+            <div type="jArticle" n="1" xml:id="a_1615_43_1">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Graffenhaage</placeName> vom <date when="1615-10-26">26. Octob. Annu/ 1615</date>.
 				</head>
@@ -952,7 +952,7 @@
 					<lb/>Volcks / derowegen der Hertzog den 4. Mann in ſeinem Land vffgebotten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_43_2">
+            <div type="jArticle" n="2" xml:id="a_1615_43_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1615-10-17">17. Octob. 1615</date>.
 				</head>
@@ -966,7 +966,7 @@
 					<lb/>hat der Regen das groß vnd ſtattliche Münſter zu S. Saluator gantz verderbt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_43_3">
+            <div type="jArticle" n="3" xml:id="a_1615_43_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1615-10-23">23. Ditto</date>.
 				</head>
@@ -995,7 +995,7 @@
 					<lb/>will den <hi rendition="#aq">Monſ. de Roan</hi> zum Printzen von Conde ſenden / ein Accord mit jhm zu tractiren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_43_4">
+            <div type="jArticle" n="4" xml:id="a_1615_43_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q2079">Leiptzig</placeName> vom <date when="1615-10-26">26. Dito</date>.
 				</head>
@@ -1144,7 +1144,7 @@
             <titlePart type="volume">46</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_46_1">
+            <div type="jArticle" n="1" xml:id="a_1615_46_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1615-11-23">23. Novembris Anno 1615</date>.
 				</head>
@@ -1238,7 +1238,7 @@
 					<lb/>werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_46_2">
+            <div type="jArticle" n="2" xml:id="a_1615_46_2">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName> vom <date when="1615-11-07">7. Novemb.</date>
                </head>
@@ -1269,7 +1269,7 @@
 					<lb/>die Reſtitution ſtarck ſuchen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_46_3">
+            <div type="jArticle" n="3" xml:id="a_1615_46_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1615-11-13">13. Dito.</date>
                </head>
@@ -1437,7 +1437,7 @@
             <titlePart type="volume">47</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_47_1">
+            <div type="jArticle" n="1" xml:id="a_1615_47_1">
                <head>
                   <lb/>Auß des <placeName ref="https://www.wikidata.org/wiki/Q36600">Graffenhaage</placeName> vom <date when="1615-11-23">23. Novemb. 1615</date>.
 				</head>
@@ -1480,7 +1480,7 @@
 					<lb/>antreffen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_2">
+            <div type="jArticle" n="2" xml:id="a_1615_47_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1718">Düſſeldorff</placeName> vom <date when="1615-11-28">28. Dito</date>.
 				</head>
@@ -1509,7 +1509,7 @@
 					<lb/>Geiſtlichkeit ſchützen vnd handhaben ſollen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_3">
+            <div type="jArticle" n="3" xml:id="a_1615_47_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1615-11-09">9. Dito</date>.
 				</head>
@@ -1520,7 +1520,7 @@
                   <hi rendition="#aq">Conde de Bucquoy Bagage</hi> von hier nach Brüſſel gefahren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_4">
+            <div type="jArticle" n="4" xml:id="a_1615_47_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1615-10-03">3. Octob</date>.
 				</head>
@@ -1587,7 +1587,7 @@
 					<lb/>kunfft des Ertzhertzogen Maximiliani.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_5">
+            <div type="jArticle" n="5" xml:id="a_1615_47_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName>/ vom <date when="1615-10-14">14. Ditto</date>.
 				</head>
@@ -1603,7 +1603,7 @@
 					<lb/>S. Marco allhier einen reichen Venetianiſchen Juden getaufft.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_6">
+            <div type="jArticle" n="6" xml:id="a_1615_47_6">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q641">Vendig</placeName> vom <date when="1615-10-20">20. Dito</date>.
 				</head>
@@ -1641,7 +1641,7 @@
 					<lb/>innert/ das ſie die Wahl befördern ſollen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_7">
+            <div type="jArticle" n="7" xml:id="a_1615_47_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q134494">Kiehrmond</placeName> vom <date when="1615-11-09">9. Novemb.</date>
                </head>
@@ -1652,7 +1652,7 @@
 					<lb/>halten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_47_8">
+            <div type="jArticle" n="8" xml:id="a_1615_47_8">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1615-11-19">19. Dito</date>.
 				</head>
@@ -1759,7 +1759,7 @@
             <titlePart type="volume">48</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_48_1">
+            <div type="jArticle" n="1" xml:id="a_1615_48_1">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Graffenhaage</placeName> vom <date when="1615-11-30">30. Novemb. 1615</date>.
 				</head>
@@ -1838,7 +1838,7 @@
 					<lb/>viel außgericht haben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_48_2">
+            <div type="jArticle" n="2" xml:id="a_1615_48_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1615-12-10">10. Decemb. 1615</date>.
 				</head>
@@ -1936,7 +1936,7 @@
 					<lb/>Herrn/ viel Freud im ganzen Land iſt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_48_3">
+            <div type="jArticle" n="3" xml:id="a_1615_48_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName> vom <date when="1615-11-21">21. Novemb</date>.
 				</head>
@@ -1949,7 +1949,7 @@
 					<lb/>ſtag den <hi rendition="#aq">Conſtable Collonna</hi> beſucht vnd von jhnen ſtattlich banchetirt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_48_4">
+            <div type="jArticle" n="4" xml:id="a_1615_48_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1615-11-27">27. Dito</date>.
 				</head>
@@ -2049,7 +2049,7 @@
             <titlePart type="volume">49</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1615_49_1">
+            <div type="jArticle" n="1" xml:id="a_1615_49_1">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">GraffenHaage</placeName>/ vom <date when="1615-12-08">8. Decembr. 1615</date>.
 				</head>
@@ -2105,7 +2105,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904252"
                    facs="#f0026"/>
             </div>
-            <div type="jArticle" xml:id="a_1615_49_2">
+            <div type="jArticle" n="2" xml:id="a_1615_49_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1615-12-17">17. Decemb. 1615</date>.
 				</head>
@@ -2204,7 +2204,7 @@
 					<lb/>geſpeiſt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_49_3">
+            <div type="jArticle" n="3" xml:id="a_1615_49_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1615-11-20">20. Novemb. 1615</date>.
 				</head>
@@ -2229,7 +2229,7 @@
 					<lb/>re Mayeſt. ſolten biß dahero von keiner Vergleichung haben hören wöllen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_49_4">
+            <div type="jArticle" n="4" xml:id="a_1615_49_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1615-12-04">4. Decemb.</date>
                </head>
@@ -2256,7 +2256,7 @@
 					<lb/>tzen bey <hi rendition="#aq">Iſtria</hi> auch groſſen Schaden gethan haben
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1615_49_5">
+            <div type="jArticle" n="5" xml:id="a_1615_49_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1615-11-29">29. Novemb.</date>
                </head>

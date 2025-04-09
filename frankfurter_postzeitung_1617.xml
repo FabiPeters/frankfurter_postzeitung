@@ -234,7 +234,7 @@
             <titlePart type="volume">40.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1617_40_1">
+            <div type="jArticle" n="1" xml:id="a_1617_40_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q6596">Görtz</placeName> vom <date when="1617-09-18">18. Serember. 1617</date>.
 				</head>
@@ -287,7 +287,7 @@
 					<lb/>Kern vom Kriegsvolck beyſammen gehabt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_2">
+            <div type="jArticle" n="2" xml:id="a_1617_40_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1617-09-27">27. Ditto</date>.
 				</head>
@@ -308,7 +308,7 @@
 					<lb/>herꝛn Obriſten Tampier auch eine<supplied>n</supplied> Soldaten hinein geben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_3">
+            <div type="jArticle" n="3" xml:id="a_1617_40_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1617-09-23">23. Ditto</date>.
 				</head>
@@ -326,7 +326,7 @@
 					<lb/>len erſeufft/ vnd die andern von den Portugeſern gefangen worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_4">
+            <div type="jArticle" n="4" xml:id="a_1617_40_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q456">Lion</placeName> vom <date when="1617-09-24">24. Ditto</date>.
 				</head>
@@ -350,7 +350,7 @@
 					<lb/>ankommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_5">
+            <div type="jArticle" n="5" xml:id="a_1617_40_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1617-09-30">30. Ditto</date>.
 				</head>
@@ -409,7 +409,7 @@
 					<lb/>vff <date when="1617-09-12">12 diß</date> publicirt worden ſein.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_6">
+            <div type="jArticle" n="6" xml:id="a_1617_40_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1616-09-03">3. Ditto</date>.
 				</head>
@@ -420,7 +420,7 @@
 					<lb/>Newſtatt hieher beſchrieben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1617_40_7">
+            <div type="jArticle" n="7" xml:id="a_1617_40_7">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Grauenhage</placeName> vom <date when="1616-10-05">5. October</date>.
 				</head>

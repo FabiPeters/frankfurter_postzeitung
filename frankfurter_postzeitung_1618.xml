@@ -234,7 +234,7 @@
             <titlePart type="volume">4.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_4_1">
+            <div type="jArticle" n="1" xml:id="a_1618_4_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q25409">Caſchaw</placeName>/ den <date when="1618-01-08">8. Januarij/ Anno 1618</date>.
 				</head>
@@ -250,7 +250,7 @@
 					<lb/>mit nach Erlaw geführet.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_4_2">
+            <div type="jArticle" n="2" xml:id="a_1618_4_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName>/ vom <date when="1618-01-17">17. Ditto</date>.
 				</head>
@@ -279,7 +279,7 @@
 					<lb/>fer zu tractiren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_4_3">
+            <div type="jArticle" n="3" xml:id="a_1618_4_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName>/ vom <date when="1618-01-23">23. Ditto</date>.
 				</head>
@@ -288,7 +288,7 @@
 					<lb/>Cantzley, aber iſt keine Verordnung noch geſchehen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_4_4">
+            <div type="jArticle" n="4" xml:id="a_1618_4_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName>/ vom <date when="1618-01-13">13. Ditto</date>.
 				</head>
@@ -308,7 +308,7 @@
 					<lb/>May ꝛc. ihnen in ſeinen <hi rendition="#aq">Vice Re</hi> Ampt wider beſtetiget
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_4_5">
+            <div type="jArticle" n="5" xml:id="a_1618_4_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName>/ vom <date when="1618-01-19">19.Ditto</date>
                </head>
@@ -425,7 +425,7 @@
                   <gap/> 2000. erlegt/ vnd <supplied cert="low">5</supplied>00 gefangen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_4_6">
+            <div type="jArticle" n="6" xml:id="a_1618_4_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-01-25">25. Ditto</date>.
 				</head>
@@ -622,7 +622,7 @@
             <titlePart type="volume">16.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_16_1">
+            <div type="jArticle" n="1" xml:id="a_1618_16_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1754">Stockholm</placeName> den <date when="1618-04-06">6. Aprilis</date>.
 				</head>
@@ -663,7 +663,7 @@
 					<lb/>ration iſt wider das <placeName ref="https://www.wikidata.org/wiki/">Königreich Schweden</placeName>/ gibt die Zeit wie es ablauffen wird.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_2">
+            <div type="jArticle" n="2" xml:id="a_1618_16_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q39">Schweitz</placeName> vom <date when="1618-04-08">8. Ditto</date>.
 				</head>
@@ -683,7 +683,7 @@
                      <placeName ref="https://www.wikidata.org/wiki/">Longueuille</placeName>:</hi> vnd nicht <hi rendition="#aq">ad arma</hi> außbreche.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_3">
+            <div type="jArticle" n="3" xml:id="a_1618_16_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-12-07">7. Ditto</date>.
 				</head>
@@ -723,7 +723,7 @@
 					<lb/>Italien ertheilt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_4">
+            <div type="jArticle" n="4" xml:id="a_1618_16_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-04-17">17. Ditto</date>.
 				</head>
@@ -793,7 +793,7 @@
 					<lb/>vnd ſeye derſelbig/ ſo es vorgehabt/ eingezogen worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_5">
+            <div type="jArticle" n="5" xml:id="a_1618_16_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1780">Preßburg</placeName> vom <date when="1618-04-08">8. Ditto</date>.
 				</head>
@@ -804,7 +804,7 @@
 					<lb/>digſt reſolviren ſollen/ deren Erklerung man nun gewertig.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_6">
+            <div type="jArticle" n="6" xml:id="a_1618_16_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-04-12">12. Ditto</date>.
 				</head>
@@ -817,7 +817,7 @@
 					<lb/>erörtert werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_7">
+            <div type="jArticle" n="7" xml:id="a_1618_16_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-04-16">16. Ditto</date>.
 				</head>
@@ -827,7 +827,7 @@
 					<lb/>gefehrlich/ zu deme werden die <orgName ref="https://www.wikidata.org/wiki/">Tartarn</orgName> dieſen Sommer auch nicht feyren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_8">
+            <div type="jArticle" n="8" xml:id="a_1618_16_8">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-04-19">19. Ditto</date>.
 				</head>
@@ -879,7 +879,7 @@
 					<lb/>Aviſo/ daß jnner 3. Monat noch 4. Schiff folgen ſollen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_16_9">
+            <div type="jArticle" n="9" xml:id="a_1618_16_9">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q365">Cölln</placeName> vom <date when="1618-04-26">26. Ditto</date>.
 				</head>
@@ -1003,7 +1003,7 @@
             <titlePart type="volume">21.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_21_1">
+            <div type="jArticle" n="1" xml:id="a_1618_21_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName>/ vom <date when="1618-05-12">12. Maij/ Anno 1618</date>.
 				</head>
@@ -1043,7 +1043,7 @@
 					<lb/>angeſehen ſeyn/ vnd vber 100. Segel ſtarck/ wider dieſes Ort ehiſt abfahren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_2">
+            <div type="jArticle" n="2" xml:id="a_1618_21_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName>/ vom <date when="1618-05-18">18. Ditto</date>.
 				</head>
@@ -1090,7 +1090,7 @@
                   <lb/>den.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_3">
+            <div type="jArticle" n="3" xml:id="a_1618_21_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q456">Lyon</placeName>/ vom <date when="1618-05-13">13. Ditto</date>.
 				</head>
@@ -1107,7 +1107,7 @@
                   <lb/>vnerörtert/ doch wirdt guter Vergleich verhoffet.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_4">
+            <div type="jArticle" n="4" xml:id="a_1618_21_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q2978">Regenſpurg</placeName>/ vom <date when="1618-05-21">21. Ditto</date>.
 				</head>
@@ -1125,7 +1125,7 @@
                   <lb/>Meintz/ auch ein Schiff mit viel Sachen vnd Dienern ankommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_5">
+            <div type="jArticle" n="5" xml:id="a_1618_21_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1780">Preßburg</placeName>/ vom <date when="1618-05-13">13. Ditto</date>.
 				</head>
@@ -1141,7 +1141,7 @@
                   <lb/>wehlet werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_6">
+            <div type="jArticle" n="6" xml:id="a_1618_21_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName>/ vom <date when="1618-05-16">16. Ditto</date>.
 				</head>
@@ -1178,7 +1178,7 @@
 					<lb/>iſt vnbewuſt/ darauff man 50000. Chronen zu anticipiren vorhabens.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_7">
+            <div type="jArticle" n="7" xml:id="a_1618_21_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> den <date when="1618-05-21">21. Ditto.</date>
                </head>
@@ -1204,7 +1204,7 @@
 					<lb/>wirdt/ gibt die zeit.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_21_8">
+            <div type="jArticle" n="8" xml:id="a_1618_21_8">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhaag</placeName> vom <date when="1618-05-24">24. Ditto</date>.
 				</head>
@@ -1362,7 +1362,7 @@
             <titlePart type="volume">22.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_22_1">
+            <div type="jArticle" n="1" xml:id="a_1618_22_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName>/ vom <date when="1618-05-19">19. Maij/ Anno 1618</date>.
 				</head>
@@ -1393,7 +1393,7 @@
 					<lb/>zu beſchlieſſen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_22_2">
+            <div type="jArticle" n="2" xml:id="a_1618_22_2">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName>/ vom <date when="1618-05-25">25. Ditto</date>.
 				</head>
@@ -1444,7 +1444,7 @@
 					<lb/>armirte Galleren/ nach Leuante auff eine gewiſſe Impreſſa abgefahren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_22_3">
+            <div type="jArticle" n="3" xml:id="a_1618_22_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName>/ vom <date when="1618-05-23">23. Ditto</date>.
 				</head>
@@ -1467,7 +1467,7 @@
 					<lb/>gen worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_22_4">
+            <div type="jArticle" n="4" xml:id="a_1618_22_4">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName>/ vom <date when="1618-05-29">29. Ditto</date>. 
 				</head>
@@ -1494,7 +1494,7 @@
 					<lb/>Befehlshaber ſind vorhanden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_22_5">
+            <div type="jArticle" n="5" xml:id="a_1618_22_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhaag</placeName>/ vom <date when="1618-06-01">erſten <choice>
                         <sic>Maij</sic>
@@ -1700,7 +1700,7 @@
             <titlePart type="volume">33.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_33_1">
+            <div type="jArticle" n="1" xml:id="a_1618_33_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-08-04">4. Auguſti. 1618</date>.
 				</head>
@@ -1750,7 +1750,7 @@
 					<lb/>ander gebohrne Jnfanta nach Spania abgereiſt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_33_2">
+            <div type="jArticle" n="2" xml:id="a_1618_33_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-08-11">11. Ditto</date>.
 				</head>
@@ -1811,7 +1811,7 @@
 					<lb/>Schaden gethan.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_33_3">
+            <div type="jArticle" n="3" xml:id="a_1618_33_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-08-09">9. Ditto</date>.
 				</head>
@@ -1835,7 +1835,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904399"
                    facs="#f0019"/>
             </div>
-            <div type="jArticle" xml:id="a_1618_33_4">
+            <div type="jArticle" n="4" xml:id="a_1618_33_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-08-17">17. Ditto</date>.
 				</head>
@@ -1850,7 +1850,7 @@
 					<lb/>Sonſten iſt den Budweiſſern erlaubt jhr Getreydt auff dem Feldt einzuernden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_33_5">
+            <div type="jArticle" n="5" xml:id="a_1618_33_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-08-14">14 Ditto</date>.
 				</head>
@@ -2039,7 +2039,7 @@
             <titlePart type="volume">35.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_35_1">
+            <div type="jArticle" n="1" xml:id="a_1618_35_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-08-18">18. Auguſt. 1618</date>.
 				</head>
@@ -2074,7 +2074,7 @@
 					<lb/>müſte ein theil dieſes Gelts auff ſeine Armada gebrauchen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_2">
+            <div type="jArticle" n="2" xml:id="a_1618_35_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-08-24">24. Ditto</date>.
 				</head>
@@ -2122,7 +2122,7 @@
                   <hi rendition="#aq">Corfu</hi> begleitet werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_3">
+            <div type="jArticle" n="3" xml:id="a_1618_35_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q578688">Pfaffenſchlag</placeName> vom <date when="1618-08-18">18. Ditto</date>.
 				</head>
@@ -2139,7 +2139,7 @@
 					<lb/>man vernimpt/ werden die Böhmen die Mauren/ vnd Graben zerſprengen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_4">
+            <div type="jArticle" n="4" xml:id="a_1618_35_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-08-22">22. Ditto</date>.
 				</head>
@@ -2197,7 +2197,7 @@
 					<lb/>erwartet.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_5">
+            <div type="jArticle" n="5" xml:id="a_1618_35_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-08-27">27. Ditto</date>.
 				</head>
@@ -2223,7 +2223,7 @@
 					<lb/>ner 8. Tagen/ der 5. Mann Landtvolck auch allhier ſeyn.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_6">
+            <div type="jArticle" n="6" xml:id="a_1618_35_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-08-30">30. Ditto</date>.
 				</head>
@@ -2279,7 +2279,7 @@
 					<lb/>angeregt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_35_7">
+            <div type="jArticle" n="7" xml:id="a_1618_35_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-08-31">31. Ditto</date>.
 				</head>
@@ -2393,7 +2393,7 @@
             <titlePart type="volume">36.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_36_1">
+            <div type="jArticle" n="1" xml:id="a_1618_36_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q31487">Craccaw</placeName> vom <date when="1618-08-16">16. Auguſti. 1618</date>.
 				</head>
@@ -2409,7 +2409,7 @@
 					<lb/>del zuſammen/ dem Feindt Widerſtandt zu thun.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_2">
+            <div type="jArticle" n="2" xml:id="a_1618_36_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-08-25">25. Ditto</date>.
 				</head>
@@ -2430,7 +2430,7 @@
 					<lb/>500. Mann zu Hülff verſprochen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_3">
+            <div type="jArticle" n="3" xml:id="a_1618_36_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-08-31">31. Ditto</date>.
 				</head>
@@ -2472,7 +2472,7 @@
 					<lb/>beſchloſſen worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_4">
+            <div type="jArticle" n="4" xml:id="a_1618_36_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-08-29">29. Ditto</date>.
 				</head>
@@ -2511,7 +2511,7 @@
 					<lb/>ſchickt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_5">
+            <div type="jArticle" n="5" xml:id="a_1618_36_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-09-02">2. Septemb</date>.
 				</head>
@@ -2552,7 +2552,7 @@
 					<lb/>wider abgetrieben/ er ſelbſten beſchädigt/ der vnſern auch viel erlegt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_6">
+            <div type="jArticle" n="6" xml:id="a_1618_36_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-09-05">5. Ditto</date>.
 				</head>
@@ -2644,7 +2644,7 @@
 					<lb/>vnd 4. Commiſſarien zu Verwaltung deſſen Ampts angeordtnet.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_36_7">
+            <div type="jArticle" n="7" xml:id="a_1618_36_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-09-06">6. Ditto</date>.
 				</head>
@@ -2749,7 +2749,7 @@
             <titlePart type="volume">38.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_38_1">
+            <div type="jArticle" n="1" xml:id="a_1618_38_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-09-08">8. Septemb. 1618</date>.
 				</head>
@@ -2779,7 +2779,7 @@
 					<lb/>welche zu Schlaven gemacht worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_2">
+            <div type="jArticle" n="2" xml:id="a_1618_38_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-09-14">14. Ditto</date>.
 					<lb/>ans Lant geſetzt/ aber deren 60. von ſelbigen Landſaſſen gefangen worden.
@@ -2812,7 +2812,7 @@
 					<lb/>ren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_3">
+            <div type="jArticle" n="3" xml:id="a_1618_38_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-09-13">13. Ditto</date>.
 				</head>
@@ -2863,7 +2863,7 @@
 					<lb/>daſelbſt ein Paſtey eingefallen iſt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_4">
+            <div type="jArticle" n="4" xml:id="a_1618_38_4">
                <head>
                   <lb/>
                   <placeName ref="https://www.wikidata.org/wiki/Q1741">Idem</placeName> vom <date when="1618-09-14">14. Ditto</date>.
@@ -2879,7 +2879,7 @@
 					<lb/>ſol zu Pilſen/ oder Eger ſeyn
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_5">
+            <div type="jArticle" n="5" xml:id="a_1618_38_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-09-16">16. Ditto</date>.
 				</head>
@@ -2924,7 +2924,7 @@
 					<lb/>gen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_6">
+            <div type="jArticle" n="6" xml:id="a_1618_38_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-09-18">18. Ditto</date>.
 				</head>
@@ -2966,7 +2966,7 @@
 					<lb/>den zu verſtärcken.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_38_7">
+            <div type="jArticle" n="7" xml:id="a_1618_38_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-09-19">19. Ditto</date>.
 				</head>
@@ -3101,7 +3101,7 @@
             <titlePart type="volume">39.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_39_1">
+            <div type="jArticle" n="1" xml:id="a_1618_39_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-09-15">15. Septemb. 1618</date>.
 				</head>
@@ -3124,7 +3124,7 @@
 					<lb/>ten ſie noch kein Volck ans Land geſetzt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_39_2">
+            <div type="jArticle" n="2" xml:id="a_1618_39_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-09-21">21. Ditto</date>.
 				</head>
@@ -3188,7 +3188,7 @@
 					<lb/>tan.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_39_3">
+            <div type="jArticle" n="3" xml:id="a_1618_39_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-09-20">20. Ditto</date>.
 				</head>
@@ -3203,7 +3203,7 @@
 					<lb/>Noch Gnad zu erzeigen/ den erfolg gibt die zeit. 
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_39_4">
+            <div type="jArticle" n="4" xml:id="a_1618_39_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-09-22">22. Ditto</date>.
 				</head>
@@ -3272,7 +3272,7 @@
 					<lb/>machen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_39_5">
+            <div type="jArticle" n="5" xml:id="a_1618_39_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-09-26">26. Ditto</date>.
 				</head>
@@ -3327,7 +3327,7 @@
 					<lb/>beijzuwohnen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_39_6">
+            <div type="jArticle" n="6" xml:id="a_1618_39_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-09-27">27. Ditto</date>
                </head>
@@ -3439,7 +3439,7 @@
             <titlePart type="volume">40.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_40_1">
+            <div type="jArticle" n="1" xml:id="a_1618_40_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-09-22">22. Septemb. 1618</date>.
 				</head>
@@ -3464,7 +3464,7 @@
 					<lb/>Oerter angeſteckt/ enthaupten laſſen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_2">
+            <div type="jArticle" n="2" xml:id="a_1618_40_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-09-28">28. Ditto</date>.
 				</head>
@@ -3514,7 +3514,7 @@
 					<lb/>tholiſchen zu rechen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_3">
+            <div type="jArticle" n="3" xml:id="a_1618_40_3">
                <head>
                   <lb/>Auß dem <placeName ref="https://www.wikidata.org/wiki/Q12548">Keyſ. Läger</placeName> vom <date when="1618-09-21">21. Ditto</date>.
 				</head>
@@ -3525,7 +3525,7 @@
 					<lb/>Fütterung / wil den Außgang gern ſehen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_4">
+            <div type="jArticle" n="4" xml:id="a_1618_40_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-09-26">26. Ditto</date>.
 				</head>
@@ -3541,7 +3541,7 @@
 					<lb/>ſchlechter Schadt beſchehen
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_5">
+            <div type="jArticle" n="5" xml:id="a_1618_40_5">
                <head>
                   <lb/>
                   <placeName ref="https://www.wikidata.org/wiki/Q1741">Idem</placeName> vom <date when="1618-09-27">27. Ditto</date>.
@@ -3567,7 +3567,7 @@
 					<lb/>vnd niemandt auß noch eingelaſſen werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_6">
+            <div type="jArticle" n="6" xml:id="a_1618_40_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q12548">Prag</placeName> vom <date when="1618-09-30">30. Ditto</date>
                </head>
@@ -3608,7 +3608,7 @@
 					<lb/>ſchlechtes Anſehen zum Frieden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_7">
+            <div type="jArticle" n="7" xml:id="a_1618_40_7">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom 2. Octob.
 				</head>
@@ -3671,7 +3671,7 @@
 					<lb/>men/ der iſt ſchon 2. mal eingeruffen worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_40_8">
+            <div type="jArticle" n="8" xml:id="a_1618_40_8">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom 3. Ditto.
 				</head>
@@ -3792,7 +3792,7 @@
             <titlePart type="volume">41.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_41_1">
+            <div type="jArticle" n="1" xml:id="a_1618_41_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-09-29">29. Septemb. 1618</date>.
 				</head>
@@ -3823,7 +3823,7 @@
                   <hi rendition="#aq">Priuli</hi> 500. Ducaten auff die Kirchen zu <hi rendition="#aq">Corfu aſſignirt</hi> worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_41_2">
+            <div type="jArticle" n="2" xml:id="a_1618_41_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-10-05">5. Octob</date>.
 				</head>
@@ -3885,7 +3885,7 @@
 					<lb/>zum beſten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_41_3">
+            <div type="jArticle" n="3" xml:id="a_1618_41_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-10-04">4. Ditto</date>.
 				</head>
@@ -3917,7 +3917,7 @@
 					<lb/>muſtern ſoll.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_41_4">
+            <div type="jArticle" n="4" xml:id="a_1618_41_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-10-07">7. Ditto</date>.
 				</head>
@@ -3949,7 +3949,7 @@
 					<lb/>ber daſelbſten gefangen bekommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_41_5">
+            <div type="jArticle" n="5" xml:id="a_1618_41_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-10-09">9. Ditto</date>.
 				</head>
@@ -3989,7 +3989,7 @@
 					<lb/>nandt/ welcher zu Leyden vnd Harlem ſich eine gute Zeit hero gehalten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_41_6">
+            <div type="jArticle" n="6" xml:id="a_1618_41_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-10-10">10. Ditto</date>.
 				</head>
@@ -4134,7 +4134,7 @@
             <titlePart type="volume">42.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_42_1">
+            <div type="jArticle" n="1" xml:id="a_1618_42_1">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-10-06">6. Octob. 1618</date>.
 				</head>
@@ -4166,7 +4166,7 @@
 					<lb/>diren auff. ſich genommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_42_2">
+            <div type="jArticle" n="2" xml:id="a_1618_42_2">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-10-12">12. Ditto</date>.
 				</head>
@@ -4218,7 +4218,7 @@
 					<lb/>laubnus erlangt hat.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_42_3">
+            <div type="jArticle" n="3" xml:id="a_1618_42_3">
                <head>
                   <lb/>Aus <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-10-11">11. Ditto</date>.
 				</head>
@@ -4263,7 +4263,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904427"
                    facs="#f0047"/>
             </div>
-            <div type="jArticle" xml:id="a_1618_42_4">
+            <div type="jArticle" n="4" xml:id="a_1618_42_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-10-14">14. Ditto</date>.
 				</head>
@@ -4297,7 +4297,7 @@
 					<lb/>daten einen Monat Soldt zu bezahlen anerbotten haben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_42_5">
+            <div type="jArticle" n="5" xml:id="a_1618_42_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-10-16">16. Ditto</date>.
 				</head>
@@ -4356,7 +4356,7 @@
 					<lb/>ſet ſich anſehen/ daß auff ein andere Weiſe gegen ihnen ſolle procedirt werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_42_6">
+            <div type="jArticle" n="6" xml:id="a_1618_42_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-10-17">17. Ditto</date>.
 				</head>
@@ -4477,7 +4477,7 @@
             <titlePart type="volume">43.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_43_1">
+            <div type="jArticle" n="1" xml:id="a_1618_43_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-10-13">13. Octob. 1618</date>.
 				</head>
@@ -4506,7 +4506,7 @@
 					<lb/>Fähnlein gemacht worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_43_2">
+            <div type="jArticle" n="2" xml:id="a_1618_43_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-10-19">19. Ditto</date>.
 				</head>
@@ -4563,7 +4563,7 @@
 					<lb/>ſchwembt/ viel Schaden gethan/ vnd 80. Perſonen erſäufft.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_43_3">
+            <div type="jArticle" n="3" xml:id="a_1618_43_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-10-08">8. Ditto</date>.
 				</head>
@@ -4605,7 +4605,7 @@
 					<lb/>hen/ <hi rendition="#aq">Interim</hi> verſehen vnd verſchantzen ſich beyde Läger ſtarck gegen einander.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_43_4">
+            <div type="jArticle" n="4" xml:id="a_1618_43_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-10-20">20. Ditto</date>.
 				</head>
@@ -4620,7 +4620,7 @@
                   <lb/>mit 40. Pferden/ 600. Kugeln/ vnd etlich Pulffer/ nach Pilſen zugeführt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_43_5">
+            <div type="jArticle" n="5" xml:id="a_1618_43_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-10-24">24. Ditto</date>.
 				</head>
@@ -4670,7 +4670,7 @@
 					<lb/>fallen wirdt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_43_6">
+            <div type="jArticle" n="6" xml:id="a_1618_43_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> den <date when="1618-10-25">25. Ditto</date>.
 				</head>
@@ -4826,7 +4826,7 @@
             <titlePart type="volume">44.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_44_1">
+            <div type="jArticle" n="1" xml:id="a_1618_44_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> den <date when="1618-10-20">20. Octob. 1618</date>.
 				</head>
@@ -4849,7 +4849,7 @@
 					<lb/>gemeinen Volck/ vmb ſtillung der Böhmiſchen Vnruhe/ gebetten worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_44_2">
+            <div type="jArticle" n="2" xml:id="a_1618_44_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom 16. Ditto.
 				</head>
@@ -4896,7 +4896,7 @@
 					<lb/>ſina/ zu der Spaniſchen Armada zu ſtoſſen/ jre vorhabende <hi rendition="#aq">Impreſa</hi> vorzunem̃en.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_44_3">
+            <div type="jArticle" n="3" xml:id="a_1618_44_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-10-25">25. Ditto</date>.
 				</head>
@@ -4947,7 +4947,7 @@
 					<lb/>hilffloß nicht laſſen können/ welches viel <hi rendition="#aq">diſguſti</hi> vervrſacht.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_44_4">
+            <div type="jArticle" n="4" xml:id="a_1618_44_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-10-28">28. Ditto</date>.
 				</head>
@@ -4982,7 +4982,7 @@
 					<lb/>Maj. hingegen aber auch den Fürſten/ was ſie jnen zugeſagt/ zu halten erklärt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_44_5">
+            <div type="jArticle" n="5" xml:id="a_1618_44_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-10-30">30. Ditto</date>.
 				</head>
@@ -5029,7 +5029,7 @@
 					<lb/>der Vtenbogart/ neben dem von der Mylen/ auch auffhelt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_44_6">
+            <div type="jArticle" n="6" xml:id="a_1618_44_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> den 31. Ditto.
 				</head>
@@ -5169,7 +5169,7 @@
             <titlePart type="volume">45.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_45_1">
+            <div type="jArticle" n="1" xml:id="a_1618_45_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q90">Pariß</placeName> vom <date when="1618-10-26">26. Octob. 1618</date>.
 				</head>
@@ -5258,7 +5258,7 @@
                   <lb/>jeder/ wer wil/ dieſelbe zu Blois beſuchen/ wie von vielen beſchicht.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_2">
+            <div type="jArticle" n="2" xml:id="a_1618_45_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-10-27">27. Octob. 1618</date>.
 				</head>
@@ -5273,7 +5273,7 @@
 					<lb/>Adel/ iſt er enthäupt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_3">
+            <div type="jArticle" n="3" xml:id="a_1618_45_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-11-02">2. Nouemb</date>.
 				</head>
@@ -5305,7 +5305,7 @@
 					<lb/>hauß zu fahren/ die runde Vaſellẽ aber weren bey <hi rendition="#aq">Monte S. Angelo</hi> geſehẽ worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_4">
+            <div type="jArticle" n="4" xml:id="a_1618_45_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> den <date when="1618-11-01">1. Nouemb. 1618</date>.
 				</head>
@@ -5347,7 +5347,7 @@
 					<lb/>Der Schleſiſche Fürſtentag ſolle inner 3. Wochen ſeinen anfang erreichen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_5">
+            <div type="jArticle" n="5" xml:id="a_1618_45_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> den <date when="1618-11-04">4. Ditto</date>.
 				</head>
@@ -5377,7 +5377,7 @@
 					<lb/>kompt heut im Läger an/ habẽ 9. ſtück Geſchütz bey ſich.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_6">
+            <div type="jArticle" n="6" xml:id="a_1618_45_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-11-06">6. Nouemb</date>.
 				</head>
@@ -5414,7 +5414,7 @@
 					<lb/>ſo nunmehr 71. Jahr alt/ ſoll ziemlich ſchwach ſeyn.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_45_7">
+            <div type="jArticle" n="7" xml:id="a_1618_45_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-11-07">7. Ditto</date>.
 				</head>
@@ -5521,7 +5521,7 @@
             <titlePart type="volume">46.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_46_1">
+            <div type="jArticle" n="1" xml:id="a_1618_46_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-11-03">3. Nouemb. 1618</date>.
 				</head>
@@ -5546,7 +5546,7 @@
 					<lb/>erwehlt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_2">
+            <div type="jArticle" n="2" xml:id="a_1618_46_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-11-09">9. Ditto</date>.
 				</head>
@@ -5584,7 +5584,7 @@
 					<lb/>ſeinem Bruder <hi rendition="#aq">Principe Vittorio,</hi> vnd deß Königs Schweſter/ zu tractiren.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_3">
+            <div type="jArticle" n="3" xml:id="a_1618_46_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-11-08">8. Ditto</date>.
 				</head>
@@ -5642,7 +5642,7 @@
 					<lb/>ſehr beſchwert.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_4">
+            <div type="jArticle" n="4" xml:id="a_1618_46_4">
                <head>
                   <lb/>Auß dem <placeName ref="https://www.wikidata.org/wiki/Q43453">Feldläger vor Pilſen</placeName> vom <date when="1618-11-08">8. Ditto</date>.
 				</head>
@@ -5655,7 +5655,7 @@
 					<lb/>gethan/ Die drinnen ſollen reſoluirt ſeyn/ Leib vnd Leben bey der Statt zu laſſen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_5">
+            <div type="jArticle" n="5" xml:id="a_1618_46_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-11-10">10. Ditto</date>.
 				</head>
@@ -5679,7 +5679,7 @@
 					<lb/>ren: Man ſagt/ es ſolle mit ſelbiger Statt noch zur Commiſſion kommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_6">
+            <div type="jArticle" n="6" xml:id="a_1618_46_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-11-13">13. Nouemb</date>.
 				</head>
@@ -5750,7 +5750,7 @@
 					<lb/>Anordnung widerſetzen/ anders verfahren/ vnd nit mehr durch die Finger ſehen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_46_7">
+            <div type="jArticle" n="7" xml:id="a_1618_46_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-11-14">14. Ditto</date>.
 				</head>
@@ -5868,7 +5868,7 @@
             <titlePart type="volume">47.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_47_1">
+            <div type="jArticle" n="1" xml:id="a_1618_47_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-11-10">10. Nouemb. 1618</date>.
 				</head>
@@ -5895,7 +5895,7 @@
 					<lb/>gedanckt/ vnd von allen verlauffenen Sachen ein Abbitt gethan.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_47_2">
+            <div type="jArticle" n="2" xml:id="a_1618_47_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-11-16">16. Ditto</date>.
 				</head>
@@ -5939,7 +5939,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904447"
                    facs="#f0066"/>
             </div>
-            <div type="jArticle" xml:id="a_1618_47_3">
+            <div type="jArticle" n="3" xml:id="a_1618_47_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-11-14">14. Ditto</date>.
 				</head>
@@ -5969,7 +5969,7 @@
 					<lb/>Soldaten an/ Sonſten befinden ſich beyde J. K. M. jetzt/ Gott lob/ beſſer auff.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_47_4">
+            <div type="jArticle" n="4" xml:id="a_1618_47_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-11-18">18. Ditto</date>.
 				</head>
@@ -6048,7 +6048,7 @@
 					<lb/>in dieſem Vnweſen beſchloſſen/ wirdt zuvor mit Schleſien communiciert.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_47_5">
+            <div type="jArticle" n="5" xml:id="a_1618_47_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-11-20">20. Nouemb</date>.
 				</head>
@@ -6084,7 +6084,7 @@
 					<lb/>geheim gehalten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_47_6">
+            <div type="jArticle" n="6" xml:id="a_1618_47_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdamb</placeName> vom <date when="1618-11-21">21. Ditto</date>.
 				</head>
@@ -6224,7 +6224,7 @@
             <titlePart type="volume">49.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_49_1">
+            <div type="jArticle" n="1" xml:id="a_1618_49_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-11-24">24. Nouemb. 1618</date>.
 				</head>
@@ -6253,7 +6253,7 @@
 					<lb/>in die Flucht getrieben.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_49_2">
+            <div type="jArticle" n="2" xml:id="a_1618_49_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-11-30">30. Ditto</date>.
 				</head>
@@ -6295,7 +6295,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904451"
                    facs="#f0070"/>
             </div>
-            <div type="jArticle" xml:id="a_1618_49_3">
+            <div type="jArticle" n="3" xml:id="a_1618_49_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-11-29">29. Ditto</date>.
 				</head>
@@ -6356,7 +6356,7 @@
 					<lb/>Senfften/ nach Jnßbrug gefürhrt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_49_4">
+            <div type="jArticle" n="4" xml:id="a_1618_49_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1713787">Rudolffſtatt/</placeName> im Quartier vom <date when="1618-11-28">28. Ditto</date>.
 				</head>
@@ -6393,7 +6393,7 @@
 					<lb/>gethan/ doch ohne Schaden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_49_5">
+            <div type="jArticle" n="5" xml:id="a_1618_49_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-12-02">2. Decemb</date>.
 				</head>
@@ -6573,7 +6573,7 @@
             <titlePart type="volume">50.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_50_1">
+            <div type="jArticle" n="1" xml:id="a_1618_50_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-12-01">1. Decemb. 1618</date>.
 				</head>
@@ -6601,7 +6601,7 @@
 					<lb/>Wechſels wider auffgehebt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_2">
+            <div type="jArticle" n="2" xml:id="a_1618_50_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-12-07">7. Ditto</date>.
 				</head>
@@ -6650,7 +6650,7 @@
 					<lb/>vermuthet wirdt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_3">
+            <div type="jArticle" n="3" xml:id="a_1618_50_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q16506">Budweiß</placeName> vom <date when="1618-12-02">2. Ditto</date>.
 				</head>
@@ -6664,7 +6664,7 @@
 					<lb/>auffbauwen anſehenlicher Schantzen vnd Forten.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_4">
+            <div type="jArticle" n="4" xml:id="a_1618_50_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-12-06">6. Ditto</date>.
 				</head>
@@ -6742,7 +6742,7 @@
 					<lb/>einen langen Stralen von ſich gibt/ vnd ſich etlich mal verkehrt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_5">
+            <div type="jArticle" n="5" xml:id="a_1618_50_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-12-08">8. Ditto</date>.
 				</head>
@@ -6775,7 +6775,7 @@
                <pb corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904457"
                    facs="#f0076"/>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_6">
+            <div type="jArticle" n="6" xml:id="a_1618_50_6">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-12-11">11. Ditto</date>.
 				</head>
@@ -6818,7 +6818,7 @@
 					<lb/>fung beyderſeits Ambaſſatorn/ hinzulegen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_50_7">
+            <div type="jArticle" n="7" xml:id="a_1618_50_7">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdam</placeName> vom <date when="1618-12-12">12. Ditto</date>.
 				</head>
@@ -6925,7 +6925,7 @@
             <titlePart type="volume">51.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_51_1">
+            <div type="jArticle" n="1" xml:id="a_1618_51_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-12-08">8. Decemb. 1618</date>.
 				</head>
@@ -6950,7 +6950,7 @@
 					<lb/>ren vom Vngewitter erlittenen Schaden zu verbeſſern.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_51_2">
+            <div type="jArticle" n="2" xml:id="a_1618_51_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom <date when="1618-12-14">14. Ditto</date>.
 				</head>
@@ -6987,7 +6987,7 @@
 					<lb/>ſelbiger Landsart Wahren beladen/ ankommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_51_3">
+            <div type="jArticle" n="3" xml:id="a_1618_51_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-12-14">14. Ditto</date>.
 				</head>
@@ -7040,7 +7040,7 @@
 					<lb/>in Gott ſeliglich entſchlaffen/ derwegen hie wider Trawrigkeit eyngefallen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_51_4">
+            <div type="jArticle" n="4" xml:id="a_1618_51_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-12-16">16. Ditto</date>.
 				</head>
@@ -7106,7 +7106,7 @@
 					<lb/>damit ſolches Volck auffn Notfall in der eil wider beyſammen zu bringen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_51_5">
+            <div type="jArticle" n="5" xml:id="a_1618_51_5">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-12-18">18. Ditto</date>.
 				</head>
@@ -7152,7 +7152,7 @@
 					<lb/>Vngnaden vnd Gefahr beym König.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_51_6">
+            <div type="jArticle" n="6" xml:id="a_1618_51_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdam</placeName> vom <date when="1618-12-19">19. Ditto</date>.
 				</head>
@@ -7279,7 +7279,7 @@
             <titlePart type="volume">52.</titlePart>
          </front>
          <body>
-            <div type="jArticle" xml:id="a_1618_52_1">
+            <div type="jArticle" n="1" xml:id="a_1618_52_1">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q11925">Graupünten</placeName> vom <date when="1618-12-10">10. Decemb. 1618</date>.
 				</head>
@@ -7312,7 +7312,7 @@
 					<lb/>Planta ſehr vnrühig/ ſuchen bey den 7. Catholiſchen Orten hilff/ ſich zu rechen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_2">
+            <div type="jArticle" n="2" xml:id="a_1618_52_2">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q456">Lion</placeName> vom <date when="1618-12-12">12. Ditto</date>.
 				</head>
@@ -7334,7 +7334,7 @@
 					<lb/>tin verehrt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_3">
+            <div type="jArticle" n="3" xml:id="a_1618_52_3">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q220">Rohm</placeName> vom <date when="1618-12-15">15. Ditto</date>.
 				</head>
@@ -7348,7 +7348,7 @@
 					<lb/>Mann zu Fuß geworben/ vnd alle außländiſche Vaſellen verarreſtirt werden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_4">
+            <div type="jArticle" n="4" xml:id="a_1618_52_4">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q641">Venedig</placeName> vom 21. Ditto.
 				</head>
@@ -7375,7 +7375,7 @@
 					<lb/>fahren/ vnd der <hi rendition="#aq">Ecc. Venier,</hi> als General/ wider zurück hieher kommen.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_5">
+            <div type="jArticle" n="5" xml:id="a_1618_52_5">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1741">Wien</placeName> vom <date when="1618-12-20">20. Ditto</date>.
 				</head>
@@ -7447,7 +7447,7 @@
 					<lb/>neuburg vnd Cloſternenburg ſeindt beſetzt worden.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_6">
+            <div type="jArticle" n="6" xml:id="a_1618_52_6">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q1085">Prag</placeName> vom <date when="1618-12-23">23. Ditto</date>.
 				</head>
@@ -7474,7 +7474,7 @@
 					<lb/>den Ständen 3000. Mann zu Fuß/ vnd 1000. Pferd offerirt.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_7">
+            <div type="jArticle" n="7" xml:id="a_1618_52_7">
                <head>
                   <lb/>Auß deß <placeName ref="https://www.wikidata.org/wiki/Q36600">Gravenhage</placeName> vom <date when="1618-12-24">24. Ditto.</date>
                </head>
@@ -7536,7 +7536,7 @@
 					<lb/>deren wol etliche auch nach Spanien muſſen/ vnd neuwe Rechnung thun.
 				</p>
             </div>
-            <div type="jArticle" xml:id="a_1618_52_8">
+            <div type="jArticle" n="8" xml:id="a_1618_52_8">
                <head>
                   <lb/>Auß <placeName ref="https://www.wikidata.org/wiki/Q727">Ambſterdam</placeName> vom <date when="1618-12-25">25. Ditto</date>.
 				</head>
