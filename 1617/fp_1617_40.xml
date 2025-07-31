@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fp_1617_40">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Frankfurter Postzeitung, Jahrgang 1617, 40</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <title/>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: fabianpeters@mailbox.org</publisher>
+               <date>1615</date>
+               <biblScope unit="issue">40</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Long S (Source uses long "s"): Long s is transcribed as "ſ" U+017F "Latin small letter long s"</p>
+            <p>u and v (Source uses v for u): Transcribed as in source</p>
+            <p>i and j (Source uses "i" and "j" differently to modern spelling): Transcribed as in source</p>
+            <p>Ligature "sz" ("sz" is set as ligature): Transcribed as "sz"</p>
+            <p>Text regions (Regions which contain handwritten text): Manually corrected</p>
+            <p>Line Regions (Contain the text of line): Automatically created</p>
+            <p>Baselines (The baseline is defined as in Wikipedia - characters are "sitting" on the baseline): Manually corrected</p>
+            <p>Omitted text (Even in diplomatic transcriptions the editor may decide to not transcribe specific notes or marginalia which do not contribute to the overall objective of the transcription): No text was omitted</p>
+            <p>Person names (Tagging of person names): Person names were tagged</p>
+            <p>Geo-Names (Tagging of geo-names): Geo-names were tagged</p>
+            <p>Abbreviations - common (Common abbreviations are usually known to most readers of a text, for example: e.g., i.e., &amp;, etc.): Common abbreviations were not expanded</p>
+            <p>Abbreviations (Especially in medieval texts and early modern handwritting many words are abbreviated, or even characters are left out in the middle of a word. These abbreviations often need deep grammatical understanding to be correctly expanded.): Abbreviations were not marked</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile/>
+   <text>
+      <front>
+         <pb xmlns=""
+             corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/"/>
+         <docTitle>
+            <lb facs="#facs_1_r1l1"/>
+            <titlePart type="issue" n="40">40.</titlePart>
+         </docTitle>
+      </front>
+      <body>
+         <div type="jArticle" n="1" xml:id="fp_1617_40_1">
+            <head>
+               <lb facs="#facs_1_r2l1"/>Auß <placeName key="Q6596">Goͤrtz</placeName> vom <date when="1617-09-18">18. Se<supplied>p</supplied>tember. 1617</date>.
+				</head>
+            <p>
+               <lb facs="#facs_1_r3l1"/>
+               <hi rendition="#in">D</hi>En <date when="1617-09-10">10. diß</date>/ hat ſich zwiſchen vnſerm C<supplied>a</supplied>pitan Peter <hi rendition="#aq">Vaſques</hi>, vñ einem Ca-
+					<lb facs="#facs_1_r3l2"/>pitan <hi rendition="#aq">de Corſi</hi> vnder den Venedige<supplied>rn</supplied>/ ein ſtreitt zwiſchen beyden Laͤgern
+					<lb facs="#facs_1_r3l3"/>zu Roß zugetragen/ darbey von we<supplied>ren</supplied> viel fuͤrnehme herrn/ vnder andern
+					<lb facs="#facs_1_r3l4"/>der Hertzog von Modena/ wie auch <hi rendition="#aq">Don I<supplied>oa</supplied>n di Medici</hi> mit 2. Corneten Reutern/
+					<lb facs="#facs_1_r3l5"/>hinder Palmarina haltent zugeſehen/ deß F<supplied>ei</supplied>ndtshauptmann hat ein ſchuß/ vñ mit
+					<lb facs="#facs_1_r3l6"/>eim Degen ein vbeln ſtreich ins geſicht beko<supplied>mm</supplied>en /der vnſere iſt zwar auch doch ohne
+					<lb facs="#facs_1_r3l7"/>ſchaden geſtreifft worden/ nach verrichtung <supplied>de</supplied>ſſelben haben ſie ſich wider verglichen/
+					<lb facs="#facs_1_r3l8"/>vnd ſich ein jeder mit ſeinem beyſtandt in ſei<supplied>n</supplied> Laͤger reterirt / man iſt beyderſeits in
+					<lb facs="#facs_1_r3l9"/>ſtarcker bereitſchafft geſtanden/ biß der hand<supplied>el</supplied> fuͤr vber geweſen.
+				</p>
+            <p>
+               <lb facs="#facs_1_r4l1"/>Mit Gradiſca ſtehets gefehrlich/ dañ der <supplied>fei</supplied>nd beſcheuſt ſolche mit 20 ſtuͤcken ge-
+					<lb facs="#facs_1_r4l2"/>ſchuͤtz tag vnd nacht/ vnd hat in einem tag bey 20. ſchuͤß hinein gethan/ vnd wo man
+					<lb facs="#facs_1_r4l3"/>nit anders zu dieſem Krieg thue/ moͤchte man <supplied>ſol</supplied>cher Voͤſtung verluſtigt werden/ der
+					<lb facs="#facs_1_r4l4"/>Feindt hai dermaſſen die Paß geſpert/ vnnd <supplied>i</supplied>ngenommen/ dz faſt vnmuͤglich ohne
+					<lb facs="#facs_1_r4l5"/>groſſe gewalt etwas mehr hinein zubringen / e<supplied>s</supplied> ſeind faſt alle einwohner heranß/ vnd
+					<lb facs="#facs_1_r4l6"/>iſt der Cantzler daſelbſt vor 3 tagẽ/ auch mit <supplied>w</supplied>eib vñ kind herauß gezogen/ dem Feind
+					<lb facs="#facs_1_r4l7"/>in die haͤnde kommen/ vñ auff Palma gefuͤhr<supplied>t</supplied> werden/ iſt auch ſo groſſe noth an Pro-
+					<lb facs="#facs_1_r4l8"/>uiant darinn/ daß ſie ſchon das Roßfleiſch <supplied>zu</supplied>eſſen/ anfangen/ man iſt alhier auch in
+					<lb facs="#facs_1_r4l9"/>gefahr/ dann viel Haͤupter abweſende vnn<supplied>d</supplied> die Soldaten/ an jhrem Soldt groſſen
+					<lb facs="#facs_1_r4l10"/>mangel haben/ iſt alſo nichts guts darauß zuhoffen/ vnd wann der zeit die Wein<supplied>heer</supplied>
+               <lb facs="#facs_1_r4l11"/>nicht dz beſte theten/ wuͤſten ſie nit zuleben.
+				</p>
+            <p>
+               <lb facs="#facs_1_r5l1"/>Der Feindt hat dieſer tagen ein groſſen Soccors zu Roß vnd Fuß bekomwer.
+					<lb facs="#facs_1_r5l2"/>deren meiſtentheils Tuͤrckiſche Vnderthanen ſein/ deß gleichen auch <supplied>v.</supplied> groſſe <gap/>S<gap/>d
+					<lb facs="#facs_1_r5l3"/>mit newen Hollaͤndern / entgegen ſeind wir gar ſchwach/ vnd je lenger je weniger.
+				</p>
+            <p>
+               <lb facs="#facs_1_r6l1"/>Geſtern hat herꝛ Hauptman von Herberſtein/ ein groß vngluͤck/ als er ſampt
+					<lb facs="#facs_1_r6l2"/>herꝛn Hauptmann Brußki zwiſchen der Jſnttz etliche ſchuͤß vnder die Feinde thun
+					<lb facs="#facs_1_r6l3"/>laſſen/ außgeſtanden/ in dem er ſich reteriren woͤllen/ kompt ein ſchuß auß deß Feinds
+					<lb facs="#facs_1_r6l4"/>Schantz/ vnd ſcheuſt jhme herꝛn eine groſſe Guͤldene Ketten von kleinen gliedern/
+					<lb facs="#facs_1_r6l5"/>vom leibe daß ſie auff die erden gefallen/ doch am leibe nichts beſchedigt.
+				</p>
+            <p>
+               <lb facs="#facs_1_r7l1"/>Man hat auiſo / als die Venediger die alten Hollendiſche Soldaten gemuſtert/
+					<lb facs="#facs_1_r7l2"/>bezalt/ vnd wider <hi rendition="#aq">de nouo</hi> werben/ vnd beſtellet/ haben ſie jhnen nit mehr dienen/ ſon-
+					<lb facs="#facs_1_r7l3"/>dern wider in jhr Landt ziehen wollen.
+				</p>
+            <p>
+               <lb facs="#facs_1_r8l1"/>Auff vnſerſeits iſt herꝛ Obriſter Leutenandt Meilgraber/ weilen er ſeine zeit auß-
+					<lb facs="#facs_1_r8l2"/>gedient/ mit den ſeinen wider ab/ vnd nach hauß gen Wareſtin in Windiſchen Landt
+					<lb facs="#facs_1_r8l3"/>gezogen/ welches dem Feindt greſſen muth macht/ weilen er Meilgraber den beſten
+					<lb facs="#facs_1_r8l4"/>Kern vom Kriegsvolck beyſammen gehabt.
+				</p>
+         </div>
+         <div type="jArticle" n="2" xml:id="fp_1617_40_2">
+            <head>
+               <lb facs="#facs_1_r9l1"/>Auß <placeName key="Q1741">Wien</placeName> vom <date when="1617-09-27">27. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_1_r10l1"/>Demnach vor etlichen tagen/ die 2. junge Hertzogen von Sachſen Lawenburg al-
+					<lb facs="#facs_1_r10l2"/>hier ankommen/ deren der Elter 500. Pferdt fuͤr den Koͤnig Ferdinandum wider die
+					<lb facs="#facs_1_r10l3"/>Venediger fuͤhrt/ ſeindt ſolche den <date when="1617-09-25">25. diß</date> mit 70. Pferdten vnnd fuͤhrenden Fahnen
+					<lb facs="#facs_1_r10l4"/>von hier ſtatlich mit Trometen/ vnd Heerbaucken hinweg/ vnnd nach Newkirchen/
+					<lb facs="#facs_1_r10l5"/>bey der Neuſtatt (alda ſie bereit beyſammen/ vnd der Muſterplatz auff <date when="1617-09-26">26. diß</date> ange-
+				</p>
+            <pb xmlns=""
+                corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/"/>
+            <p>
+               <lb facs="#facs_2_r1l1"/>ſtelt.) verreiſt/ denen der allhieſige Spaniſche Zahlmeiſter Amptsverwalter Beuerl
+					<lb facs="#facs_2_r1l2"/>den erſten MonatSoldt gereicht/ <gap/>e werden nun baldt fort ruͤcken/ vnnd wirdt der
+					<lb facs="#facs_2_r1l3"/>
+               <supplied>j</supplied>unge herꝛ von Loſenſtein deß herꝛn <supplied>O</supplied>briſten Hoff Marſchalcks Vetter/ vnter dem
+					<lb facs="#facs_2_r1l4"/>herꝛn Obriſten Tampier auch eine<supplied>n</supplied> Soldaten hinein geben.
+				</p>
+         </div>
+         <div type="jArticle" n="3" xml:id="fp_1617_40_3">
+            <head>
+               <lb facs="#facs_2_r2l1"/>Auß <placeName key="Q220">Rohm</placeName> vom <date when="1617-09-23">23. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_2_r3l1"/>Neapolitaniſche brieff berichten/ da<supplied>ß</supplied> alle Vaſellen zu der Meer armada gehoͤrig/
+					<lb facs="#facs_2_r3l2"/>bereitfertig zur abfarth/ vnd allein gu<supplied>t</supplied>en Windts erwarten/ ſol alſo dieſe Armada
+					<lb facs="#facs_2_r3l3"/>ſtercker als die erſte ſein/ ſo ſchreibt ma<supplied>n</supplied> auch von Malta/ das ſelbige Jnſul in ſtetter
+					<lb facs="#facs_2_r3l4"/>Ruͤſtung ſtehe/ da die Tuͤrckiſche A<supplied>rm</supplied>ada/ ſo ſich jetzt in der Jnſul Gozzo befinden
+					<lb facs="#facs_2_r3l5"/>ſolle/ was gegen ſie tentiren wolte/ derſ<supplied>e</supplied>lben widerſtandt zuthun/ die hat nit weit von
+					<lb facs="#facs_2_r3l6"/>Malta eine Feluchen von der Chriſte<supplied>n</supplied> Armada/ vñ nach Leuante fahrend/ gefangẽ.
+				</p>
+            <p>
+               <lb facs="#facs_2_r4l1"/>Auß Spania hat man/ das im S<gap/>etto di Gibraltar ſich zwiſchen 12. Portuge-
+					<lb facs="#facs_2_r4l2"/>ſiſchen Galeren/ vnd 10. Corſariſche Vaſellen ein ſtreit erhoben/ dar durch 4. Vaſel-
+					<lb facs="#facs_2_r4l3"/>len erſeufft/ vnd die andern von den Portugeſern gefangen worden.
+				</p>
+         </div>
+         <div type="jArticle" n="4" xml:id="fp_1617_40_4">
+            <head>
+               <lb facs="#facs_2_r5l1"/>Auß <placeName key="Q456">Lion</placeName> vom <date when="1617-09-24">24. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_2_r6l1"/>Man gibt noch auß/ das der Frieden zwiſchen dem Koͤnig in Boͤheimb/ vnd Ve-
+					<lb facs="#facs_2_r6l2"/>nedigern wie gleichfals zwiſchen Spania/ vnd Sauoia gewiß beſchloſſen worden.
+				</p>
+            <p>
+               <lb facs="#facs_2_r7l1"/>Auff <date when="1617-09-15">15. diß</date> hat man den Printzen von Conde/ vnd ſein Gemahl/ in das Schloß
+					<lb facs="#facs_2_r7l2"/>
+               <hi rendition="#aq">Vincennes</hi>/ ſo nit weit von hier ligt/ gefuͤhrt/ daſelbſten ſol er noch viel ſtrenger/ als
+					<lb facs="#facs_2_r7l3"/>
+               <hi rendition="#aq">ala Baſtiglia</hi> verwarth werden/ etliche vermuhten/ er moͤchte dieſer Enderung halber
+					<lb facs="#facs_2_r7l4"/>deſto eher ledig kommen/ ſonſten ſolle man ſeither den Freyherꝛn von Vigean/ vnd
+					<lb facs="#facs_2_r7l5"/>
+               <hi rendition="#aq">dela Fiſque ala Baſtiglia</hi> gefangen gelegt haben/ weil ſie accuſirt werden/ das ſie
+					<lb facs="#facs_2_r7l6"/>Printzen von Conde außhelffen wollen.
+				</p>
+            <p>
+               <lb facs="#facs_2_r8l1"/>Der Hertzogen <hi rendition="#aq">di Niuers,</hi> vnnd Maijenne ſeindt wider zu Hoff bey jhrer May.
+					<lb facs="#facs_2_r8l2"/>ankommen.
+				</p>
+         </div>
+         <div type="jArticle" n="5" xml:id="fp_1617_40_5">
+            <head>
+               <lb facs="#facs_2_r9l1"/>Auß <placeName key="Q641">Venedig</placeName> vom <date when="1617-09-30">30. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_2_r10l1"/>Von Turino wirdt geſchrieben/ daſelbſt weren in deß Hertzogẽ Capellen 10. Fah-
+					<lb facs="#facs_2_r10l2"/>nen/ ſo er zu Feliciano erobert/ vffgehenckt werden/ vnd worden noch 12. andere von
+					<lb facs="#facs_2_r10l3"/>Annone erwartet/ ſo iſt der Graff von Mansfeldt mit 4000. Teutſchen zu Fuß/ vñ
+					<lb facs="#facs_2_r10l4"/>700. zu Roß nach Jurea paſſirt/ vnd thut ſich der Hertzog taͤglich mit volck/ ſo jhme
+					<lb facs="#facs_2_r10l5"/>auß Franckreich/ vnd andern Orthen zukoͤm̃t/ ſehr ſtaͤrckẽ/ aber von Coſale hat man/
+					<lb facs="#facs_2_r10l6"/>das der <hi rendition="#aq">Principe di Maſſerano</hi>/ mit dem Hauptmann <hi rendition="#aq">Paleſtra</hi> ein aut theil volck
+					<lb facs="#facs_2_r10l7"/>nach <hi rendition="#aq">S. Germano</hi> zur Beſatzung gebracht/ auch 4. Sauoiſche Doͤrffer verbrendt.
+				</p>
+            <p>
+               <lb facs="#facs_2_r11l1"/>Meylendiſche Brieff auiſirẽ/ dz der <hi rendition="#aq">Monſ. di Bettunes</hi> vff 16. diß nach Nouarra zũ
+					<lb facs="#facs_2_r11l2"/>
+               <hi rendition="#aq">Don Toledo</hi> paſſirt/ den Frieden zuſchlieſſen/ doch vnverricht wider zuruͤck kom̃en/
+					<lb facs="#facs_2_r11l3"/>der Ladighera befindt ſich vmb <hi rendition="#aq">Moncaluo</hi> 10000. der <hi rendition="#aq">Principe Thomaſo</hi> mit dem
+					<lb facs="#facs_2_r11l4"/>von Manßfeldt/ vnd deß Conte d'Auuergnia Reuterey vmb Aleſſandria vff 15000.
+					<lb facs="#facs_2_r11l5"/>man ſtarck/ alda ſie ſeither juͤngſten noch mehr orth erobert/ auch vmb Nizza wider
+					<lb facs="#facs_2_r11l6"/>in 2000. Schweitzer/ vñ Teutſchen erlegt/ ſonſt hette der <hi rendition="#aq">Don Toledo</hi> 400. Knecht
+					<lb facs="#facs_2_r11l7"/>mie viel Kriegs Ruͤſtung/ vnd Munition nach Nouarra kommen laſſen/ auch der
+					<lb facs="#facs_2_r11l8"/>Hertzog von Parma 10. Hauptleuth verordnet/ 500. Reuter fuͤr Spania zuwerben/
+					<lb facs="#facs_2_r11l9"/>bey beſchluß hat man/ der Caͤrdinal <hi rendition="#aq">Ludouiſio</hi> habe beym Hertzogen von Sauoia
+					<lb facs="#facs_2_r11l10"/>vff 6. ſtund einen Anſtandt erhalten/ dahero das Volck/ ſo Aleſſandria belaͤgern
+					<lb facs="#facs_2_r11l11"/>ſollen/ ſich nach Aſteggiano retirirt.
+				</p>
+            <pb xmlns=""
+                corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/"/>
+            <p>
+               <lb facs="#facs_3_r1l1"/>Spaniſche Brieff meldten/ der Printz Philiberto hette vom Koͤnig zu Huͤlffe ſei-
+					<lb facs="#facs_3_r1l2"/>nes Vncoſtens 30000. Cronen empfangen/ alda werde auch/ vneracht man den
+					<lb facs="#facs_3_r1l3"/>Frieden mit Sauoia bey Hoff fuͤr gewiß halte/ viel Volcks nach Jtalia imbarchirt
+					<lb facs="#facs_3_r1l4"/>es hette auch der Venediſche <hi rendition="#aq">Amb.</hi> einen Anſtandt wegen Reſtitution der abgenom-
+					<lb facs="#facs_3_r1l5"/>men Vaſellen/ mit der Kauffmannſchafft/ erhalten.
+				</p>
+            <p>
+               <lb facs="#facs_3_r2l1"/>Aus dem Feldtlaͤger hoͤrt man/ das alda 400. Knecht von <hi rendition="#aq">Legnano</hi> ankommen/
+					<lb facs="#facs_3_r2l2"/>vnd wegen ſteten Regens der Fluß Liſonzo ſehr groß worden/ vnnd vnſere Bruͤcken
+					<lb facs="#facs_3_r2l3"/>zerriſſen/ durch welche gelegenheit die Ertzhertzogiſchen / ein Zattera mit viel kuͤnſtli-
+					<lb facs="#facs_3_r2l4"/>lichen Fewerwerck/ vnd Munition nach <hi rendition="#aq">Gradiſca</hi> lauffen laſſen/ ſo aber die vnſern/
+					<lb facs="#facs_3_r2l5"/>mit allem/ was darob geweſen/ verſenckt/ doch iſt nachts zeit zu Landt ein Soccors in
+					<lb facs="#facs_3_r2l6"/>dieſe Veſtung kommen/ vnd verlauth dz der Graff Tampier ehiſt viel Soldaten ins
+					<lb facs="#facs_3_r2l7"/>Felde bringen werde/ ſonſt iſt der Graff von Naſſau zu <hi rendition="#aq">Vdene</hi> am Fieber geſtorben/
+					<lb facs="#facs_3_r2l8"/>vnd hat vnſer Armada 3. frembde Vaſellen mit Oel beladen/ zu <hi rendition="#aq">Lieſena</hi> eingebrach/
+					<lb facs="#facs_3_r2l9"/>vnd arreſtirt.
+				</p>
+            <p>
+               <lb facs="#facs_3_r3l1"/>Die im <hi rendition="#aq">Forte Stella</hi> ſeint Mitwoch mit 100. Pferden/ vnd viel Knechten außge-
+					<lb facs="#facs_3_r3l2"/>fallen/ der Fortezen/ Baw zwiſchen <hi rendition="#aq">Gradiſca</hi>/ vnd der Sternſchantz zuverhindern/
+					<lb facs="#facs_3_r3l3"/>die feindt aber mit verluſt 12. der jhren/ zuruͤck getrieben/ vnd acht gefangen worden.
+				</p>
+            <p>
+               <lb facs="#facs_3_r4l1"/>Zu <hi rendition="#aq">Genua</hi> iſt ein <hi rendition="#aq">exeraordinari</hi> auß Spania ankommen/ welche die Ratification
+					<lb facs="#facs_3_r4l2"/>der Frantzoͤſiſch formirten Friedens Puncten mitbringen ſolle/ darauff theils herꝛn
+					<lb facs="#facs_3_r4l3"/>jhre geworbene Knecht abgedanckt/ vnd ſolle dieſer Frieden zu <hi rendition="#aq">Aſti</hi> vnd Alexandria
+					<lb facs="#facs_3_r4l4"/>vff <date when="1617-09-12">12 diß</date> publicirt worden ſein.
+				</p>
+         </div>
+         <div type="jArticle" n="6" xml:id="fp_1617_40_6">
+            <head>
+               <lb facs="#facs_3_r5l1"/>Auß <placeName key="Q1085">Prag</placeName> vom <date when="1616-09-03">3. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_3_r6l1"/>Geſtern ſeind jre Keyſ. May. von Brandeiß wider alhier angelangt/ vnnd <hi rendition="#aq">dato</hi>
+               <lb facs="#facs_3_r6l2"/>publicirt worden/ daß ſie den <date when="1616-09-21">21. diß</date> nacher Wien vnnd Newſtatt auffbrechen wer-
+					<lb facs="#facs_3_r6l3"/>den die Furierer ſeind voran/ vnd bereit Gutſchen vnd Fuhrleuth von Wien vnd
+					<lb facs="#facs_3_r6l4"/>Newſtatt hieher beſchrieben.
+				</p>
+         </div>
+         <div type="jArticle" n="7" xml:id="fp_1617_40_7">
+            <head>
+               <lb facs="#facs_3_r7l1"/>Auß deß <placeName key="Q36600">Grauenhage</placeName> vom <date when="1616-10-05">5. October</date>.
+				</head>
+            <p>
+               <lb facs="#facs_3_r8l1"/>Auß Franckreich hat man/ dz der Koͤnig võ Spaniſchen Geſandten eine ſchrifft-
+					<lb facs="#facs_3_r8l2"/>liche Erklerung bekem̃en/ dz nemlich der Koͤnig von Spania luſt zum Frieden habe/
+					<lb facs="#facs_3_r8l3"/>alles was eingenommen/ reſtituiren wolle/ dofern Sau<supplied>o</supplied>ia den vergleich vor <hi rendition="#aq">
+                  <supplied>A</supplied>ſti</hi> vn-
+					<lb facs="#facs_3_r8l4"/>derhalte/ darauff dañ die ſach/ wie gleichfals mit den Venedigern alſo beygelegt wor-
+					<lb facs="#facs_3_r8l5"/>den/ dz der Koͤnigm Beheimb/ die Statt Zengh/ mit Teutſchẽ Volck beſetze/ darauff
+					<lb facs="#facs_3_r8l6"/>Venedig die nechſt darbey gelegene Statt wider geben/ f<supplied>o</supplied>lgents jederſeits durch zwey
+					<lb facs="#facs_3_r8l7"/>Commiſſarien die Zenger Vßcochen abgeſchafft/ vnd jn Schiff verbrandt werden/
+					<lb facs="#facs_3_r8l8"/>welche nicht mit jren weib vnd Kindern Ruͤhiglich einer Handtierung leben/ ſondern
+					<lb facs="#facs_3_r8l9"/>vich allein deß Raubs vff dem Meer befleiſſen/ vñ alſo vnderſcheidt vnder jnen zuhal-
+					<lb facs="#facs_3_r8l10"/>ten/ darauff die Venediger dz vbrige wz ſie in Friaul/ vnd Jſterreich eingenommen/
+					<lb facs="#facs_3_r8l11"/>reſtiuiren ſollen/ dz Venediſche Meer belangendt/ verble<supplied>i</supplied>bt es damit bey der abhãnd-
+					<lb facs="#facs_3_r8l12"/>lung zu Wien/ An. 1612. getroffen/ dieſer tractat iſt vff 6 Septemb. mit mehr andern
+					<lb facs="#facs_3_r8l13"/>Articulen/ zu Pariß alſo geſchloſſen/ vnd ſubſcribirt/ vnd <supplied>ſol</supplied> innerhalb 25. tagen von
+					<lb facs="#facs_3_r8l14"/>
+               <hi rendition="#aq">dato</hi> an/ in Spanien beliebet/ vñ vnderſchrieben werdẽ/ <supplied>gleich</supplied> wie auch in Sauoyen/
+					<lb facs="#facs_3_r8l15"/>vnd iſt alſo der Koͤnig in Franckreich Buͤrge fuͤr einen vn<supplied>d</supplied> andern theil.
+				</p>
+            <p>
+               <lb facs="#facs_3_r9l1"/>So wirdt auch bericht/ dz vnlengſt bey hellem tage/ zu der Fleſche/ eine Veſtung in
+					<lb facs="#facs_3_r9l2"/>der Picardey/ in der Jeſiuiter Kirchen/ mitten vnder der Meſſe/ ein ploͤtzlich groß ge-
+					<lb facs="#facs_3_r9l3"/>ruͤmpel/ als wie von ein hauffen Rüſtwaͤgen/ vnd Karren g<supplied>eh</supplied>oͤrt/ darauff ein geſpenſt
+				</p>
+            <pb xmlns=""
+                corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/"/>
+            <p>
+               <lb facs="#facs_4_r1l1"/>in der Kirchen erſchienen wie ein menſch/ doch ſonder Heubt/ der gantze Hals in Blut
+					<lb facs="#facs_4_r1l2"/>die Fuͤß/ vnd Schenckel in Fewer/ ſol etliche wort geſprochen/ vnd alſo groſſes ſchre-
+					<lb facs="#facs_4_r1l3"/>cken vervrſacht haben.
+				</p>
+            <p>
+               <lb facs="#facs_4_r2l1"/>Auß Engellandt haben wir/ daß ſelbiger Koͤnig/ vff begehren deß Venediſchen
+					<lb facs="#facs_4_r2l2"/>Amb. ſich nun alſo reſoluirt/ der Herꝛſchafft in 6. oder 7000. Mañ zuhuͤlff zuſchickẽ/
+					<lb facs="#facs_4_r2l3"/>ob nun dieſe/ wie auch dz Lewenſteiniſche Volck noch abfahren werden/ iſt vnbewuſt.
+				</p>
+            <p>
+               <lb facs="#facs_4_r3l1"/>Es wirdt von den Brabendiſchen/ vñ Oberquartiren noch beſtettiget/ dz die Spa-
+					<lb facs="#facs_4_r3l2"/>niſche der Enden groſſe Kriegs Bereitſchafften machen/ deren/ zu Berck ſchon etli-
+					<lb facs="#facs_4_r3l3"/>che 1000. vber Rein geſetzt/ vm̃ die Sequeſtratiõ der Guͤligiſchẽ Landtẽ vorzunehmẽ.
+				</p>
+            <p>
+               <lb facs="#facs_4_r4l1"/>Die Fraw Graͤum von Hanau/ iſt jetzt mit beyden Frewlein zu Amſterdam den
+					<lb facs="#facs_4_r4l2"/>Rath daſelbſt zubeſuchen/ vnd die Statt zubeſehen/ alda ſie gar herꝛlich empfangen/
+					<lb facs="#facs_4_r4l3"/>tractirt/ vnd verehrt worden.
+				</p>
+            <p>
+               <lb facs="#facs_4_r5l1"/>Deß Grauen von Oldenburgs Geſandten ſeindt mit guten Contento wider nach Hauß
+					<lb facs="#facs_4_r5l2"/>verreiſt.
+				</p>
+            <p>
+               <lb facs="#facs_4_r6l1"/>Demnach vnlengſt etliche von dem Magiſtrat zum Briel wegen der Religion in vnwillen
+					<lb facs="#facs_4_r6l2"/>wider einander gerahten die Buͤrger ſich auch nie am beſten vertragen/ Doch ſambtlich ſich ſtill
+					<lb facs="#facs_4_r6l3"/>hielten/ vnd allein vff 20. Septemb. warteten/ vff welche zeit man einen newen Raht/ vnd Ma-
+					<lb facs="#facs_4_r6l4"/>giſtrat zuwwehlen pfleget/ haben S Exc neben dero herꝛn Bruͤdern Printz Heinrichen/ wie auch
+					<lb facs="#facs_4_r6l5"/>dem Engliſchen Amb. vnnd etliche Obriſten vnnd Befelchshaber in ſtarck/ ſelbige nacht ſich
+					<lb facs="#facs_4_r6l6"/>aufgemacht/ vnd ſeind mit 8 vnd 9 vff den Briel zugefahren vnd daſelbſt gemeldten tags vnnge-
+					<lb facs="#facs_4_r6l7"/>fehr vmb 6. Uhr deß morgens angelangt/ darauff ſeind S. Exc. allein ſelbſt mit dreyen erſtlich in
+					<lb facs="#facs_4_r6l8"/>die Statt/ vnd in eine Herberg gangen/ vnd als baldt die Hauptleuth zu ſich beruffen/ vnd befoh-
+					<lb facs="#facs_4_r6l9"/>len/ jre Soldaten/ doch ohne Trummelſchlag zuſammen zubringen/ welches als baldt alſo ver-
+					<lb facs="#facs_4_r6l10"/>richtet worden/ Immittelſt ſeind die andern mit 9. vnd 10 allein mit jren ſeiten Wehren auch in
+					<lb facs="#facs_4_r6l11"/>die Statt kommen/ da nun der Magiſtrat ſolches innen worden/ haben ſie ſich als baldt vff
+					<lb facs="#facs_4_r6l12"/>dz Rahthaus verfuͤgt/ welchen S. Exc ſeine meinung vñ zu was ende/ er d<supplied>ahin kommen</supplied>/ anzeigẽ
+					<lb facs="#facs_4_r6l13"/>laſſen/ mit welchem ſie wol zufrieden geweſen/ vnd iſt alſo ein newer M<supplied>agistrat</supplied>/ mit beliebung
+					<lb facs="#facs_4_r6l14"/>S. Exc erwehlt/ darneben noch <supplied>2</supplied> Compagnien/ nemlich Graff Johan Ernſt vou Dordrecht/ vñ
+					<lb facs="#facs_4_r6l15"/>Printz Heinrich von Delf<supplied>f</supplied>t da<supplied>hi</supplied>n gelegt worden.
+				</p>
+            <p>
+               <lb facs="#facs_4_r7l1"/>Der Magiſtrat zu Harlem <supplied>h</supplied>at abermals geweigert/ die Pœ<supplied>u</supplied>al Mandat/ von hieſigen hohen
+					<lb facs="#facs_4_r7l2"/>Hoffgericht/ wegen wider Ein<supplied>n</supplied>ehmung deß außgeſsagten Buͤrgers zu pariren/ ſondern denſelben
+					<lb facs="#facs_4_r7l3"/>noch darneben/ in 100 Pf. flem<supplied>iſ</supplied>ch condenirt/ derwegen dañ dieſer ſachen/ vñ der Vtrechtiſchen
+					<lb facs="#facs_4_r7l4"/>Volck werbung halben/ weil <supplied>m</supplied>an ſich ſo wol daſelbſt/ als zu Lendẽ verwegert/ ſolche einzuſtellen
+					<lb facs="#facs_4_r7l5"/>alhie fleiſſig gerahtſchlagt w<supplied>ir</supplied>dt/ wie ſolchem zubegegnen/ vñ ſolle S. Exc. egegen 10 diß/ vff wel-
+					<lb facs="#facs_4_r7l6"/>che zeit der Magiſtrat auch e<supplied>r</supplied>newert wird/ ſich in Perſohn dahin; zuverfuͤgen/ Reſoluirt haben/
+					<lb facs="#facs_4_r7l7"/>Immittelſt halten die newe Soldaten mit den alten die wacht <space dim="horizontal"/>Zu Amſterdam/ wie auch in
+					<lb facs="#facs_4_r7l8"/>Seelandt werden 6.oder 7. Schiff zugeruͤſtet/ ſo nach Oſt Jndien fahren ſollen/ deßgleichen wirt
+					<lb facs="#facs_4_r7l9"/>noch ein groſſes nach Guinea <supplied>a</supplied>ußgeruͤſtet/ die Veſtung alda mit allerley <choice>
+                  <sic>notturffr</sic>
+                  <corr>notturfft</corr>
+               </choice> zuverſorgen.
+				</p>
+         </div>
+         <div type="jArticle" n="8" xml:id="fp_1617_40_8">
+            <head>
+               <lb facs="#facs_4_r8l1"/>Auß <placeName key="Q365">Coͤlln</placeName> vom <date when="1616-10-12">12. Ditto</date>.
+				</head>
+            <p>
+               <lb facs="#facs_4_r9l1"/>Deß Grauen von Fuͤrſt<supplied>en</supplied>berg/ vnd herꝛn von Anholt Volck verhelt ſich noch im ſtifft Trier/
+					<lb facs="#facs_4_r9l2"/>vnd wirdt dieſer Orth fuͤr <supplied>g</supplied>ewiß berichtet/ das ſie wider abgedanckt werden/ auch vorhabens
+					<lb facs="#facs_4_r9l3"/>ſein/ jren zuruͤck zug/ durch <gap/>eſe Landt widerumb zunehmen/ weilen ſie aber am nehern ſich faſt
+					<lb facs="#facs_4_r9l4"/>vbel gehalten/ die arme Le<supplied>ut</supplied>h geſchlagen/ geſtoſſen/ vñ gebrandtſchetz/ vnd andern muthwillen
+					<lb facs="#facs_4_r9l5"/>begangen/ iſt jnen entgege<supplied>n g</supplied>eſandt/ vnd verortnung in den Guͤligſchen Landen gethan worden/
+					<lb facs="#facs_4_r9l6"/>dz die vnderthanen/ vnd a<supplied>u</supplied>ßgeſetzte Schuͤtzen vffgemanth/ vnd jnen kein durchzug noch quartier
+					<lb facs="#facs_4_r9l7"/>verſtattet werden ſolle/ J<supplied>n</supplied> Hollendt ſtehẽ die ſachen noch faſt ſeltzam/ vnd wie man dieſer Or
+					<lb facs="#facs_4_r9l8"/>then außgibt/ ſolle ſich der <supplied>P</supplied>reſident Barnefeldt nirgent wollen finden laſſen/ derwegen ſeine
+					<lb facs="#facs_4_r9l9"/>Guͤtter/ ſo ſich vff viel T<supplied>on</supplied>nen Schaͤtze ertragen/ verarreſtirt ſein ſollen/ etliche aber wollen/ er
+					<lb facs="#facs_4_r9l10"/>
+               <supplied>l</supplied>ige zu Vtrecht ſchwach/ <supplied>d</supplied>ie zeit wirdts geben.
+				</p>
+         </div>
+      </body>
+      <back>
+         <div type="postface">
+            <p>
+               <lb facs="#facs_4_r10l1"/>
+               <hi rendition="#g">ENDE</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
