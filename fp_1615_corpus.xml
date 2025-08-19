@@ -1964,13 +1964,21 @@
                      rendition="Line"
                      xml:id="facs_9_r4l4"/>
             </zone>
-            <zone points="194,2307 1026,2307 1824,2307 1824,2487 194,2487 194,2354"
+            <zone points="194,2307 1020,2307 1020,2351 194,2353"
+                  rendition="TextRegion"
+                  subtype="heading"
+                  xml:id="facs_9_TextRegion_1754030396079_14">
+               <zone points="395,2302 785,2294 1020,2292 1020,2351 974,2351 485,2352 395,2352"
+                     rendition="Line"
+                     xml:id="facs_9_line_1754030396118_17"/>
+            </zone>
+            <zone points="194,2353 1020,2351 1020,2307 1824,2307 1824,2487 194,2487 194,2354"
                   rendition="TextRegion"
                   subtype="paragraph"
-                  xml:id="facs_9_r5">
-               <zone points="395,2302 785,2294 1203,2292 1474,2292 1745,2296 1771,2298 1767,2348 1653,2350 485,2352 395,2352"
+                  xml:id="facs_9_TextRegion_1754030396079_13">
+               <zone points="1020,2292 1203,2292 1474,2292 1745,2296 1771,2298 1767,2348 1653,2350 974,2351 1020,2351"
                      rendition="Line"
-                     xml:id="facs_9_r5l1"/>
+                     xml:id="facs_9_line_1754030396118_16"/>
                <zone points="243,2354 1028,2354 1027,2347 1046,2346 1076,2346 1106,2344 1136,2344 1166,2342 1199,2342 1226,2345 1255,2342 1348,2342 1377,2344 1407,2342 1437,2344 1466,2342 1498,2342 1530,2344 1558,2346 1618,2346 1647,2348 1676,2346 1736,2346 1764,2344 1767,2394 1737,2396 1677,2396 1647,2398 1617,2396 1557,2396 1527,2394 1497,2392 1467,2392 1437,2394 1407,2392 1377,2394 1347,2392 1257,2392 1226,2395 1197,2392 1167,2392 1137,2394 1107,2394 1077,2396 1047,2396 1017,2398 987,2396 957,2398 927,2398 897,2400 867,2398 837,2396 747,2396 717,2398 657,2398 627,2400 597,2398 567,2400 537,2400 507,2402 477,2402 447,2400 417,2402 387,2400 357,2400 327,2402 297,2402 267,2400 243,2400"
                      rendition="Line"
                      xml:id="facs_9_r5l2"/>
@@ -2365,16 +2373,24 @@
                      rendition="Line"
                      xml:id="facs_12_r2l4"/>
             </zone>
-            <zone points="192,597 1809,597 1809,951 192,951"
+            <zone points="192,597 881,597 881,645 192,641"
+                  rendition="TextRegion"
+                  subtype="heading"
+                  xml:id="facs_12_TextRegion_1754031072952_241">
+               <zone points="336,591 877,592 877,642 336,641"
+                     rendition="Line"
+                     xml:id="facs_12_line_1754031057092_232"/>
+            </zone>
+            <zone points="192,641 881,645 881,597 1809,597 1809,951 192,951"
                   rendition="TextRegion"
                   subtype="paragraph"
-                  xml:id="facs_12_r3">
-               <zone points="336,591 1764,597 1764,647 336,641"
+                  xml:id="facs_12_TextRegion_1754031072951_240">
+               <zone points="890,593 1764,597 1764,647 890,643"
                      rendition="Line"
-                     xml:id="facs_12_r3l1"/>
-               <zone points="246,640 1772,646 1772,696 246,690"
+                     xml:id="facs_12_line_1754031055988_226"/>
+               <zone points="246,641 881,645 881,642 1772,646 1772,696 246,690"
                      rendition="Line"
-                     xml:id="facs_12_r3l2"/>
+                     xml:id="facs_12_line_1754031072990_243"/>
                <zone points="240,689 1776,693 1776,743 1710,747 240,739"
                      rendition="Line"
                      xml:id="facs_12_r3l3"/>
@@ -2425,16 +2441,24 @@
                      rendition="Line"
                      xml:id="facs_12_r5l2"/>
             </zone>
-            <zone points="192,1349 1809,1349 1809,1944 192,1944"
+            <zone points="192,1349 1236,1349 1236,1394 192,1389"
+                  rendition="TextRegion"
+                  subtype="heading"
+                  xml:id="facs_12_TextRegion_1754030984137_211">
+               <zone points="340,1339 1217,1340 1217,1390 340,1389"
+                     rendition="Line"
+                     xml:id="facs_12_line_1754030973785_202"/>
+            </zone>
+            <zone points="192,1389 1236,1394 1236,1349 1809,1349 1809,1944 192,1944"
                   rendition="TextRegion"
                   subtype="paragraph"
-                  xml:id="facs_12_r6">
-               <zone points="340,1339 1768,1343 1768,1393 340,1389"
+                  xml:id="facs_12_TextRegion_1754030984137_210">
+               <zone points="1258,1341 1768,1343 1768,1393 1258,1391"
                      rendition="Line"
-                     xml:id="facs_12_r6l1"/>
-               <zone points="248,1389 1772,1391 1772,1441 1688,1447 248,1439"
+                     xml:id="facs_12_line_1754030973221_196"/>
+               <zone points="248,1389 1236,1394 1236,1390 1772,1391 1772,1441 1688,1447 248,1439"
                      rendition="Line"
-                     xml:id="facs_12_r6l2"/>
+                     xml:id="facs_12_line_1754030984176_213"/>
                <zone points="243,1439 1778,1442 1778,1492 240,1489"
                      rendition="Line"
                      xml:id="facs_12_r6l3"/>
@@ -2466,13 +2490,21 @@
                      rendition="Line"
                      xml:id="facs_12_r6l12"/>
             </zone>
-            <zone points="192,1944 1809,1944 1809,2190 192,2190"
+            <zone points="192,1944 958,1944 957,1985 192,1986"
+                  rendition="TextRegion"
+                  subtype="heading"
+                  xml:id="facs_12_TextRegion_1754030954427_188">
+               <zone points="355,1934 404,1935 432,1937 461,1935 493,1935 523,1937 551,1937 581,1935 671,1935 701,1933 733,1933 762,1935 791,1933 951,1933 951,1983 792,1983 762,1985 732,1983 702,1983 672,1985 582,1985 552,1987 522,1987 492,1985 462,1985 432,1987 402,1985 354,1984"
+                     rendition="Line"
+                     xml:id="facs_12_line_1754030810808_141"/>
+            </zone>
+            <zone points="192,1986 957,1985 958,1944 1809,1944 1809,2190 192,2190"
                   rendition="TextRegion"
                   subtype="paragraph"
-                  xml:id="facs_12_r7">
-               <zone points="355,1934 404,1935 432,1937 461,1935 493,1935 523,1937 551,1937 581,1935 612,1935 642,1935 671,1935 701,1933 733,1933 762,1935 791,1933 822,1933 852,1933 882,1933 888,1933 918,1933 948,1933 978,1933 1008,1933 1038,1933 1068,1933 1098,1933 1129,1933 1159,1935 1188,1935 1217,1935 1248,1933 1279,1935 1308,1935 1338,1935 1369,1935 1399,1937 1428,1937 1458,1937 1488,1937 1517,1937 1547,1935 1578,1935 1609,1935 1639,1937 1667,1937 1699,1935 1730,1939 1774,1936 1777,1986 1728,1989 1698,1985 1668,1987 1638,1987 1608,1985 1578,1985 1548,1985 1518,1987 1488,1987 1458,1987 1428,1987 1398,1987 1368,1985 1338,1985 1308,1985 1278,1985 1248,1983 1218,1985 1188,1985 1158,1985 1128,1983 1098,1983 1068,1983 1038,1983 1008,1983 978,1983 948,1983 918,1983 888,1983 882,1983 852,1983 822,1983 792,1983 762,1985 732,1983 702,1983 672,1985 642,1985 612,1985 582,1985 552,1987 522,1987 492,1985 462,1985 432,1987 402,1985 354,1984"
+                  xml:id="facs_12_TextRegion_1754030954426_187">
+               <zone points="966,1933 1129,1933 1159,1935 1217,1935 1248,1933 1279,1935 1369,1935 1399,1937 1517,1937 1547,1935 1609,1935 1639,1937 1667,1937 1699,1935 1730,1939 1774,1936 1777,1986 1728,1989 1698,1985 1668,1987 1638,1987 1608,1985 1548,1985 1518,1987 1398,1987 1368,1985 1278,1985 1248,1983 1218,1985 1158,1985 1128,1983 966,1983"
                      rendition="Line"
-                     xml:id="facs_12_r7l1"/>
+                     xml:id="facs_12_line_1754030810207_135"/>
                <zone points="253,1985 1787,1985 1787,2035 256,2035"
                      rendition="Line"
                      xml:id="facs_12_r7l2"/>
@@ -2486,16 +2518,24 @@
                      rendition="Line"
                      xml:id="facs_12_r7l5"/>
             </zone>
-            <zone points="192,2190 1809,2190 1809,2521 192,2521"
+            <zone points="192,2190 1136,2190 1136,2236 192,2234"
+                  rendition="TextRegion"
+                  subtype="heading"
+                  xml:id="facs_12_TextRegion_1754030933222_175">
+               <zone points="388,2183 1121,2183 1121,2233 388,2233"
+                     rendition="Line"
+                     xml:id="facs_12_line_1754030901527_159"/>
+            </zone>
+            <zone points="192,2234 1136,2236 1136,2190 1809,2190 1809,2521 192,2521"
                   rendition="TextRegion"
                   subtype="paragraph"
-                  xml:id="facs_12_r8">
-               <zone points="388,2183 1777,2186 1777,2236 388,2233"
+                  xml:id="facs_12_TextRegion_1754030933222_174">
+               <zone points="1149,2184 1777,2186 1777,2236 1149,2234"
                      rendition="Line"
-                     xml:id="facs_12_r8l1"/>
-               <zone points="261,2233 1780,2240 1777,2290 258,2283"
+                     xml:id="facs_12_line_1754030901052_153"/>
+               <zone points="260,2234 730,2235 1780,2240 1777,2290 258,2283"
                      rendition="Line"
-                     xml:id="facs_12_r8l2"/>
+                     xml:id="facs_12_line_1754030933262_177"/>
                <zone points="260,2285 1782,2285 1782,2335 260,2335"
                      rendition="Line"
                      xml:id="facs_12_r8l3"/>
@@ -2567,9 +2607,14 @@
 					<lb facs="#facs_9_r4l3"/>groſſe Spanniſche Schiff mit Kriegsvolck auß Spannien kommende geſchen
 					<lb facs="#facs_9_r4l4"/>wordedn/ man vermutet daß die jenige ſeyn/ ſo man zu Duynkuͤrchen gewertig.
 				</p>
+            </div>
+            <div type="jArticle" n="2" xml:id="fp_1615_43_2">
+               <head>
+                  <lb facs="#facs_9_line_1754030396118_17"/>Auß <placeName key="Q365">Coͤlln</placeName> vom <date when="1615-11-05">5. November 1615</date>.
+				</head>
                <p>
-                  <lb facs="#facs_9_r5l1"/>Auß Coͤlln vom <date when="1615-11-05">5. November 1615</date>. <space dim="horizontal"/>Newes von dieſer Orten gar wenig/ denn
-					<lb facs="#facs_9_r5l2"/>daß man zu Doſſeldorf mit fortificirung ſelbiger Statt taͤglich continuiren thut/ ſonder-
+                  <lb facs="#facs_9_line_1754030396118_16"/>Newes von dieſer Orten gar wenig/ denn
+					<lb facs="#facs_9_r5l2"/>daß man zu Duͤſſeldorf mit fortificirung ſelbiger Statt taͤglich continuiren thut/ ſonder-
 					<lb facs="#facs_9_r5l3"/>lich an ſeiten des Rheins/ vnd thut man die Straßen vertieffen vnnd weiter machen/ ſonſten
 				</p>
                <pb facs="#facs_10"
@@ -2642,136 +2687,156 @@
                <p>
                   <lb facs="#facs_11_r1l1"/>Correſpondirenten Fuͤrſten/ wie auch der Staden von Holland Deputirten daſelbst ange-
 					<lb facs="#facs_11_r1l2"/>langt/ vmb zuverſuchen ob ſie zwiſchen dem Fuͤrſten vnd der Statt ein Vergleichung tref-
-					<lb facs="#facs_11_r1l3"/>fen moͤchten/ welches aber ſchwerlich geſchehen wird / weilen die Staden auch Glieder der
-					<lb facs="#facs_11_r1l4"/>Haͤnſeeſtaͤtt ſeyn wollen / wegen daß ſie Campen / Dettenter/ Schwoll in Haͤnden haben /
-					<lb facs="#facs_11_r1l5"/>Sonſten gebet der Krieg dapffer fort / die in der Statt ſallen taͤglich auß vnd erſchlagen viel
-					<lb facs="#facs_11_r1l6"/>Volcks / derowegen der Hertzog den 4. Mann in ſeinem Land vffgebotten.
+					<lb facs="#facs_11_r1l3"/>fen moͤchten/ welches aber ſchwerlich geſchehen wird/ weilen die Staden auch Glieder der
+					<lb facs="#facs_11_r1l4"/>Haͤnſeeſtaͤtt ſeyn wollen/ wegen daß ſie Campen/ Dettenter/ Schwoll in Haͤnden haben/
+					<lb facs="#facs_11_r1l5"/>Sonſten gebet der Krieg dapffer fort/ die in der Statt ſallen taͤglich auß vnd erſchlagen viel
+					<lb facs="#facs_11_r1l6"/>Volcks/ derowegen der Hertzog den 4. Mann in ſeinem Land vffgebotten.
 				</p>
             </div>
-            <div type="jArticle" n="2" xml:id="fp_1615_43_2">
+            <div type="jArticle" n="3" xml:id="fp_1615_43_3">
                <head>
                   <lb facs="#facs_11_r2l1"/>Auß <placeName key="Q220">Rohm</placeName> vom <date when="1615-10-17">17. Octob. 1615</date>.
 				</head>
                <p>
                   <lb facs="#facs_11_r3l1"/>Auß der Marck wir bericht vmb <hi rendition="#aq">Aſcoli</hi> habe der groſſe vnverſehene Regen nich allein
-					<lb facs="#facs_11_r3l2"/>groſſen Schaden gethan / ſondern es wehre darvon auch ein Bergk vberhauffen gefallen/
-					<lb facs="#facs_11_r3l3"/>dardurch <hi rendition="#aq">Monte Gallo</hi> gantz ruinirt worden / es alsbald vnten an dieſem Berg ein newer
-					<lb facs="#facs_11_r3l4"/>Fluß halb Manns tieff entſtanden / welcher mit groſſem Gethoͤn bey <hi rendition="#aq">Aſcali</hi> hin / vnder den
-					<lb facs="#facs_11_r3l5"/>Fluß Trando fleuſt/ ob nun dieſer Fluß ſtetigs wehren wird / oder ob es nur ein zuſammen ge-
-					<lb facs="#facs_11_r3l6"/>lauffenes Waſſer / kan man nicht wiſſen / zu deme iſt ein Erdbuͤden geweſen / vnd zu Fortia
+					<lb facs="#facs_11_r3l2"/>groſſen Schaden gethan/ ſondern es wehre darvon auch ein Bergk vberhauffen gefallen/
+					<lb facs="#facs_11_r3l3"/>dardurch <hi rendition="#aq">Monte Gallo</hi> gantz ruinirt worden/ es alsbald vnten an dieſem Berg ein newer
+					<lb facs="#facs_11_r3l4"/>Fluß halb Manns tieff entſtanden/ welcher mit groſſem Gethoͤn bey <hi rendition="#aq">Aſcali</hi> hin/ vnder den
+					<lb facs="#facs_11_r3l5"/>Fluß Trando fleuſt/ ob nun dieſer Fluß ſtetigs wehren wird/ oder ob es nur ein zuſammen ge-
+					<lb facs="#facs_11_r3l6"/>lauffenes Waſſer/ kan man nicht wiſſen/ zu deme iſt ein Erdbuͤden geweſen/ vnd zu Fortia
 					<lb facs="#facs_11_r3l7"/>hat der Regen das groß vnd ſtattliche Muͤnſter zu S. Saluator gantz verderbt.
-				</p>
-            </div>
-            <div type="jArticle" n="3" xml:id="fp_1615_43_3">
-               <head>
-                  <lb facs="#facs_11_r4l1"/>Auß <placeName key="Q641">Venedig</placeName> vom <date when="1615-10-23">23. Ditto</date>.
-				</head>
-               <p>
-                  <lb facs="#facs_11_r5l1"/>Maylandiſche Brieff meldten anders nichts / als das von deß <hi rendition="#aq">Pietro di Toledo</hi> her-
-					<lb facs="#facs_11_r5l2"/>auß kunſſt vnderſchiedlich diſcuriret wird / wie auch daß das Kriegsvolck nicht gantz abge-
-					<lb facs="#facs_11_r5l3"/>danckt/ ſondern wider etliche angenommen werden ſollen.
-				</p>
-               <p>
-                  <lb facs="#facs_11_r6l1"/>Von Turino hat man / wegen der Vnruh in Franckreich habe derſelbe Hertzog die
-					<lb facs="#facs_11_r6l2"/>Abdanckung ſeines Kriegsvolcks zum theil wider eingeſtellt/ biß er ſiehet wo es hinauß wil.
-					<lb facs="#facs_11_r6l3"/>Hieſigt Herrſchafft hat alle abgedanckte Capitain / vnd Befelchshabern vffs new beſchrie-
-					<lb facs="#facs_11_r6l4"/>ben vnd befelch geben jhre Compagnien wider aufzurichten / vnd ſolche in Dalmatia zuſen-
-					<lb facs="#facs_11_r6l5"/>den/ vnd hat man das von Trieſte 400. Teutſchen nach Jſdria vff den Raub gezogen/ de-
-					<lb facs="#facs_11_r6l6"/>nen ein gute Anzahl Conſt / vnd andere vnſers Volcks begegnet / mit einander ſcharmuͤtzirt /
-					<lb facs="#facs_11_r6l7"/>endlich aber die Teutſchen in die Flucht geſchlagen / vnd etliche erlegt / ſo haben die <hi rendition="#aq">Vſcochi</hi>
-                  <lb facs="#facs_11_r6l8"/>bey Mugia etliche vnſere Reutter / Albaneſer erlegt. Von Nanci wird confirmirt / daß der
-					<lb facs="#facs_11_r6l9"/>Printzen Volck in Franckreich der Koͤnigiſchen 400. erlegt / thun ſonſt groſſen Schaden /
-					<lb facs="#facs_11_r6l10"/>vnd haben einen Polniſchen Herrn / der Jhrer Mayeſt. eine Anzahl Reutter zufuͤhren woͤl-
-					<lb facs="#facs_11_r6l11"/>len abgeſetzt. <space dim="horizontal"/>Die Statt Lion hat 500. Fußknecht nach Pariß zu erſterckung der Statt
-					<lb facs="#facs_11_r6l12"/>geſandt/ vffgefangen worden / ſonſten fallen noch viel Herrn vom Parlament dem Printzen
-					<lb facs="#facs_11_r6l13"/>von Conde zu / deſſen Volck das Schloß Thiemi beſchoſſen / vnd hernach das Staͤttlin
-					<lb facs="#facs_11_r6l14"/>Eſpernon / ohne ſondern widerſtand eroͤbert / beyde Laͤger befinden ſich jetzt faſt in gleicher An-
-					<lb facs="#facs_11_r6l15"/>zahl nur 3.Meil von einander / Der Hertzog von Luxenburg aber <supplied cert="low">t</supplied>hut mit 2000. Mann
-					<lb facs="#facs_11_r6l16"/>zu Fuß/ vnd 500 Reutern vff den Burgundiſchen Frontirn groſſen Schaden/ die Koͤnigin
-					<lb facs="#facs_11_r6l17"/>will den <hi rendition="#aq">Monſ. de Roan</hi> zum Printzen von Conde ſenden / ein Accord mit jhm zu tractiren.
 				</p>
             </div>
             <div type="jArticle" n="4" xml:id="fp_1615_43_4">
                <head>
+                  <lb facs="#facs_11_r4l1"/>Auß <placeName key="Q641">Venedig</placeName> vom <date when="1615-10-23">23. Ditto</date>.
+				</head>
+               <p>
+                  <lb facs="#facs_11_r5l1"/>Maylandiſche Brieff meldten anders nichts/ als das von deß <hi rendition="#aq">Pietro di Toledo</hi> her-
+					<lb facs="#facs_11_r5l2"/>auß kunſſt vnderſchiedlich diſcuriret wird/ wie auch daß das Kriegsvolck nicht gantz abge-
+					<lb facs="#facs_11_r5l3"/>danckt/ ſondern wider etliche angenommen werden ſollen.
+				</p>
+               <p>
+                  <lb facs="#facs_11_r6l1"/>Von Turino hat man/ wegen der Vnruh in Franckreich habe derſelbe Hertzog die
+					<lb facs="#facs_11_r6l2"/>Abdanckung ſeines Kriegsvolcks zum theil wider eingeſtellt/ biß er ſiehet wo es hinauß wil.
+					<lb facs="#facs_11_r6l3"/>Hieſigt Herrſchafft hat alle abgedanckte Capitain/ vnd Befelchshabern vffs new beſchrie-
+					<lb facs="#facs_11_r6l4"/>ben vnd befelch geben jhre Compagnien wider aufzurichten/ vnd ſolche in Dalmatia zuſen-
+					<lb facs="#facs_11_r6l5"/>den/ vnd hat man das von Trieſte 400. Teutſchen nach Jſdria vff den Raub gezogen/ de-
+					<lb facs="#facs_11_r6l6"/>nen ein gute Anzahl Conſt/ vnd andere vnſers Volcks begegnet/ mit einander ſcharmuͤtzirt/
+					<lb facs="#facs_11_r6l7"/>endlich aber die Teutſchen in die Flucht geſchlagen/ vnd etliche erlegt/ ſo haben die <hi rendition="#aq">Vſcochi</hi>
+                  <lb facs="#facs_11_r6l8"/>bey Mugia etliche vnſere Reutter/ Albaneſer erlegt. Von Nanci wird confirmirt/ daß der
+					<lb facs="#facs_11_r6l9"/>Printzen Volck in Franckreich der Koͤnigiſchen 400. erlegt/ thun ſonſt groſſen Schaden/
+					<lb facs="#facs_11_r6l10"/>vnd haben einen Polniſchen Herrn/ der Jhrer Mayeſt. eine Anzahl Reutter zufuͤhren woͤl-
+					<lb facs="#facs_11_r6l11"/>len abgeſetzt. <space dim="horizontal"/>Die Statt Lion hat 500. Fußknecht nach Pariß zu erſterckung der Statt
+					<lb facs="#facs_11_r6l12"/>geſandt/ vffgefangen worden/ ſonſten fallen noch viel Herrn vom Parlament dem Printzen
+					<lb facs="#facs_11_r6l13"/>von Conde zu/ deſſen Volck das Schloß Thiemi beſchoſſen/ vnd hernach das Staͤttlin
+					<lb facs="#facs_11_r6l14"/>Eſpernon/ ohne ſondern widerſtand eroͤbert/ beyde Laͤger befinden ſich jetzt faſt in gleicher An-
+					<lb facs="#facs_11_r6l15"/>zahl nur 3.Meil von einander/ Der Hertzog von Luxenburg aber <supplied cert="low">t</supplied>hut mit 2000. Mann
+					<lb facs="#facs_11_r6l16"/>zu Fuß/ vnd 500 Reutern vff den Burgundiſchen Frontirn groſſen Schaden/ die Koͤnigin
+					<lb facs="#facs_11_r6l17"/>will den <hi rendition="#aq">Monſ. de Roan</hi> zum Printzen von Conde ſenden/ ein Accord mit jhm zu tractiren.
+				</p>
+            </div>
+            <div type="jArticle" n="5" xml:id="fp_1615_43_5">
+               <head>
                   <lb facs="#facs_11_r7l1"/>Auß <placeName key="Q2079">Leiptzig</placeName> vom <date when="1615-10-26">26. Dito</date>.
 				</head>
                <p>
-                  <lb facs="#facs_11_r8l1"/>Auß Wolffenbuͤttel hat man / weile Graff Friederich von Solms mit ſeinem Kriegs-
-					<lb facs="#facs_11_r8l2"/>volck vff deß Hertzogen Frontirn ankommen / als hat der Hertzog all ſein Kriegsvolck auß
-					<lb facs="#facs_11_r8l3"/>den Schantzen genom̃en / die Paͤß zuuerlegen / hingegen das Landvolck in die Schantzen ge-
+                  <lb facs="#facs_11_r8l1"/>Auß Wolffenbuͤttel hat man/ weile Graff Friederich von Solms mit ſeinem Kriegs-
+					<lb facs="#facs_11_r8l2"/>volck vff deß Hertzogen Frontirn ankommen/ als hat der Hertzog all ſein Kriegsvolck auß
+					<lb facs="#facs_11_r8l3"/>den Schantzen genom̃en/ die Paͤß zuuerlegen / hingegen das Landvolck in die Schantzen ge-
 					<lb facs="#facs_11_r8l4"/>
                   <supplied>l</supplied>egt/ es ſind beyde Theil noch nicht zuſammen kommen.
 				</p>
                <p>
                   <lb facs="#facs_11_r9l1"/>Der Koͤnig in Dennemarck ſolle wider etlich 1000. Man fuͤr den Hertzogen im An-
-					<lb facs="#facs_11_r9l2"/>zug haben / die Kayſ. Commiſſarien ſein im Laͤger ankommen / vnd haben beyder ſeits einen
+					<lb facs="#facs_11_r9l2"/>zug haben/ die Kayſ. Commiſſarien ſein im Laͤger ankommen/ vnd haben beyder ſeits einen
 					<lb facs="#facs_11_r9l3"/>Stillſtandt mandirt.
 				</p>
                <p>
-                  <lb facs="#facs_11_r10l1"/>Es iſt wider ein Corporal allhie geweſt / der begert fuͤr den Hertzogen mehr Volck zu
+                  <lb facs="#facs_11_r10l1"/>Es iſt wider ein Corporal allhie geweſt/ der begert fuͤr den Hertzogen mehr Volck zu
 				</p>
                <pb facs="#facs_12"
                    n="12"
                    corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904238"/>
                <p>
-                  <lb facs="#facs_12_r1l1"/>werben. vff den Straſſen iſt es ganz vnſicher reiſen / vergangene Wochen ſeyn wider etli-
-					<lb facs="#facs_12_r1l2"/>che Bremer angriffen worden / der Thaͤter zween nach Magdeburg gefuͤhret ſeyn.
+                  <lb facs="#facs_12_r1l1"/>werben. vff den Straſſen iſt es ganz vnſicher reiſen/ vergangene Wochen ſeyn wider etli-
+					<lb facs="#facs_12_r1l2"/>che Bremer angriffen worden/ der Thaͤter zween nach Magdeburg gefuͤhret ſeyn.
 				</p>
                <p>
-                  <lb facs="#facs_12_r2l1"/>Der Churfuͤrſt von Brandenburg hat ein Mandat publiciren laſſen / daß ſich nie-
-					<lb facs="#facs_12_r2l2"/>mand von Jhrer Churfuͤrſtl. G. angehoͤrigen in frembde Kriegs Beſoldung einlaſſen / ſon
-					<lb facs="#facs_12_r2l3"/>dern ſich zu Hauß / vnd alſo ferig halten / damit man deren vff das erſte Auff gebott mechtig
+                  <lb facs="#facs_12_r2l1"/>Der Churfuͤrſt von Brandenburg hat ein Mandat publiciren laſſen/ daß ſich nie-
+					<lb facs="#facs_12_r2l2"/>mand von Jhrer Churfuͤrſtl. G. angehoͤrigen in frembde Kriegs Beſoldung einlaſſen/ ſon
+					<lb facs="#facs_12_r2l3"/>dern ſich zu Hauß/ vnd alſo ferig halten/ damit man deren vff das erſte Auff gebott mechtig
 					<lb facs="#facs_12_r2l4"/>ſeyn kan.
 				</p>
+            </div>
+            <div type="jArticle" n="6" xml:id="fp_1615_43_6">
+               <head>
+                  <lb facs="#facs_12_line_1754031057092_232"/>Auß <placeName key="Q1055">Hamburg</placeName>/ vom <date when="1615-10-24">24. Octob.</date>
+               </head>
                <p>
-                  <lb facs="#facs_12_r3l1"/>Auß Hamburg / vom <date when="1615-10-24">24. Octob.</date> Der Graff von Solms hat ſich mit 1800. Pferden
-					<lb facs="#facs_12_r3l2"/>vnd 4000. zu Fuß zwiſchen Hanower vnd Braunſchweig gelaͤgert / vnd verſchantzt/ haben
-					<lb facs="#facs_12_r3l3"/>200. Waͤgen mit allerhand viemalien / vnd 400. Ochſen bey ſich / vnd ſolle die Statt Ha-
-					<lb facs="#facs_12_r3l4"/>nower ſich an die Staͤtt ergeben haben.<space dim="horizontal"/> Als der Hertzog von Braunſchweig das Waſſer
-					<lb facs="#facs_12_r3l5"/>geſtembet/ daß es Elen hoch in der Statt geſtanden / ſeind die in der Statt mit gantzer Macht
-					<lb facs="#facs_12_r3l6"/>herauß gefallen / mit den Hertzogiſchen ſcharmuͤtzirt / in 400. Mann erlegt / 3. ſtuͤck Geſchuͤtz-
+                  <lb facs="#facs_12_line_1754031055988_226"/>Der Graff von Solms hat ſich mit 1800. Pferden
+					<lb facs="#facs_12_line_1754031072990_243"/>vnd 4000. zu Fuß zwiſchen Hanower vnd Braunſchweig gelaͤgert/ vnd verſchantzt/ haben
+					<lb facs="#facs_12_r3l3"/>200. Waͤgen mit allerhand viemalien/ vnd 400. Ochſen bey ſich/ vnd ſolle die Statt Ha-
+					<lb facs="#facs_12_r3l4"/>nower ſich an die Staͤtt ergeben haben. <space dim="horizontal"/>Als der Hertzog von Braunſchweig das Waſſer
+					<lb facs="#facs_12_r3l5"/>geſtembet/ daß es Elen hoch in der Statt geſtanden/ ſeind die in der Statt mit gantzer Macht
+					<lb facs="#facs_12_r3l6"/>herauß gefallen/ mit den Hertzogiſchen ſcharmuͤtzirt/ in 400. Mann erlegt/ 3. ſtuͤck Geſchuͤtz-
 					<lb facs="#facs_12_r3l7"/>eobert/ vnd auch vber 300 Mann verlohren.
 				</p>
                <p>
-                  <lb facs="#facs_12_r4l1"/>Die Henſeeſtaͤtt befinden ſich jetzt wider zu Luͤnenburg beyſammen / ſonſt iſt de<hi rendition="#aq">r Stati</hi>us
-					<lb facs="#facs_12_r4l2"/>von Muͤnchſhauſen mit 3. vornehmen vom Adel zu Zell beym Hertzogen von Luͤneburg
-					<lb facs="#facs_12_r4l3"/>geweſen / vnnd begert / der Hertzog ſolle der Haͤnſeeſtaͤtt Volck in ſeinem Lande nicht dulden/
-					<lb facs="#facs_12_r4l4"/>aber ſchlechte Antwort bekommen / iſt alſo nach genommenem Abſcheidt durch deß Hertzo-
-					<lb facs="#facs_12_r4l5"/>gen Landt begleitet / hernacher aber von 30. der Haͤnſeeſtaͤtt Reuter gefangen / vnnd dem
-					<lb facs="#facs_12_r4l6"/>Graffen von Solms zugebracht worden / ſollen 1300. Ducaten bey ſich gehabt haben.
+                  <lb facs="#facs_12_r4l1"/>Die Henſeeſtaͤtt befinden ſich jetzt wider zu Luͤnenburg beyſammen/ ſonſt iſt der <hi rendition="#aq">Statius</hi>
+                  <lb facs="#facs_12_r4l2"/>von Muͤnchſhauſen mit 3. vornehmen vom Adel zu Zell beym Hertzogen von Luͤneburg
+					<lb facs="#facs_12_r4l3"/>geweſen/ vnnd begert/ der Hertzog ſolle der Haͤnſeeſtaͤtt Volck in ſeinem Lande nicht dulden/
+					<lb facs="#facs_12_r4l4"/>aber ſchlechte Antwort bekommen/ iſt alſo nach genommenem Abſcheidt durch deß Hertzo-
+					<lb facs="#facs_12_r4l5"/>gen Landt begleitet/ hernacher aber von 30. der Haͤnſeeſtaͤtt Reuter gefangen/ vnnd dem
+					<lb facs="#facs_12_r4l6"/>Graffen von Solms zugebracht worden/ ſollen 1300. Ducaten bey ſich gehabt haben.
 				</p>
                <p>
-                  <lb facs="#facs_12_r5l1"/>E. E. Rath allhier hat mit 100. Soldaten / vnd 50 Reutern / die zu Wendorff durch
-					<lb facs="#facs_12_r5l2"/>Herzog Frantzen angehaltene Guͤter / mit Gewalt holen vnd alhero bringen laſſen
+                  <lb facs="#facs_12_r5l1"/>E. E. Rath allhier hat mit 100. Soldaten/ vnd 50 Reutern/ die zu Wendorff durch
+					<lb facs="#facs_12_r5l2"/>Herzog Frantzen angehaltene Guͤter/ mit Gewalt holen vnd alhero bringen laſſen
 				</p>
+            </div>
+            <div type="jArticle" n="7" xml:id="fp_1615_43_7">
+               <head>
+                   <lb facs="#facs_12_line_1754030973785_202"/>Auß dem <placeName key="Q901914">Landt zu Braunſchweig</placeName>/ vom <date when="1615-10-24">24. ditto</date>.
+				</head>
                <p>
-                  <lb facs="#facs_12_r6l1"/>Auß dem Landt zu Braunſchweig / vom <date when="1615-10-24">24. ditto</date>. <space dim="horizontal"/>Der Koͤnig in Dennemarck
-					<lb facs="#facs_12_r6l2"/>iſt mit 13000. Mann zu Roß vnd Fueß / der Haͤnſeeſtaͤtt Volck biß nacher Zell entgegen ge-
-					<lb facs="#facs_12_r6l3"/>zogen / vmb mit dem Graffen von Solms ein treffen zuthun / weilln ſich aber der Graff nach
-					<lb facs="#facs_12_r6l4"/>Giffhorn begeben vnd ſich dapffer verſchantzt / doch vber 5000. Mann nit bey ſich hat/ iſt der
-					<lb facs="#facs_12_r6l5"/>Koͤnig vnverricht wider ins Laͤger kommen. <space dim="horizontal"/>Mit der Statt Braunſchweig ſtehet es nicht
-					<lb facs="#facs_12_r6l6"/>nach dem beſten / beyde theil ſchieſſen ſtarck vff einander / vnnd laͤſt der Hertzog das Geſchuͤtz-
-					<lb facs="#facs_12_r6l7"/>vff den Wahl ziehen / hat wider 4. Fahnen friſchvolck ins Lager bekommen / deſſen folgt noch
-					<lb facs="#facs_12_r6l8"/>taͤglich mehr / vnd wird das gemuſtert Landt Volck vff 20000. ſtarck geſchetzt / weilen die
-					<lb facs="#facs_12_r6l9"/>Wachten vmb der Statt verdoppelt / kan niemand mehr auß noch in die Statt kommen /
+                  <lb facs="#facs_12_line_1754030973221_196"/>Der Koͤnig in Dennemarck
+					<lb facs="#facs_12_line_1754030984176_213"/>iſt mit 13000. Mann zu Roß vnd Fueß/ der Haͤnſeeſtaͤtt Volck biß nacher Zell entgegen ge-
+					<lb facs="#facs_12_r6l3"/>zogen / vmb mit dem Graffen von Solms ein treffen zuthun/ weilln ſich aber der Graff nach
+					<lb facs="#facs_12_r6l4"/>Giffhorn begeben vnd ſich dapffer verſchantzt/ doch vber 5000. Mann nit bey ſich hat/ iſt der
+					<lb facs="#facs_12_r6l5"/>Koͤnig vnverricht wider ins Laͤger kommen. <space dim="horizontal"/>Mit der <placeName key="Q2773">Statt Braunſchweig</placeName> ſtehet es nicht
+					<lb facs="#facs_12_r6l6"/>nach dem beſten/ beyde theil ſchieſſen ſtarck vff einander/ vnnd laͤſt der Hertzog das Geſchuͤtz-
+					<lb facs="#facs_12_r6l7"/>vff den Wahl ziehen/ hat wider 4. Fahnen friſchvolck ins Lager bekommen/ deſſen folgt noch
+					<lb facs="#facs_12_r6l8"/>taͤglich mehr/ vnd wird das gemuſtert Landt Volck vff 20000. ſtarck geſchetzt/ weilen die
+					<lb facs="#facs_12_r6l9"/>Wachten vmb der Statt verdoppelt/ kan niemand mehr auß noch in die Statt kommen/
 					<lb facs="#facs_12_r6l10"/>haben alſo gute Hoffnung ſolche bald zu eroben. <space dim="horizontal"/>Die Keyſerl. Commiſſarien haben in
-					<lb facs="#facs_12_r6l11"/>die Statt begert / aber nicht eingelaſſen / ſondern jhnen zur Antwort worden / ſie weren jetzt
+					<lb facs="#facs_12_r6l11"/>die Statt begert/ aber nicht eingelaſſen/ ſondern jhnen zur Antwort worden/ ſie weren jetzt
 					<lb facs="#facs_12_r6l12"/>nicht mechtig/ vnd ſie an die ſaͤmptliche Haͤnſeeſtaͤtt gewieſen.
 				</p>
+            </div>
+            <div type="jArticle" n="8" xml:id="fp_1615_43_8">
+               <head>
+                  <lb facs="#facs_12_line_1754030810808_141"/>Auß <placeName key="Q4122">Wolffenbuͤttel</placeName> vom <date when="1615-10-26">26. Dito</date>.
+				</head>
                <p>
-                  <lb facs="#facs_12_r7l1"/>Auß Wolffenbuͤttel vom <date when="1615-10-26">26. Dito</date>. Vnſer Volck iſt ſo wol auff dem Wall als die
-					<lb facs="#facs_12_r7l2"/>in der Statt/ duͤrffen nur der zween Schantzkoͤrb hinuͤber / ſo koͤnnen ſie ſich mit einander
-					<lb facs="#facs_12_r7l3"/>ſchlagen/ man bawt jetzt ein Patterey hinauff vmb Preſſa zu ſchieſſen / daß man gar hinein
-					<lb facs="#facs_12_r7l4"/>lauffen kan / beyde Theil koͤnnen mit Schieſen nicht viel außrichten / ſondern thun einander
-					<lb facs="#facs_12_r7l5"/>mit Steinen / Bechkraͤntzen vnd Treſchſchlaͤgeln groſſen Schaden
+                  <lb facs="#facs_12_line_1754030810207_135"/>Vnſer Volck iſt ſo wol auff dem Wall als die
+					<lb facs="#facs_12_r7l2"/>in der Statt/ duͤrffen nur der zween Schantzkoͤrb hinuͤber/ ſo koͤnnen ſie ſich mit einander
+					<lb facs="#facs_12_r7l3"/>ſchlagen/ man bawt jetzt ein Patterey hinauff vmb Preſſa zu ſchieſſen/ daß man gar hinein
+					<lb facs="#facs_12_r7l4"/>lauffen kan/ beyde Theil koͤnnen mit Schieſen nicht viel außrichten/ ſondern thun einander
+					<lb facs="#facs_12_r7l5"/>mit Steinen/ Bechkraͤntzen vnd Treſchſchlaͤgeln groſſen Schaden
 				</p>
+            </div>
+            <div type="jArticle" n="9" xml:id="fp_1615_43_9">
+               <head>
+                  <lb facs="#facs_12_line_1754030901527_159"/>Auß <placeName key="Q1085">Prag</placeName>/ vom <date when="1615-10-24">24. October/ Anno 1615</date>.
+				</head>
                <p>
-                  <lb facs="#facs_12_r8l1"/>Auß Prag/ vom <date when="1615-10-24">24. October/ Anno 1615</date>. Man erwartet allhier mit verlangen
-					<lb facs="#facs_12_r8l2"/>Herrn Haͤggemüllers/ welcher vnlaͤngſt an die 3. Geiſtliche ChurF geſchickt worden / deß
-					<lb facs="#facs_12_r8l3"/>vorſtehenden Reichstags halben / was derſelbe verrichtet / dann allhie darfuͤr gehalten wer-
+                  <lb facs="#facs_12_line_1754030901052_153"/>Man erwartet allhier mit verlangen
+					<lb facs="#facs_12_line_1754030933262_177"/>Herrn Haͤggemuͤllers/ welcher vnlaͤngſt an die 3. Geiſtliche ChurF geſchickt worden/ deß
+					<lb facs="#facs_12_r8l3"/>vorſtehenden Reichstags halben/ was derſelbe verrichtet/ dann allhie darfuͤr gehalten wer-
 					<lb facs="#facs_12_r8l4"/>den will/ es werden Jhre ChurF. G. zu Meyntz in Namen der Catoliſchen/ vnd Fuͤrſt Chri-
-					<lb facs="#facs_12_r8l5"/>ſtian von Anhalt / wegen der Correſpondirenden wie auch Herr Biſchoff Cloͤſel wegen Jh-
-					<lb facs="#facs_12_r8l6"/>rer May. in kurtzem zu Bamberg zuſammen komen / vnd alda einen Compoſition Tag halten.
+					<lb facs="#facs_12_r8l5"/>ſtian von Anhalt/ wegen der Correſpondirenden wie auch Herr Biſchoff Cloͤſel wegen Jh-
+					<lb facs="#facs_12_r8l6"/>rer May. in kurtzem zu Bamberg zuſammen komen/ vnd alda einen Compoſition Tag halten.
 				</p>
             </div>
          </body>
