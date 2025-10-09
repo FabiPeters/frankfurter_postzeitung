@@ -1,99 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listPlace xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <place key="Q1794">
+        <placeName>Frankfurt</placeName>
+        <geo>50.11055555555556 8.682222222222222</geo>
+    </place>
     <place key="Q25409">
         <placeName>Košice</placeName>
+        <geo>48.716667 21.25</geo>
     </place>
     <place key="Q1741">
         <placeName>Wien</placeName>
+        <geo>48.208333333333336 16.3725</geo>
     </place>
     <place key="Q1085">
         <placeName>Prag</placeName>
+        <geo>50.0875 14.421388888888888</geo>
     </place>
     <place key="Q220">
         <placeName>Rom</placeName>
+        <geo>41.893055555556 12.482777777778</geo>
     </place>
     <place key="Q641">
         <placeName>Venedig</placeName>
+        <geo>45.439722222222 12.331944444444</geo>
     </place>
     <place key="Q36600">
         <placeName>Den Haag</placeName>
+        <geo>52.08 4.31</geo>
     </place>
     <place key="Q365">
         <placeName>Köln</placeName>
+        <geo>50.942222222222 6.9577777777778</geo>
     </place>
     <place key="Q1754">
         <placeName>Stockholm</placeName>
+        <geo>59.329444444444 18.068611111111</geo>
     </place>
     <place key="Q39">
         <placeName>Schweiz</placeName>
+        <geo>46.798562 8.231973</geo>
     </place>
     <place key="Q1780">
         <placeName>Bratislava</placeName>
+        <geo>48.144722222222 17.112777777778</geo>
     </place>
     <place key="Q727">
         <placeName>Amsterdam</placeName>
+        <geo>52.36666666666667 4.883333333333333</geo>
     </place>
     <place key="Q1713787">
         <placeName>Rudolfov</placeName>
+        <geo>48.993468810656 14.541798472264</geo>
     </place>
     <place key="Q456">
         <placeName>Lyon</placeName>
+        <geo>45.7675 4.835</geo>
     </place>
     <place key="Q2978">
         <placeName>Regensburg</placeName>
+        <geo>49.016666666666666 12.083333333333334</geo>
     </place>
     <place key="Q578688">
         <placeName>Pfaffenschlag bei Waidhofen an der Thaya</placeName>
+        <geo>48.833333333333  15.183333333333</geo>
     </place>
     <place key="Q31487">
         <placeName>Krakau</placeName>
+        <geo>50.061388888889 19.937222222222</geo>
     </place>
     <place key="Q12548">
         <placeName>Kaiserl. Lager</placeName>
+        <geo>48.208333333333336 16.3725</geo>
     </place>
     <place key="Q90">
         <placeName>Paris</placeName>
+        <geo>48.85666666666667 2.352222222222222</geo>
     </place>
     <place key="Q43453">
         <placeName>Pilsen</placeName>
+        <geo>49.741388888889 13.3825</geo>
     </place>
     <place key="Q16506">
         <placeName>Budweis</placeName>
+        <geo>48.974722222222 14.474722222222</geo>
     </place>
     <place key="Q11925">
         <placeName>Kanton Graubünden</placeName>
+        <geo>46.75 9.5</geo>
     </place>
     <place key="Q6596">
         <placeName>Gorizia</placeName>
+        <geo>45.9352 13.6193</geo>
     </place>
     <place key="Q1799">
         <placeName>Breslau</placeName>
+        <geo>51.11 17.0325</geo>
     </place>
     <place key="Q2773">
         <placeName>Braunschweig</placeName>
+        <geo>52.269166666667 10.521111111111</geo>
     </place>
     <place key="Q326029">
         <placeName>Herzogtum Braunschweig</placeName>
+        <geo>52.269167 10.521111</geo>
     </place>
     <place key="Q901914">
         <placeName>Braunschweiger Land</placeName>
+        <geo>52.269167 10.521111</geo>
     </place>
     <place key="Q1733">
         <placeName>Magdeburg</placeName>
+        <geo>52.1315889 11.6399609</geo>
     </place>
     <place key="Q2079">
         <placeName>Leipzig</placeName>
+        <geo>51.3406321 12.3747329</geo>
     </place>
     <place key="Q1055">
         <placeName>Hamburg</placeName>
+        <geo>53.55 10</geo>
     </place>
     <place key="Q1718">
         <placeName>Düsseldorf</placeName>
+        <geo>51.22555555555556 6.776666666666666</geo>
     </place>
     <place key="Q134494">
         <placeName>Győr</placeName>
+        <geo>47.684166666667 17.634444444444</geo>
     </place>
     <place key="Q4122">
         <placeName>Wolfenbüttel</placeName>
+        <geo>52.162222222222 10.536944444444</geo>
+    </place>
+    <place key="Q14813">
+        <placeName>Gifhorn</placeName>
+        <geo>52.488611111111 10.546388888889</geo>
     </place>
 </listPlace>
