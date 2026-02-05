@@ -23,7 +23,7 @@
          </langUsage>
       </profileDesc>
    </teiHeader>
-   <TEI xml:id="fp_1617_40" n="40">
+   <TEI type="issue" xml:id="fp_1617_40" n="40">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -849,7 +849,7 @@
          <front>
             <pb facs="#facs_1"
                 n="1"
-                corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904369"/>
+                corresp="https://brema.suub.uni-bremen.de/i3f/v20/904369/full/max/0/default.jpg"/>
             <docTitle>
                <lb facs="#facs_1_r1l1"/>
                <titlePart type="issue" n="40">40.</titlePart>
@@ -857,13 +857,13 @@
          </front>
          <body>
             <div type="transcription">
-               <div type="jCorrespondence" n="1" xml:id="fp_1617_40_1">
+               <div type="jCorrespondence" n="1" xml:id="fp_1617_40-1">
                   <head facs="#facs_1_r2">
                      <lb facs="#facs_1_r2l1"/>Auß <rs type="place" key="Q6596">Goͤrtz</rs> vom <date when="1617-09-18">18. Se<supplied>p</supplied>tember. 1617</date>.</head>
                   <p facs="#facs_1_r4">
                      <lb facs="#facs_1_r4l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_1_1">
+                     <milestone unit="article" xml:id="fp_1617_40-1_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-1_1">
                         <hi rend="#in">D</hi>En <date when="1617-09-10">10. diß</date>/</seg> hat ſich zwiſchen vnſerm C<supplied>a</supplied>pitan Peter <hi rend="#aq">Vaſques</hi>, vñ einem Ca-
                <lb facs="#facs_1_r4l2"/>pitan <hi rend="#aq">de Corſi</hi> vnder den Venedige<supplied>rn</supplied>/ ein ſtreitt zwiſchen beyden Laͤgern
                <lb facs="#facs_1_r4l3"/>zu Roß zugetragen/ darbey von we<supplied>ren</supplied> viel fuͤrnehme herrn/ vnder andern
@@ -875,8 +875,8 @@
                <lb facs="#facs_1_r4l9"/>ſtarcker bereitſchafft geſtanden/ biß der hand<supplied>el</supplied> fuͤr vber geweſen.</p>
                   <p facs="#facs_1_r5">
                      <lb facs="#facs_1_r5l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_2" n="2"/>
-                     <seg type="intro" corresp="fp_1617_40_1_2">Mit <rs type="place">Gradiſca</rs> ſtehets gefehrlich/</seg> dañ der <supplied>fei</supplied>nd beſcheuſt ſolche mit 20 ſtuͤcken ge-
+                     <milestone unit="article" xml:id="fp_1617_40-1_2" n="2"/>
+                     <seg type="intro" corresp="fp_1617_40-1_2">Mit <rs type="place">Gradiſca</rs> ſtehets gefehrlich/</seg> dañ der <supplied>fei</supplied>nd beſcheuſt ſolche mit 20 ſtuͤcken ge-
                <lb facs="#facs_1_r5l2"/>ſchuͤtz tag vnd nacht/ vnd hat in einem tag bey 20. ſchuͤß hinein gethan/ vnd wo man
                <lb facs="#facs_1_r5l3"/>nit anders zu dieſem Krieg thue/ moͤchte man <supplied>ſol</supplied>cher Voͤſtung verluſtigt werden/ der
                <lb facs="#facs_1_r5l4"/>Feindt hai dermaſſen die Paß geſpert/ vnnd <supplied>i</supplied>ngenommen/ dz faſt vnmuͤglich ohne
@@ -889,46 +889,46 @@
                      <lb facs="#facs_1_r5l11"/>nicht dz beſte theten/ wuͤſten ſie nit zuleben.</p>
                   <p facs="#facs_1_r6">
                      <lb facs="#facs_1_r6l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_3" n="3"/>
-                     <seg type="intro" corresp="fp_1617_40_1_3">Der Feindt hat</seg> dieſer tagen ein groſſen Soccors zu Roß vnd Fuß bekomwer.
+                     <milestone unit="article" xml:id="fp_1617_40-1_3" n="3"/>
+                     <seg type="intro" corresp="fp_1617_40-1_3">Der Feindt hat</seg> dieſer tagen ein groſſen Soccors zu Roß vnd Fuß bekomwer.
                <lb facs="#facs_1_r6l2"/>deren meiſtentheils Tuͤrckiſche Vnderthanen ſein/ deß gleichen auch <supplied>v.</supplied> groſſe <gap unit="chars"/>S<gap unit="char"/>d
                <lb facs="#facs_1_r6l3"/>mit newen Hollaͤndern / entgegen ſeind wir gar ſchwach/ vnd je lenger je weniger.</p>
                   <p facs="#facs_1_r7">
                      <lb facs="#facs_1_r7l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_4" n="4"/>
-                     <seg type="intro" corresp="fp_1617_40_1_4">Geſtern hat</seg> herꝛ Hauptman von Herberſtein/ ein groß vngluͤck/ als er ſampt
-               <lb facs="#facs_1_r7l2"/>herꝛn Hauptmann Brußki zwiſchen der Jſnttz etliche ſchuͤß vnder die Feinde thun
+                     <milestone unit="article" xml:id="fp_1617_40-1_4" n="4"/>
+                     <seg type="intro" corresp="fp_1617_40-1_4">Geſtern hat herꝛ Hauptman von Herberſtein</seg>/ ein groß vngluͤck/ als er ſampt
+               <lb facs="#facs_1_r7l2"/>herꝛn Hauptmann Brußki zwiſchen der Jſnitz etliche ſchuͤß vnder die Feinde thun
                <lb facs="#facs_1_r7l3"/>laſſen/ außgeſtanden/ in dem er ſich reteriren woͤllen/ kompt ein ſchuß auß deß Feinds
                <lb facs="#facs_1_r7l4"/>Schantz/ vnd ſcheuſt jhme herꝛn eine groſſe Guͤldene Ketten von kleinen gliedern/
                <lb facs="#facs_1_r7l5"/>vom leibe daß ſie auff die erden gefallen/ doch am leibe nichts beſchedigt.</p>
                   <p facs="#facs_1_r8">
                      <lb facs="#facs_1_r8l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_5" n="5"/>
-                     <seg type="intro" corresp="fp_1617_40_1_5">Man hat auiſo/</seg> als die Venediger die alten Hollendiſche Soldaten gemuſtert/
+                     <milestone unit="article" xml:id="fp_1617_40-1_5" n="5"/>
+                     <seg type="intro" corresp="fp_1617_40-1_5">Man hat auiſo/</seg> als die Venediger die alten Hollendiſche Soldaten gemuſtert/
                <lb facs="#facs_1_r8l2"/>bezalt/ vnd wider <hi rend="#aq">de nouo</hi> werben/ vnd beſtellet/ haben ſie jhnen nit mehr dienen/ ſon-
                <lb facs="#facs_1_r8l3"/>dern wider in jhr Landt ziehen wollen.</p>
                   <p facs="#facs_1_r9">
                      <lb facs="#facs_1_r9l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_1_6" n="6"/>
-                     <seg type="intro" corresp="fp_1617_40_1_6">Auff vnſerſeits iſt</seg> herꝛ Obriſter Leutenandt Meilgraber/ weilen er ſeine zeit auß-
+                     <milestone unit="article" xml:id="fp_1617_40-1_6" n="6"/>
+                     <seg type="intro" corresp="fp_1617_40-1_6">Auff vnſerſeits iſt</seg> herꝛ Obriſter Leutenandt Meilgraber/ weilen er ſeine zeit auß-
                <lb facs="#facs_1_r9l2"/>gedient/ mit den ſeinen wider ab/ vnd nach hauß gen Wareſtin in Windiſchen Landt
                <lb facs="#facs_1_r9l3"/>gezogen/ welches dem Feindt greſſen muth macht/ weilen er Meilgraber den beſten
                <lb facs="#facs_1_r9l4"/>Kern vom Kriegsvolck beyſammen gehabt.</p>
                </div>
-               <div type="jCorrespondence" n="2" xml:id="fp_1617_40_2">
+               <div type="jCorrespondence" n="2" xml:id="fp_1617_40-2">
                   <head facs="#facs_1_r10">
                      <lb facs="#facs_1_r10l1"/>Auß <rs type="place" key="Q1741">Wien</rs> vom <date when="1617-09-27">27. Ditto</date>.</head>
                   <p facs="#facs_1_r11">
                      <lb facs="#facs_1_r11l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_2_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_2_1">Demnach vor etlichen tagen/</seg> die 2. junge Hertzogen von Sachſen Lawenburg al-
+                     <milestone unit="article" xml:id="fp_1617_40-2_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-2_1">Demnach vor etlichen tagen/</seg> die 2. junge Hertzogen von Sachſen Lawenburg al-
                <lb facs="#facs_1_r11l2"/>hier ankommen/ deren der Elter 500. Pferdt fuͤr den Koͤnig Ferdinandum wider die
                <lb facs="#facs_1_r11l3"/>Venediger fuͤhrt/ ſeindt ſolche den <date when="1617-09-25">25. diß</date> mit 70. Pferdten vnnd fuͤhrenden Fahnen
                <lb facs="#facs_1_r11l4"/>von hier ſtatlich mit Trometen/ vnd Heerbaucken hinweg/ vnnd nach Newkirchen/
                <lb facs="#facs_1_r11l5"/>bey der Neuſtatt (alda ſie bereit beyſammen/ vnd der Muſterplatz auff <date when="1617-09-26">26. diß</date> ange-</p>
                   <pb facs="#facs_2"
                       n="2"
-                      corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904370"/>
+                      corresp="https://brema.suub.uni-bremen.de/i3f/v20/904370/full/max/0/default.jpg"/>
                   <p facs="#facs_2_r1">
                      <lb facs="#facs_2_r1l1"/>ſtelt.) verreiſt/ denen der allhieſige Spaniſche Zahlmeiſter Amptsverwalter Beuerl
                <lb facs="#facs_2_r1l2"/>den erſten MonatSoldt gereicht/ <gap unit="char" atLeast="1" atMost="2"/>e werden nun baldt fort ruͤcken/ vnnd wirdt der
@@ -936,13 +936,13 @@
                      <supplied>j</supplied>unge herꝛ von Loſenſtein deß herꝛn <supplied>O</supplied>briſten Hoff Marſchalcks Vetter/ vnter dem
                <lb facs="#facs_2_r1l4"/>herꝛn Obriſten Tampier auch eine<supplied>n</supplied> Soldaten hinein geben.</p>
                </div>
-               <div type="jCorrespondence" n="3" xml:id="fp_1617_40_3">
+               <div type="jCorrespondence" n="3" xml:id="fp_1617_40-3">
                   <head facs="#facs_2_r2">
                      <lb facs="#facs_2_r2l1"/>Auß <rs type="place" key="Q220">Rohm</rs> vom <date when="1617-09-23">23. Ditto</date>.</head>
                   <p facs="#facs_2_r3">
                      <lb facs="#facs_2_r3l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_3_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_3_1">
+                     <milestone unit="article" xml:id="fp_1617_40-3_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-3_1">
                         <rs type="place">Neapolitaniſche</rs> brieff berichten/</seg> da<supplied>ß</supplied> alle Vaſellen zu der Meer armada gehoͤrig/
                <lb facs="#facs_2_r3l2"/>bereitfertig zur abfarth/ vnd allein gu<supplied>t</supplied>en Windts erwarten/ ſol alſo dieſe Armada
                <lb facs="#facs_2_r3l3"/>ſtercker als die erſte ſein/ ſo ſchreibt ma<supplied>n</supplied> auch von Malta/ das ſelbige Jnſul in ſtetter
@@ -951,23 +951,23 @@
                <lb facs="#facs_2_r3l6"/>Malta eine Feluchen von der Chriſte<supplied>n</supplied> Armada/ vñ nach Leuante fahrend/ gefangẽ.</p>
                   <p facs="#facs_2_r4">
                      <lb facs="#facs_2_r4l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_3_2" n="2"/>
-                     <seg type="intro" corresp="fp_1617_40_3_2">Auß <rs type="place">Spania</rs> hat man/</seg> das im S<gap unit="char" atLeast="1" atMost="2"/>etto di Gibraltar ſich zwiſchen 12. Portuge-
+                     <milestone unit="article" xml:id="fp_1617_40-3_2" n="2"/>
+                     <seg type="intro" corresp="fp_1617_40-3_2">Auß <rs type="place">Spania</rs> hat man/</seg> das im S<gap unit="char" atLeast="1" atMost="2"/>etto di Gibraltar ſich zwiſchen 12. Portuge-
                <lb facs="#facs_2_r4l2"/>ſiſchen Galeren/ vnd 10. Corſariſche Vaſellen ein ſtreit erhoben/ dar durch 4. Vaſel-
                <lb facs="#facs_2_r4l3"/>len erſeufft/ vnd die andern von den Portugeſern gefangen worden.</p>
                </div>
-               <div type="jCorrespondence" n="4" xml:id="fp_1617_40_4">
+               <div type="jCorrespondence" n="4" xml:id="fp_1617_40-4">
                   <head facs="#facs_2_r5">
                      <lb facs="#facs_2_r5l1"/>Auß <rs type="place" key="Q456">Lion</rs> vom <date when="1617-09-24">24. Ditto</date>.</head>
                   <p facs="#facs_2_r6">
                      <lb facs="#facs_2_r6l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_4_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_4_1">Man gibt noch auß/</seg> das der Frieden zwiſchen dem Koͤnig in Boͤheimb/ vnd Ve-
+                     <milestone unit="article" xml:id="fp_1617_40-4_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-4_1">Man gibt noch auß/</seg> das der Frieden zwiſchen dem Koͤnig in Boͤheimb/ vnd Ve-
                <lb facs="#facs_2_r6l2"/>nedigern wie gleichfals zwiſchen Spania/ vnd Sauoia gewiß beſchloſſen worden.</p>
                   <p facs="#facs_2_r7">
                      <lb facs="#facs_2_r7l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_4_2" n="2"/>
-                     <seg type="intro" corresp="fp_1617_40_4_2">Auff <date when="1617-09-15">15. diß</date>
+                     <milestone unit="article" xml:id="fp_1617_40-4_2" n="2"/>
+                     <seg type="intro" corresp="fp_1617_40-4_2">Auff <date when="1617-09-15">15. diß</date>
                      </seg> hat man den Printzen von Conde/ vnd ſein Gemahl/ in das Schloß
                <lb facs="#facs_2_r7l2"/>
                      <hi rend="#aq">Vincennes</hi>/ ſo nit weit von hier ligt/ gefuͤhrt/ daſelbſten ſol er noch viel ſtrenger/ als
@@ -979,17 +979,17 @@
                <lb facs="#facs_2_r7l6"/>Printzen von Conde außhelffen wollen.</p>
                   <p facs="#facs_2_r8">
                      <lb facs="#facs_2_r8l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_4_3" n="3"/>
-                     <seg type="intro" corresp="fp_1617_40_4_3">Der <rs type="person">Hertzogen <hi rend="#aq">di Niuers,</hi> vnnd Maijenne</rs> ſeindt</seg> wider zu Hoff bey jhrer May.
+                     <milestone unit="article" xml:id="fp_1617_40-4_3" n="3"/>
+                     <seg type="intro" corresp="fp_1617_40-4_3">Der <rs type="person">Hertzogen <hi rend="#aq">di Niuers,</hi> vnnd Maijenne</rs> ſeindt</seg> wider zu Hoff bey jhrer May.
                <lb facs="#facs_2_r8l2"/>ankommen.</p>
                </div>
-               <div type="jCorrespondence" n="5" xml:id="fp_1617_40_5">
+               <div type="jCorrespondence" n="5" xml:id="fp_1617_40-5">
                   <head facs="#facs_2_r9">
                      <lb facs="#facs_2_r9l1"/>Auß <rs type="place" key="Q641">Venedig</rs> vom <date when="1617-09-30">30. Ditto</date>.</head>
                   <p facs="#facs_2_r10">
                      <lb facs="#facs_2_r10l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_5_1">Von <rs type="place">Turino</rs> wirdt geſchrieben/</seg> daſelbſt weren in deß Hertzogẽ Capellen 10. Fah-
+                     <milestone unit="article" xml:id="fp_1617_40-5_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-5_1">Von <rs type="place">Turino</rs> wirdt geſchrieben/</seg> daſelbſt weren in deß Hertzogẽ Capellen 10. Fah-
                <lb facs="#facs_2_r10l2"/>nen/ ſo er zu Feliciano erobert/ vffgehenckt werden/ vnd worden noch 12. andere von
                <lb facs="#facs_2_r10l3"/>Annone erwartet/ ſo iſt der Graff von Mansfeldt mit 4000. Teutſchen zu Fuß/ vñ
                <lb facs="#facs_2_r10l4"/>700. zu Roß nach Jurea paſſirt/ vnd thut ſich der Hertzog taͤglich mit volck/ ſo jhme
@@ -998,8 +998,8 @@
                <lb facs="#facs_2_r10l7"/>nach <hi rend="#aq">S. Germano</hi> zur Beſatzung gebracht/ auch 4. Sauoiſche Doͤrffer verbrendt.</p>
                   <p facs="#facs_2_r11">
                      <lb facs="#facs_2_r11l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_2" n="2"/>
-                     <seg type="intro" corresp="fp_1617_40_5_2">
+                     <milestone unit="article" xml:id="fp_1617_40-5_2" n="2"/>
+                     <seg type="intro" corresp="fp_1617_40-5_2">
                         <rs type="place">Meylendiſche</rs> Brieff auiſirẽ/</seg> dz der <hi rend="#aq">Monſ. di Bettunes</hi> vff 16. diß nach Nouarra zũ
                <lb facs="#facs_2_r11l2"/>
                      <hi rend="#aq">Don Toledo</hi> paſſirt/ den Frieden zuſchlieſſen/ doch vnverricht wider zuruͤck kom̃en/
@@ -1014,11 +1014,11 @@
                <lb facs="#facs_2_r11l11"/>ſollen/ ſich nach Aſteggiano retirirt.</p>
                   <pb facs="#facs_3"
                       n="3"
-                      corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904371"/>
+                      corresp="https://brema.suub.uni-bremen.de/i3f/v20/904371/full/max/0/default.jpg"/>
                   <p facs="#facs_3_r1">
                      <lb facs="#facs_3_r1l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_3" n="3"/>
-                     <seg type="intro" corresp="fp_1617_40_5_3">
+                     <milestone unit="article" xml:id="fp_1617_40-5_3" n="3"/>
+                     <seg type="intro" corresp="fp_1617_40-5_3">
                         <rs type="place">Spaniſche</rs> Brieff meldten/</seg> der Printz Philiberto hette vom Koͤnig zu Huͤlffe ſei-
                <lb facs="#facs_3_r1l2"/>nes Vncoſtens 30000. Cronen empfangen/ alda werde auch/ vneracht man den
                <lb facs="#facs_3_r1l3"/>Frieden mit Sauoia bey Hoff fuͤr gewiß halte/ viel Volcks nach Jtalia imbarchirt
@@ -1026,8 +1026,8 @@
                <lb facs="#facs_3_r1l5"/>men Vaſellen/ mit der Kauffmannſchafft/ erhalten.</p>
                   <p facs="#facs_3_r2">
                      <lb facs="#facs_3_r2l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_4" n="4"/>
-                     <seg type="intro" corresp="fp_1617_40_5_4">Aus dem Feldtlaͤger hoͤrt man/</seg> das alda 400. Knecht von <hi rend="#aq">Legnano</hi> ankommen/
+                     <milestone unit="article" xml:id="fp_1617_40-5_4" n="4"/>
+                     <seg type="intro" corresp="fp_1617_40-5_4">Aus dem Feldtlaͤger hoͤrt man/</seg> das alda 400. Knecht von <hi rend="#aq">Legnano</hi> ankommen/
                <lb facs="#facs_3_r2l2"/>vnd wegen ſteten Regens der Fluß Liſonzo ſehr groß worden/ vnnd vnſere Bruͤcken
                <lb facs="#facs_3_r2l3"/>zerriſſen/ durch welche gelegenheit die Ertzhertzogiſchen / ein Zattera mit viel kuͤnſtli-
                <lb facs="#facs_3_r2l4"/>lichen Fewerwerck/ vnd Munition nach <hi rend="#aq">Gradiſca</hi> lauffen laſſen/ ſo aber die vnſern/
@@ -1038,38 +1038,38 @@
                <lb facs="#facs_3_r2l9"/>vnd arreſtirt.</p>
                   <p facs="#facs_3_r3">
                      <lb facs="#facs_3_r3l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_5" n="5"/>
-                     <seg type="intro" corresp="fp_1617_40_5_5">Die im <hi rend="#aq">Forte Stella</hi> ſeint</seg> Mitwoch mit 100. Pferden/ vnd viel Knechten außge-
+                     <milestone unit="article" xml:id="fp_1617_40-5_5" n="5"/>
+                     <seg type="intro" corresp="fp_1617_40-5_5">Die im <hi rend="#aq">Forte Stella</hi> ſeint</seg> Mitwoch mit 100. Pferden/ vnd viel Knechten außge-
                <lb facs="#facs_3_r3l2"/>fallen/ der Fortezen/ Baw zwiſchen <hi rend="#aq">Gradiſca</hi>/ vnd der Sternſchantz zuverhindern/
                <lb facs="#facs_3_r3l3"/>die feindt aber mit verluſt 12. der jhren/ zuruͤck getrieben/ vnd acht gefangen worden.</p>
                   <p facs="#facs_3_r4">
                      <lb facs="#facs_3_r4l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_5_6" n="6"/>
-                     <seg type="intro" corresp="fp_1617_40_5_6">Zu <hi rend="#aq">
+                     <milestone unit="article" xml:id="fp_1617_40-5_6" n="6"/>
+                     <seg type="intro" corresp="fp_1617_40-5_6">Zu <hi rend="#aq">
                            <rs type="place">Genua</rs>
                         </hi> iſt</seg> ein <hi rend="#aq">exeraordinari</hi> auß Spania ankommen/ welche die Ratification
                <lb facs="#facs_3_r4l2"/>der Frantzoͤſiſch formirten Friedens Puncten mitbringen ſolle/ darauff theils herꝛn
                <lb facs="#facs_3_r4l3"/>jhre geworbene Knecht abgedanckt/ vnd ſolle dieſer Frieden zu <hi rend="#aq">Aſti</hi> vnd Alexandria
                <lb facs="#facs_3_r4l4"/>vff <date when="1617-09-12">12 diß</date> publicirt worden ſein.</p>
                </div>
-               <div type="jCorrespondence" n="6" xml:id="fp_1617_40_6">
+               <div type="jCorrespondence" n="6" xml:id="fp_1617_40-6">
                   <head facs="#facs_3_r5">
                      <lb facs="#facs_3_r5l1"/>Auß <rs type="place" key="Q1085">Prag</rs> vom <date when="1617-09-03">3. Ditto</date>.</head>
                   <p facs="#facs_3_r6">
                      <lb facs="#facs_3_r6l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_6_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_6_1">Geſtern ſeind</seg> jre Keyſ. May. von Brandeiß wider alhier angelangt/ vnnd <hi rend="#aq">dato</hi>
+                     <milestone unit="article" xml:id="fp_1617_40-6_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-6_1">Geſtern ſeind</seg> jre Keyſ. May. von Brandeiß wider alhier angelangt/ vnnd <hi rend="#aq">dato</hi>
                      <lb facs="#facs_3_r6l2"/>publicirt worden/ daß ſie den <date when="1616-09-21">21. diß</date> nacher Wien vnnd Newſtatt auffbrechen wer-
                <lb facs="#facs_3_r6l3"/>den die Furierer ſeind voran/ vnd bereit Gutſchen vnd Fuhrleuth von Wien vnd
                <lb facs="#facs_3_r6l4"/>Newſtatt hieher beſchrieben.</p>
                </div>
-               <div type="jCorrespondence" n="7" xml:id="fp_1617_40_7">
+               <div type="jCorrespondence" n="7" xml:id="fp_1617_40-7">
                   <head facs="#facs_3_r7">
                      <lb facs="#facs_3_r7l1"/>Auß deß <rs type="place" key="Q36600">Grauenhage</rs> vom <date when="1617-10-05">5. October</date>.</head>
                   <p facs="#facs_3_r8">
                      <lb facs="#facs_3_r8l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_7_1">Auß <rs type="place">Franckreich</rs> hat man/</seg> dz der Koͤnig võ Spaniſchen Geſandten eine ſchrifft-
+                     <milestone unit="article" xml:id="fp_1617_40-7_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-7_1">Auß <rs type="place">Franckreich</rs> hat man/</seg> dz der Koͤnig võ Spaniſchen Geſandten eine ſchrifft-
                <lb facs="#facs_3_r8l2"/>liche Erklerung bekem̃en/ dz nemlich der Koͤnig von Spania luſt zum Frieden habe/
                <lb facs="#facs_3_r8l3"/>alles was eingenommen/ reſtituiren wolle/ dofern Sau<supplied>o</supplied>ia den vergleich vor <hi rend="#aq">
                         <supplied>A</supplied>ſti</hi> vn-
@@ -1088,44 +1088,44 @@
                <lb facs="#facs_3_r8l15"/>vnd iſt alſo der Koͤnig in Franckreich Buͤrge fuͤr einen vn<supplied>d</supplied> andern theil.</p>
                   <p facs="#facs_3_r9">
                      <lb facs="#facs_3_r9l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_2" n="2"/>
-                     <seg type="intro" corresp="fp_1617_40_7_2">So wirdt auch bericht/</seg> dz vnlengſt bey hellem tage/ zu der Fleſche/ eine Veſtung in
+                     <milestone unit="article" xml:id="fp_1617_40-7_2" n="2"/>
+                     <seg type="intro" corresp="fp_1617_40-7_2">So wirdt auch bericht/</seg> dz vnlengſt bey hellem tage/ zu der Fleſche/ eine Veſtung in
                <lb facs="#facs_3_r9l2"/>der Picardey/ in der Jeſiuiter Kirchen/ mitten vnder der Meſſe/ ein ploͤtzlich groß ge-
                <lb facs="#facs_3_r9l3"/>ruͤmpel/ als wie von ein hauffen Rüſtwaͤgen/ vnd Karren g<supplied>eh</supplied>oͤrt/ darauff ein geſpenſt</p>
                   <pb facs="#facs_4"
                       n="4"
-                      corresp="https://brema.suub.uni-bremen.de/zeitungen17/periodical/zoom/904372"/>
+                      corresp="https://brema.suub.uni-bremen.de/i3f/v20/904372/full/max/0/default.jpg"/>
                   <p facs="#facs_4_r1">
                      <lb facs="#facs_4_r1l1"/>in der Kirchen erſchienen wie ein menſch/ doch ſonder Heubt/ der gantze Hals in Blut
                <lb facs="#facs_4_r1l2"/>die Fuͤß/ vnd Schenckel in Fewer/ ſol etliche wort geſprochen/ vnd alſo groſſes ſchre-
                <lb facs="#facs_4_r1l3"/>cken vervrſacht haben.</p>
                   <p facs="#facs_4_r2">
                      <lb facs="#facs_4_r2l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_3" n="3"/>
-                     <seg type="intro" corresp="fp_1617_40_7_3">Auß <rs type="place">Engellandt</rs> haben wir/</seg> daß ſelbiger Koͤnig/ vff begehren deß Venediſchen
+                     <milestone unit="article" xml:id="fp_1617_40-7_3" n="3"/>
+                     <seg type="intro" corresp="fp_1617_40-7_3">Auß <rs type="place">Engellandt</rs> haben wir/</seg> daß ſelbiger Koͤnig/ vff begehren deß Venediſchen
                <lb facs="#facs_4_r2l2"/>Amb. ſich nun alſo reſoluirt/ der Herꝛſchafft in 6. oder 7000. Mañ zuhuͤlff zuſchickẽ/
                <lb facs="#facs_4_r2l3"/>ob nun dieſe/ wie auch dz Lewenſteiniſche Volck noch abfahren werden/ iſt vnbewuſt.</p>
                   <p facs="#facs_4_r3">
                      <lb facs="#facs_4_r3l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_4" n="4"/>
-                     <seg type="intro" corresp="fp_1617_40_7_4">Es wirdt von den Brabendiſchen/</seg> vñ Oberquartiren noch beſtettiget/ dz die Spa-
+                     <milestone unit="article" xml:id="fp_1617_40-7_4" n="4"/>
+                     <seg type="intro" corresp="fp_1617_40-7_4">Es wirdt von den Brabendiſchen/</seg> vñ Oberquartiren noch beſtettiget/ dz die Spa-
                <lb facs="#facs_4_r3l2"/>niſche der Enden groſſe Kriegs Bereitſchafften machen/ deren/ zu Berck ſchon etli-
                <lb facs="#facs_4_r3l3"/>che 1000. vber Rein geſetzt/ vm̃ die Sequeſtratiõ der Guͤligiſchẽ Landtẽ vorzunehmẽ.</p>
                   <p facs="#facs_4_r4">
                      <lb facs="#facs_4_r4l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_5" n="5"/>
-                     <seg type="intro" corresp="fp_1617_40_7_5">Die <rs type="person">Fraw Graͤum von Hanau</rs>/</seg> iſt jetzt mit beyden Frewlein zu Amſterdam den
+                     <milestone unit="article" xml:id="fp_1617_40-7_5" n="5"/>
+                     <seg type="intro" corresp="fp_1617_40-7_5">Die <rs type="person">Fraw Graͤum von Hanau</rs>/</seg> iſt jetzt mit beyden Frewlein zu Amſterdam den
                <lb facs="#facs_4_r4l2"/>Rath daſelbſt zubeſuchen/ vnd die Statt zubeſehen/ alda ſie gar herꝛlich empfangen/
                <lb facs="#facs_4_r4l3"/>tractirt/ vnd verehrt worden.</p>
                   <p facs="#facs_4_r5">
                      <lb facs="#facs_4_r5l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_6" n="6"/>
-                     <seg type="intro" corresp="fp_1617_40_7_6">Deß Grauen von Oldenburgs Geſandten ſeindt</seg> mit guten Contento wider nach Hauß
+                     <milestone unit="article" xml:id="fp_1617_40-7_6" n="6"/>
+                     <seg type="intro" corresp="fp_1617_40-7_6">Deß Grauen von Oldenburgs Geſandten ſeindt</seg> mit guten Contento wider nach Hauß
                <lb facs="#facs_4_r5l2"/>verreiſt.</p>
                   <p facs="#facs_4_r6">
                      <lb facs="#facs_4_r6l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_7" n="7"/>
-                     <seg type="intro" corresp="fp_1617_40_7_7">Demnach vnlengſt</seg> etliche von dem Magiſtrat zum Briel wegen der Religion in vnwillen
+                     <milestone unit="article" xml:id="fp_1617_40-7_7" n="7"/>
+                     <seg type="intro" corresp="fp_1617_40-7_7">Demnach vnlengſt</seg> etliche von dem Magiſtrat zum Briel wegen der Religion in vnwillen
                <lb facs="#facs_4_r6l2"/>wider einander gerahten die Buͤrger ſich auch nie am beſten vertragen/ Doch ſambtlich ſich ſtill
                <lb facs="#facs_4_r6l3"/>hielten/ vnd allein vff 20. Septemb. warteten/ vff welche zeit man einen newen Raht/ vnd Ma-
                <lb facs="#facs_4_r6l4"/>giſtrat zuwwehlen pfleget/ haben S Exc neben dero herꝛn Bruͤdern Printz Heinrichen/ wie auch
@@ -1142,29 +1142,29 @@
                <lb facs="#facs_4_r6l15"/>Printz Heinrich von Delf<supplied>f</supplied>t da<supplied>hi</supplied>n gelegt worden.</p>
                   <p facs="#facs_4_r7">
                      <lb facs="#facs_4_r7l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_7_8" n="8"/>
-                     <seg type="intro" corresp="fp_1617_40_7_8">Der Magiſtrat zu <rs type="place">Harlem</rs>
+                     <milestone unit="article" xml:id="fp_1617_40-7_8" n="8"/>
+                     <seg type="intro" corresp="fp_1617_40-7_8">Der Magiſtrat zu <rs type="place">Harlem</rs>
                         <supplied>h</supplied>at</seg> abermals geweigert/ die Pœ<supplied>u</supplied>al Mandat/ von hieſigen hohen
                <lb facs="#facs_4_r7l2"/>Hoffgericht/ wegen wider Ein<supplied>n</supplied>ehmung deß außgeſsagten Buͤrgers zu pariren/ ſondern denſelben
                <lb facs="#facs_4_r7l3"/>noch darneben/ in 100 Pf. flem<supplied>iſ</supplied>ch condenirt/ derwegen dañ dieſer ſachen/ vñ der Vtrechtiſchen
                <lb facs="#facs_4_r7l4"/>Volck werbung halben/ weil <supplied>m</supplied>an ſich ſo wol daſelbſt/ als zu Lendẽ verwegert/ ſolche einzuſtellen
                <lb facs="#facs_4_r7l5"/>alhie fleiſſig gerahtſchlagt w<supplied>ir</supplied>dt/ wie ſolchem zubegegnen/ vñ ſolle S. Exc. egegen 10 diß/ vff wel-
                <lb facs="#facs_4_r7l6"/>che zeit der Magiſtrat auch e<supplied>r</supplied>newert wird/ ſich in Perſohn dahin; zuverfuͤgen/ Reſoluirt haben/
-               <lb facs="#facs_4_r7l7"/>Immittelſt halten die newe Soldaten mit den alten die wacht <milestone unit="article" xml:id="fp_1617_40_7_9" n="9"/>
-                     <seg type="intro" corresp="fp_1617_40_7_9">Zu Amſterdam/</seg> wie auch in
+               <lb facs="#facs_4_r7l7"/>Immittelſt halten die newe Soldaten mit den alten die wacht <milestone unit="article" xml:id="fp_1617_40-7_9" n="9"/>
+                     <seg type="intro" corresp="fp_1617_40-7_9">Zu Amſterdam/</seg> wie auch in
                <lb facs="#facs_4_r7l8"/>Seelandt werden 6.oder 7. Schiff zugeruͤſtet/ ſo nach Oſt Jndien fahren ſollen/ deßgleichen wirt
                <lb facs="#facs_4_r7l9"/>noch ein groſſes nach Guinea <supplied>a</supplied>ußgeruͤſtet/ die Veſtung alda mit allerley <choice>
                         <corr>notturfft</corr>
                         <sic>notturffr</sic>
                      </choice> zuverſorgen.</p>
                </div>
-               <div type="jCorrespondence" n="8" xml:id="fp_1617_40_8">
+               <div type="jCorrespondence" n="8" xml:id="fp_1617_40-8">
                   <head facs="#facs_4_r8">
                      <lb facs="#facs_4_r8l1"/>Auß <rs type="place" key="Q365">Coͤlln</rs> vom <date when="1617-10-12">12. Ditto</date>.</head>
                   <p facs="#facs_4_r9">
                      <lb facs="#facs_4_r9l1"/>
-                     <milestone unit="article" xml:id="fp_1617_40_8_1" n="1"/>
-                     <seg type="intro" corresp="fp_1617_40_8_1">Deß <rs type="person">Grauen von Fuͤrſt<supplied>en</supplied>berg</rs>/</seg> vnd herꝛn von Anholt Volck verhelt ſich noch im ſtifft Trier/
+                     <milestone unit="article" xml:id="fp_1617_40-8_1" n="1"/>
+                     <seg type="intro" corresp="fp_1617_40-8_1">Deß <rs type="person">Grauen von Fuͤrſt<supplied>en</supplied>berg</rs>/</seg> vnd herꝛn von Anholt Volck verhelt ſich noch im ſtifft Trier/
                <lb facs="#facs_4_r9l2"/>vnd wirdt dieſer Orth fuͤr <supplied>g</supplied>ewiß berichtet/ das ſie wider abgedanckt werden/ auch vorhabens
                <lb facs="#facs_4_r9l3"/>ſein/ jren zuruͤck zug/ durch <gap/>eſe Landt widerumb zunehmen/ weilen ſie aber am nehern ſich faſt
                <lb facs="#facs_4_r9l4"/>vbel gehalten/ die arme Le<supplied>ut</supplied>h geſchlagen/ geſtoſſen/ vñ gebrandtſchetz/ vnd andern muthwillen
@@ -1181,6 +1181,1542 @@
                   <hi rend="#g">ENDE</hi>.
             </trailer>
             </div>
+         </body>
+      </text>
+   </TEI>
+   <TEI type="calendar" xml:id="fp_1617_cal">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Kalender für die Frankfurter Postzeitung, Jg. 1617</title>
+               <respStmt>
+                  <persName>Fabian Peters </persName>
+                  <resp>Transformationsskripte</resp>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>
+                  <orgName role="project" xml:lang="de">Praxisseminar Quellenerschließung</orgName>
+                  <email>sahle@uni-wuppertal.de</email>
+                  <address>
+                     <addrLine>Gaußstr. 20, 42119 Wuppertal</addrLine>
+                     <country>Germany</country>
+                  </address>
+               </publisher>
+               <pubPlace>Wuppertal</pubPlace>
+               <date type="publication">2026</date>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de"/>
+               </availability>
+               <idno/>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Generiert aus den Transkriptionsdaten der Frankfurter Postzeitung, Jg. 1617</p>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <editorialDecl>
+               <p>Long S (Source uses long "s"): Long s is transcribed as "ſ" U+017F "Latin small letter long s"</p>
+               <p>u and v (Source uses v for u): Transcribed as in source</p>
+               <p>i and j (Source uses "i" and "j" differently to modern spelling): Transcribed as in source</p>
+               <p>Ligature "sz" ("sz" is set as ligature): Transcribed as "sz"</p>
+               <p>Text regions (Regions which contain handwritten text): Manually corrected</p>
+               <p>Line Regions (Contain the text of line): Automatically created</p>
+               <p>Baselines (The baseline is defined as in Wikipedia - characters are "sitting" on the baseline): Manually corrected</p>
+               <p>Omitted text (Even in diplomatic transcriptions the editor may decide to not transcribe specific notes or marginalia which do not contribute to the overall objective of the transcription): No text was omitted</p>
+               <p>Person names (Tagging of person names): Person names were tagged</p>
+               <p>Geo-Names (Tagging of geo-names): Geo-names were tagged</p>
+               <p>Abbreviations - common (Common abbreviations are usually known to most readers of a text, for example: e.g., i.e., &amp;, etc.): Common abbreviations were not expanded</p>
+               <p>Abbreviations (Especially in medieval texts and early modern handwritting many words are abbreviated, or even characters are left out in the middle of a word. These abbreviations often need deep grammatical understanding to be correctly expanded.): Abbreviations were not marked</p>
+            </editorialDecl>
+         </encodingDesc>
+      </teiHeader>
+      <text>
+         <body>
+            <table type="month" n="1" rows="6" cols="7">
+               <head>Januar</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="0">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+               </row>
+               <row role="data" n="1">
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+               </row>
+               <row role="data" n="2">
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+               </row>
+               <row role="data" n="3">
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+               </row>
+               <row role="data" n="4">
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+               </row>
+               <row role="data" n="5">
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="2" rows="5" cols="7">
+               <head>Februar</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="5">
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+               </row>
+               <row role="data" n="6">
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+               </row>
+               <row role="data" n="7">
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+               </row>
+               <row role="data" n="8">
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+               </row>
+               <row role="data" n="9">
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="3" rows="5" cols="7">
+               <head>März</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="9">
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+               </row>
+               <row role="data" n="10">
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+               </row>
+               <row role="data" n="11">
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+               </row>
+               <row role="data" n="12">
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+               </row>
+               <row role="data" n="13">
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="4" rows="5" cols="7">
+               <head>April</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="13">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+               </row>
+               <row role="data" n="14">
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+               </row>
+               <row role="data" n="15">
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+               </row>
+               <row role="data" n="16">
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+               </row>
+               <row role="data" n="17">
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+               </row>
+            </table>
+            <table type="month" n="5" rows="5" cols="7">
+               <head>Mai</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="18">
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+               </row>
+               <row role="data" n="19">
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+               </row>
+               <row role="data" n="20">
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+               </row>
+               <row role="data" n="21">
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+               </row>
+               <row role="data" n="22">
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="6" rows="5" cols="7">
+               <head>Juni</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="22">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+               </row>
+               <row role="data" n="23">
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+               </row>
+               <row role="data" n="24">
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+               </row>
+               <row role="data" n="25">
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+               </row>
+               <row role="data" n="26">
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="7" rows="6" cols="7">
+               <head>Juli</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="26">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+               </row>
+               <row role="data" n="27">
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+               </row>
+               <row role="data" n="28">
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+               </row>
+               <row role="data" n="29">
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+               </row>
+               <row role="data" n="30">
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+               </row>
+               <row role="data" n="31">
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="8" rows="5" cols="7">
+               <head>August</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="31">
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+               </row>
+               <row role="data" n="32">
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+               </row>
+               <row role="data" n="33">
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+               </row>
+               <row role="data" n="34">
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+               </row>
+               <row role="data" n="35">
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="9" rows="5" cols="7">
+               <head>September</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="35">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-09-03">3</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-6">Prag</ref>
+                        </item>
+                     </list>
+                  </cell>
+               </row>
+               <row role="data" n="36">
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+               </row>
+               <row role="data" n="37">
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+               </row>
+               <row role="data" n="38">
+                  <cell role="data">
+                     <date when="1617-09-18">18</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-1"/>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-09-23">23</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-3">Rom</ref>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-09-24">24</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-4"/>
+                        </item>
+                     </list>
+                  </cell>
+               </row>
+               <row role="data" n="39">
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-09-27">27</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-2">Wien</ref>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-09-30">30</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-5">Venedig</ref>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="10" rows="6" cols="7">
+               <head>Oktober</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="39">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+               </row>
+               <row role="data" n="40">
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-10-05">5</date>
+                     <list>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-7">Den Haag</ref>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+               </row>
+               <row role="data" n="41">
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date when="1617-10-12">12</date>
+                     <list>
+                        <item>
+                           <ref type="issue" target="fp_1617_40">Ausgabe 40</ref>
+                        </item>
+                        <item>
+                           <ref type="cor" target="fp_1617_40-8">Köln</ref>
+                        </item>
+                     </list>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+               </row>
+               <row role="data" n="42">
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+               </row>
+               <row role="data" n="43">
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+               </row>
+               <row role="data" n="44">
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="11" rows="5" cols="7">
+               <head>November</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="44">
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+               </row>
+               <row role="data" n="45">
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+               </row>
+               <row role="data" n="46">
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+               </row>
+               <row role="data" n="47">
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+               </row>
+               <row role="data" n="48">
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <table type="month" n="12" rows="5" cols="7">
+               <head>Dezember</head>
+               <row role="label">
+                  <cell role="data">Mo</cell>
+                  <cell role="data">Di</cell>
+                  <cell role="data">Mi</cell>
+                  <cell role="data">Do</cell>
+                  <cell role="data">Fr</cell>
+                  <cell role="data">Sa</cell>
+                  <cell role="data">So</cell>
+               </row>
+               <row role="data" n="48">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell role="data">
+                     <date>1</date>
+                  </cell>
+                  <cell role="data">
+                     <date>2</date>
+                  </cell>
+                  <cell role="data">
+                     <date>3</date>
+                  </cell>
+               </row>
+               <row role="data" n="49">
+                  <cell role="data">
+                     <date>4</date>
+                  </cell>
+                  <cell role="data">
+                     <date>5</date>
+                  </cell>
+                  <cell role="data">
+                     <date>6</date>
+                  </cell>
+                  <cell role="data">
+                     <date>7</date>
+                  </cell>
+                  <cell role="data">
+                     <date>8</date>
+                  </cell>
+                  <cell role="data">
+                     <date>9</date>
+                  </cell>
+                  <cell role="data">
+                     <date>10</date>
+                  </cell>
+               </row>
+               <row role="data" n="50">
+                  <cell role="data">
+                     <date>11</date>
+                  </cell>
+                  <cell role="data">
+                     <date>12</date>
+                  </cell>
+                  <cell role="data">
+                     <date>13</date>
+                  </cell>
+                  <cell role="data">
+                     <date>14</date>
+                  </cell>
+                  <cell role="data">
+                     <date>15</date>
+                  </cell>
+                  <cell role="data">
+                     <date>16</date>
+                  </cell>
+                  <cell role="data">
+                     <date>17</date>
+                  </cell>
+               </row>
+               <row role="data" n="51">
+                  <cell role="data">
+                     <date>18</date>
+                  </cell>
+                  <cell role="data">
+                     <date>19</date>
+                  </cell>
+                  <cell role="data">
+                     <date>20</date>
+                  </cell>
+                  <cell role="data">
+                     <date>21</date>
+                  </cell>
+                  <cell role="data">
+                     <date>22</date>
+                  </cell>
+                  <cell role="data">
+                     <date>23</date>
+                  </cell>
+                  <cell role="data">
+                     <date>24</date>
+                  </cell>
+               </row>
+               <row role="data" n="52">
+                  <cell role="data">
+                     <date>25</date>
+                  </cell>
+                  <cell role="data">
+                     <date>26</date>
+                  </cell>
+                  <cell role="data">
+                     <date>27</date>
+                  </cell>
+                  <cell role="data">
+                     <date>28</date>
+                  </cell>
+                  <cell role="data">
+                     <date>29</date>
+                  </cell>
+                  <cell role="data">
+                     <date>30</date>
+                  </cell>
+                  <cell role="data">
+                     <date>31</date>
+                  </cell>
+               </row>
+            </table>
          </body>
       </text>
    </TEI>
